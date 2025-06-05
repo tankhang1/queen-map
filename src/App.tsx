@@ -1,11 +1,4 @@
-import {
-  MapContainer,
-  TileLayer,
-  GeoJSON,
-  Marker,
-  Popup,
-  Pane,
-} from "react-leaflet";
+import { MapContainer, TileLayer, GeoJSON, Pane } from "react-leaflet";
 import { useEffect, useState } from "react";
 import {
   Card,
@@ -25,6 +18,7 @@ import AutoCompleteSearch from "./components/AutoCompleteSearch";
 import { useDisclosure } from "@mantine/hooks";
 import { FaChartBar } from "react-icons/fa";
 import ReportModal from "./components/Report";
+import ZoomListener from "./components/ZoomListener";
 
 interface LayerConfig {
   key: string;
@@ -53,10 +47,10 @@ export default function FarmMap() {
   const [data, setData] = useState<Record<string, GeoJsonObject>>({});
   const [plantFeatures, setPlantFeatures] = useState<Feature<Point>[]>([]);
   const [visibleLayers, setVisibleLayers] = useState<Record<string, boolean>>({
-    zone: true,
+    zone: false,
     area: true,
-    plot: true,
-    row: true,
+    plot: false,
+    row: false,
     plant: false,
   });
 
@@ -83,51 +77,93 @@ export default function FarmMap() {
     setVisibleLayers((prev) => ({ ...prev, [key]: !prev[key] }));
   };
 
-  function getRelatedInfo(key: string, id: string | number): unknown[] {
-    const features =
-      //@ts-expect-error no check
-      key === "plant" ? plantFeatures : data[key]?.features || [];
-    return features.filter(
-      (f: {
-        properties: {
-          plotId: string;
-          rowId: string;
-          areaId: string;
-          zoneId: string;
-        };
-      }) => {
-        if (key === "row") return f.properties?.plotId == id;
-        if (key === "plant") return f.properties?.rowId == id;
-        if (key === "plot") return f.properties?.areaId == id;
-        if (key === "area") return f.properties?.zoneId == id;
-        return false;
-      }
-    );
-  }
+  const onZoomChange = (value: number) => {
+    if (value === 16) {
+      setVisibleLayers({
+        zone: true,
+        area: false,
+        plot: false,
+        row: false,
+        plant: false,
+      });
+      return;
+    }
+    if (value === 17) {
+      setVisibleLayers({
+        zone: false,
+        area: true,
+        plot: false,
+        row: false,
+        plant: false,
+      });
+      return;
+    }
+    if (value === 18) {
+      setVisibleLayers({
+        zone: false,
+        area: false,
+        plot: true,
+        row: false,
+        plant: false,
+      });
+      return;
+    }
+    if (value === 19) {
+      setVisibleLayers({
+        zone: false,
+        area: false,
+        plot: true,
+        row: true,
+        plant: false,
+      });
+      return;
+    }
+    setVisibleLayers({
+      zone: false,
+      area: false,
+      plot: false,
+      row: false,
+      plant: true,
+    });
+    setTimeout(() => {
+      setVisibleLayers({
+        zone: false,
+        area: false,
+        plot: true,
+        row: false,
+        plant: true,
+      });
+    }, 500);
+  };
 
   return (
     <>
       <MapContainer
         preferCanvas
         center={[11.553203605968022, 107.12999664743181]}
-        maxZoom={18}
+        maxZoom={20}
         zoom={18}
         zoomControl={false}
+        zoomSnap={1}
+        minZoom={16}
+        boxZoom={false}
         style={{ height: "100dvh", width: "100dvw" }}
       >
+        <ZoomListener onChange={onZoomChange} />
         <TileLayer
           attribution='Tiles &copy; <a href="https://www.esri.com/">Yis</a> & contributors'
           url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
         />
-        {/* <Marker position={[11.553203605968022, 107.12999664743181]}>
-          <Popup>Queen Farm</Popup>
-        </Marker> */}
 
         {LAYERS.map(
           ({ key, color, fill, label }) =>
             visibleLayers[key] &&
             data[key] && (
-              <Pane key={key} name={key}>
+              <Pane
+                key={key}
+                name={key}
+                style={visibleLayers.plant ? { zIndex: 100 } : {}}
+              >
                 <GeoJSON
                   data={data[key]}
                   style={() => ({
@@ -139,23 +175,7 @@ export default function FarmMap() {
                   })}
                   onEachFeature={(feature: Feature, layer) => {
                     const props = feature.properties || {};
-                    let content = `<b>${label}:</b> ${props.name || "N/A"}`;
-
-                    if (key === "area") {
-                      const plots = getRelatedInfo("plot", props.id);
-                      content += `<br/><b>Số lô:</b> ${plots.length}`;
-                    }
-                    if (key === "plot") {
-                      const rows = getRelatedInfo("row", props.id);
-                      content += `<br/><b>Số hàng:</b> ${rows.length}`;
-                    }
-
-                    if (key === "row") {
-                      const plants = getRelatedInfo("plant", props.id);
-                      console.log("plant", plants.length, props.id);
-
-                      content += `<br/><b>Số cây:</b> ${plants.length}`;
-                    }
+                    const content = `<b>${label}:</b> ${props.name || "N/A"}`;
 
                     layer.bindPopup(content);
                   }}
@@ -164,14 +184,14 @@ export default function FarmMap() {
             )
         )}
 
-        {visibleLayers.plant && (
-          <Pane name="plant" style={{ zIndex: 800 }}>
+        {visibleLayers.plant && plantFeatures?.length > 0 && (
+          <Pane name="plant" style={{ zIndex: 999 }}>
             <GeoJSON
               key="plant-layer"
               data={{
                 type: "FeatureCollection",
                 // @ts-expect-error no check
-                features: plantFeatures,
+                features: plantFeatures as Feature[],
               }}
               pointToLayer={(feature, latlng) => {
                 const name = feature.properties?.name || "";

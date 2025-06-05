@@ -56,8 +56,8 @@
         ]
       },
       "properties": {
-        "id": 1,
-        "name": "Khu v\u1ef1c A",
+        "id": 100828526680211457,
+        "name": "Khu vực A",
         "zoneId": 1
       }
     },
@@ -100,8 +100,8 @@
         ]
       },
       "properties": {
-        "id": 2,
-        "name": "Khu v\u1ef1c B",
+        "id": 100828526680211458,
+        "name": "Khu vực B",
         "zoneId": 1
       }
     },
@@ -132,8 +132,8 @@
         ]
       },
       "properties": {
-        "id": 3,
-        "name": "Khu v\u1ef1c C",
+        "id": 100828526680211459,
+        "name": "Khu vực C",
         "zoneId": 1
       }
     },
@@ -178,8 +178,8 @@
         ]
       },
       "properties": {
-        "id": 4,
-        "name": "Khu v\u1ef1c d",
+        "id": 100828526680211460,
+        "name": "Khu vực D",
         "zoneId": 1
       }
     }

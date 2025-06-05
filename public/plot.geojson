@@ -25,9 +25,9 @@
         ]
       },
       "properties": {
-        "id": 1,
-        "name": "L\u00f4 01",
-        "areaId": 1
+        "id": 100828526680211461,
+        "name": "Lô 01",
+        "areaId": "A"
       }
     },
     {
@@ -57,9 +57,9 @@
         ]
       },
       "properties": {
-        "id": 2,
-        "name": "L\u00f4 02",
-        "areaId": 1
+        "id": 100828526680211462,
+        "name": "Lô 02",
+        "areaId": "A"
       }
     },
     {
@@ -80,9 +80,9 @@
         ]
       },
       "properties": {
-        "id": 3,
-        "name": "L\u00f4 03",
-        "areaId": 1
+        "id": 100828526680211463,
+        "name": "Lô 03",
+        "areaId": "A"
       }
     },
     {
@@ -103,9 +103,9 @@
         ]
       },
       "properties": {
-        "id": 4,
-        "name": "L\u00f4 04",
-        "areaId": 1
+        "id": 100828526680211464,
+        "name": "Lô 04",
+        "areaId": "A"
       }
     },
     {
@@ -126,9 +126,9 @@
         ]
       },
       "properties": {
-        "id": 5,
-        "name": "L\u00f4 05",
-        "areaId": 1
+        "id": 100828526680211465,
+        "name": "Lô 05",
+        "areaId": "A"
       }
     },
     {
@@ -146,9 +146,9 @@
         ]
       },
       "properties": {
-        "id": 6,
-        "name": "L\u00f4 06",
-        "areaId": 1
+        "id": 100828526680211466,
+        "name": "Lô 06",
+        "areaId": "A"
       }
     },
     {
@@ -166,9 +166,9 @@
         ]
       },
       "properties": {
-        "id": 7,
-        "name": "L\u00f4 07",
-        "areaId": 1
+        "id": 100828526680211467,
+        "name": "Lô 07",
+        "areaId": "A"
       }
     },
     {
@@ -191,9 +191,9 @@
         ]
       },
       "properties": {
-        "id": 8,
-        "name": "L\u00f4 08",
-        "areaId": 1
+        "id": 100828526680211468,
+        "name": "Lô 08",
+        "areaId": "A"
       }
     },
     {
@@ -218,9 +218,9 @@
         ]
       },
       "properties": {
-        "id": 9,
-        "name": "L\u00f4 09",
-        "areaId": 1
+        "id": 100828526680211469,
+        "name": "Lô 09",
+        "areaId": "A"
       }
     },
     {
@@ -241,9 +241,9 @@
         ]
       },
       "properties": {
-        "id": 10,
-        "name": "L\u00f4 10",
-        "areaId": 1
+        "id": 100828526680211470,
+        "name": "Lô 10",
+        "areaId": "A"
       }
     },
     {
@@ -277,9 +277,9 @@
         ]
       },
       "properties": {
-        "id": 11,
-        "name": "L\u00f4 01",
-        "areaId": 2
+        "id": 100828526680211471,
+        "name": "Lô 01",
+        "areaId": "B"
       }
     },
     {
@@ -322,9 +322,9 @@
         ]
       },
       "properties": {
-        "id": 12,
-        "name": "L\u00f4 02",
-        "areaId": 2
+        "id": 100828526680211472,
+        "name": "Lô 02",
+        "areaId": "B"
       }
     },
     {
@@ -349,9 +349,9 @@
         ]
       },
       "properties": {
-        "id": 13,
-        "name": "L\u00f4 03",
-        "areaId": 2
+        "id": 100828526680211473,
+        "name": "Lô 03",
+        "areaId": "B"
       }
     },
     {
@@ -370,9 +370,9 @@
         ]
       },
       "properties": {
-        "id": 14,
-        "name": "L\u00f4 04",
-        "areaId": 2
+        "id": 100828526680211474,
+        "name": "Lô 04",
+        "areaId": "B"
       }
     },
     {
@@ -403,9 +403,9 @@
         ]
       },
       "properties": {
-        "id": 15,
-        "name": "L\u00f4 05",
-        "areaId": 2
+        "id": 100828526680211475,
+        "name": "Lô 05",
+        "areaId": "B"
       }
     },
     {
@@ -427,9 +427,9 @@
         ]
       },
       "properties": {
-        "id": 16,
-        "name": "L\u00f4 01",
-        "areaId": 3
+        "id": 100828526680211476,
+        "name": "Lô 01",
+        "areaId": "C"
       }
     },
     {
@@ -450,9 +450,9 @@
         ]
       },
       "properties": {
-        "id": 17,
-        "name": "L\u00f4 02",
-        "areaId": 3
+        "id": 100828526680211477,
+        "name": "Lô 02",
+        "areaId": "C"
       }
     },
     {
@@ -470,9 +470,9 @@
         ]
       },
       "properties": {
-        "id": 18,
-        "name": "L\u00f4 03",
-        "areaId": 3
+        "id": 100828526680211478,
+        "name": "Lô 03",
+        "areaId": "C"
       }
     },
     {
@@ -493,9 +493,9 @@
         ]
       },
       "properties": {
-        "id": 19,
-        "name": "L\u00f4 04",
-        "areaId": 3
+        "id": 100828526680211479,
+        "name": "Lô 04",
+        "areaId": "C"
       }
     },
     {
@@ -516,9 +516,9 @@
         ]
       },
       "properties": {
-        "id": 20,
-        "name": "L\u00f4 05",
-        "areaId": 3
+        "id": 100828526680211480,
+        "name": "Lô 05",
+        "areaId": "C"
       }
     },
     {
@@ -547,9 +547,9 @@
         ]
       },
       "properties": {
-        "id": 21,
-        "name": "L\u00f4 01",
-        "areaId": 4
+        "id": 100828526680211481,
+        "name": "Lô 01",
+        "areaId": "D"
       }
     },
     {
@@ -582,9 +582,9 @@
         ]
       },
       "properties": {
-        "id": 22,
-        "name": "L\u00f4 02",
-        "areaId": 4
+        "id": 100828526680211482,
+        "name": "Lô 02",
+        "areaId": "D"
       }
     },
     {
@@ -612,9 +612,9 @@
         ]
       },
       "properties": {
-        "id": 23,
-        "name": "L\u00f4 03",
-        "areaId": 4
+        "id": 100828526680211483,
+        "name": "Lô 03",
+        "areaId": "D"
       }
     },
     {
@@ -632,9 +632,9 @@
         ]
       },
       "properties": {
-        "id": 24,
-        "name": "L\u00f4 04",
-        "areaId": 4
+        "id": 100828526680211484,
+        "name": "Lô 04",
+        "areaId": "D"
       }
     },
     {
@@ -652,9 +652,9 @@
         ]
       },
       "properties": {
-        "id": 25,
-        "name": "L\u00f4 05",
-        "areaId": 4
+        "id": 100828526680211485,
+        "name": "Lô 05",
+        "areaId": "D"
       }
     },
     {
@@ -677,9 +677,9 @@
         ]
       },
       "properties": {
-        "id": 26,
-        "name": "L\u00f4 06",
-        "areaId": 4
+        "id": 100828526680211486,
+        "name": "Lô 06",
+        "areaId": "D"
       }
     },
     {
@@ -699,9 +699,9 @@
         ]
       },
       "properties": {
-        "id": 27,
-        "name": "L\u00f4 07",
-        "areaId": 4
+        "id": 100828526680211487,
+        "name": "Lô 07",
+        "areaId": "D"
       }
     },
     {
@@ -725,9 +725,9 @@
         ]
       },
       "properties": {
-        "id": 28,
-        "name": "L\u00f4 08",
-        "areaId": 4
+        "id": 100828526680211488,
+        "name": "Lô 08",
+        "areaId": "D"
       }
     },
     {
@@ -745,9 +745,9 @@
         ]
       },
       "properties": {
-        "id": 29,
-        "name": "L\u00f4 09",
-        "areaId": 4
+        "id": 100828526680211489,
+        "name": "Lô 09",
+        "areaId": "D"
       }
     },
     {
@@ -789,9 +789,9 @@
         ]
       },
       "properties": {
-        "id": 30,
-        "name": "L\u00f4 10",
-        "areaId": 4
+        "id": 100828526680211490,
+        "name": "Lô 10",
+        "areaId": "D"
       }
     }
   ]

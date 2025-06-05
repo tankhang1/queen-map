@@ -18,9 +18,9 @@
         ]
       },
       "properties": {
-        "id": 1,
-        "name": "H\u00e0ng 01",
-        "plotId": 1
+        "id": 100828526680212460,
+        "name": "Hàng 01",
+        "plotId": "A01"
       }
     },
     {
@@ -64,9 +64,9 @@
         ]
       },
       "properties": {
-        "id": 2,
-        "name": "H\u00e0ng 02",
-        "plotId": 1
+        "id": 100828526680212461,
+        "name": "Hàng 02",
+        "plotId": "A01"
       }
     },
     {
@@ -110,9 +110,9 @@
         ]
       },
       "properties": {
-        "id": 3,
-        "name": "H\u00e0ng 03",
-        "plotId": 1
+        "id": 100828526680212462,
+        "name": "Hàng 03",
+        "plotId": "A01"
       }
     },
     {
@@ -155,9 +155,9 @@
         ]
       },
       "properties": {
-        "id": 4,
-        "name": "H\u00e0ng 04",
-        "plotId": 1
+        "id": 100828526680212463,
+        "name": "Hàng 04",
+        "plotId": "A01"
       }
     },
     {
@@ -198,9 +198,9 @@
         ]
       },
       "properties": {
-        "id": 5,
-        "name": "H\u00e0ng 05",
-        "plotId": 1
+        "id": 100828526680212464,
+        "name": "Hàng 05",
+        "plotId": "A01"
       }
     },
     {
@@ -234,9 +234,9 @@
         ]
       },
       "properties": {
-        "id": 6,
-        "name": "H\u00e0ng 06",
-        "plotId": 1
+        "id": 100828526680212465,
+        "name": "Hàng 06",
+        "plotId": "A01"
       }
     },
     {
@@ -268,9 +268,9 @@
         ]
       },
       "properties": {
-        "id": 7,
-        "name": "H\u00e0ng 07",
-        "plotId": 1
+        "id": 100828526680212466,
+        "name": "Hàng 07",
+        "plotId": "A01"
       }
     },
     {
@@ -298,9 +298,9 @@
         ]
       },
       "properties": {
-        "id": 8,
-        "name": "H\u00e0ng 08",
-        "plotId": 1
+        "id": 100828526680212467,
+        "name": "Hàng 08",
+        "plotId": "A01"
       }
     },
     {
@@ -327,9 +327,9 @@
         ]
       },
       "properties": {
-        "id": 9,
-        "name": "H\u00e0ng 09",
-        "plotId": 1
+        "id": 100828526680212468,
+        "name": "Hàng 09",
+        "plotId": "A01"
       }
     },
     {
@@ -353,9 +353,9 @@
         ]
       },
       "properties": {
-        "id": 10,
-        "name": "H\u00e0ng 10",
-        "plotId": 1
+        "id": 100828526680212469,
+        "name": "Hàng 10",
+        "plotId": "A01"
       }
     },
     {
@@ -378,9 +378,9 @@
         ]
       },
       "properties": {
-        "id": 11,
-        "name": "H\u00e0ng 11",
-        "plotId": 1
+        "id": 100828526680212470,
+        "name": "Hàng 11",
+        "plotId": "A01"
       }
     },
     {
@@ -401,9 +401,9 @@
         ]
       },
       "properties": {
-        "id": 12,
-        "name": "H\u00e0ng 12",
-        "plotId": 1
+        "id": 100828526680212471,
+        "name": "Hàng 12",
+        "plotId": "A01"
       }
     },
     {
@@ -423,9 +423,9 @@
         ]
       },
       "properties": {
-        "id": 13,
-        "name": "H\u00e0ng 13",
-        "plotId": 1
+        "id": 100828526680212472,
+        "name": "Hàng 13",
+        "plotId": "A01"
       }
     },
     {
@@ -443,9 +443,9 @@
         ]
       },
       "properties": {
-        "id": 14,
-        "name": "H\u00e0ng 14",
-        "plotId": 1
+        "id": 100828526680212473,
+        "name": "Hàng 14",
+        "plotId": "A01"
       }
     },
     {
@@ -462,9 +462,9 @@
         ]
       },
       "properties": {
-        "id": 15,
-        "name": "H\u00e0ng 15",
-        "plotId": 1
+        "id": 100828526680212474,
+        "name": "Hàng 15",
+        "plotId": "A01"
       }
     },
     {
@@ -479,9 +479,9 @@
         ]
       },
       "properties": {
-        "id": 16,
-        "name": "H\u00e0ng 16",
-        "plotId": 1
+        "id": 100828526680212475,
+        "name": "Hàng 16",
+        "plotId": "A01"
       }
     },
     {
@@ -495,9 +495,9 @@
         ]
       },
       "properties": {
-        "id": 17,
-        "name": "H\u00e0ng 17",
-        "plotId": 1
+        "id": 100828526680212476,
+        "name": "Hàng 17",
+        "plotId": "A01"
       }
     },
     {
@@ -511,9 +511,9 @@
         ]
       },
       "properties": {
-        "id": 18,
-        "name": "H\u00e0ng 18",
-        "plotId": 1
+        "id": 100828526680212477,
+        "name": "Hàng 18",
+        "plotId": "A01"
       }
     },
     {
@@ -527,9 +527,9 @@
         ]
       },
       "properties": {
-        "id": 19,
-        "name": "H\u00e0ng 19",
-        "plotId": 1
+        "id": 100828526680212478,
+        "name": "Hàng 19",
+        "plotId": "A01"
       }
     },
     {
@@ -543,9 +543,9 @@
         ]
       },
       "properties": {
-        "id": 20,
-        "name": "H\u00e0ng 20",
-        "plotId": 1
+        "id": 100828526680212479,
+        "name": "Hàng 20",
+        "plotId": "A01"
       }
     },
     {
@@ -560,9 +560,9 @@
         ]
       },
       "properties": {
-        "id": 21,
-        "name": "H\u00e0ng 21",
-        "plotId": 1
+        "id": 100828526680212480,
+        "name": "Hàng 21",
+        "plotId": "A01"
       }
     },
     {
@@ -591,9 +591,9 @@
         ]
       },
       "properties": {
-        "id": 22,
-        "name": "H\u00e0ng 01",
-        "plotId": 2
+        "id": 100828526680212481,
+        "name": "Hàng 01",
+        "plotId": "A02"
       }
     },
     {
@@ -622,9 +622,9 @@
         ]
       },
       "properties": {
-        "id": 23,
-        "name": "H\u00e0ng 02",
-        "plotId": 2
+        "id": 100828526680212482,
+        "name": "Hàng 02",
+        "plotId": "A02"
       }
     },
     {
@@ -653,9 +653,9 @@
         ]
       },
       "properties": {
-        "id": 24,
-        "name": "H\u00e0ng 03",
-        "plotId": 2
+        "id": 100828526680212483,
+        "name": "Hàng 03",
+        "plotId": "A02"
       }
     },
     {
@@ -684,9 +684,9 @@
         ]
       },
       "properties": {
-        "id": 25,
-        "name": "H\u00e0ng 04",
-        "plotId": 2
+        "id": 100828526680212484,
+        "name": "Hàng 04",
+        "plotId": "A02"
       }
     },
     {
@@ -715,9 +715,9 @@
         ]
       },
       "properties": {
-        "id": 26,
-        "name": "H\u00e0ng 05",
-        "plotId": 2
+        "id": 100828526680212485,
+        "name": "Hàng 05",
+        "plotId": "A02"
       }
     },
     {
@@ -746,9 +746,9 @@
         ]
       },
       "properties": {
-        "id": 27,
-        "name": "H\u00e0ng 06",
-        "plotId": 2
+        "id": 100828526680212486,
+        "name": "Hàng 06",
+        "plotId": "A02"
       }
     },
     {
@@ -777,9 +777,9 @@
         ]
       },
       "properties": {
-        "id": 28,
-        "name": "H\u00e0ng 07",
-        "plotId": 2
+        "id": 100828526680212487,
+        "name": "Hàng 07",
+        "plotId": "A02"
       }
     },
     {
@@ -808,9 +808,9 @@
         ]
       },
       "properties": {
-        "id": 29,
-        "name": "H\u00e0ng 08",
-        "plotId": 2
+        "id": 100828526680212488,
+        "name": "Hàng 08",
+        "plotId": "A02"
       }
     },
     {
@@ -839,9 +839,9 @@
         ]
       },
       "properties": {
-        "id": 30,
-        "name": "H\u00e0ng 09",
-        "plotId": 2
+        "id": 100828526680212489,
+        "name": "Hàng 09",
+        "plotId": "A02"
       }
     },
     {
@@ -870,9 +870,9 @@
         ]
       },
       "properties": {
-        "id": 31,
-        "name": "H\u00e0ng 10",
-        "plotId": 2
+        "id": 100828526680212490,
+        "name": "Hàng 10",
+        "plotId": "A02"
       }
     },
     {
@@ -901,9 +901,9 @@
         ]
       },
       "properties": {
-        "id": 32,
-        "name": "H\u00e0ng 11",
-        "plotId": 2
+        "id": 100828526680212491,
+        "name": "Hàng 11",
+        "plotId": "A02"
       }
     },
     {
@@ -932,9 +932,9 @@
         ]
       },
       "properties": {
-        "id": 33,
-        "name": "H\u00e0ng 12",
-        "plotId": 2
+        "id": 100828526680212492,
+        "name": "Hàng 12",
+        "plotId": "A02"
       }
     },
     {
@@ -963,9 +963,9 @@
         ]
       },
       "properties": {
-        "id": 34,
-        "name": "H\u00e0ng 13",
-        "plotId": 2
+        "id": 100828526680212493,
+        "name": "Hàng 13",
+        "plotId": "A02"
       }
     },
     {
@@ -994,9 +994,9 @@
         ]
       },
       "properties": {
-        "id": 35,
-        "name": "H\u00e0ng 14",
-        "plotId": 2
+        "id": 100828526680212494,
+        "name": "Hàng 14",
+        "plotId": "A02"
       }
     },
     {
@@ -1025,9 +1025,9 @@
         ]
       },
       "properties": {
-        "id": 36,
-        "name": "H\u00e0ng 15",
-        "plotId": 2
+        "id": 100828526680212495,
+        "name": "Hàng 15",
+        "plotId": "A02"
       }
     },
     {
@@ -1056,9 +1056,9 @@
         ]
       },
       "properties": {
-        "id": 37,
-        "name": "H\u00e0ng 16",
-        "plotId": 2
+        "id": 100828526680212496,
+        "name": "Hàng 16",
+        "plotId": "A02"
       }
     },
     {
@@ -1087,9 +1087,9 @@
         ]
       },
       "properties": {
-        "id": 38,
-        "name": "H\u00e0ng 17",
-        "plotId": 2
+        "id": 100828526680212497,
+        "name": "Hàng 17",
+        "plotId": "A02"
       }
     },
     {
@@ -1118,9 +1118,9 @@
         ]
       },
       "properties": {
-        "id": 39,
-        "name": "H\u00e0ng 18",
-        "plotId": 2
+        "id": 100828526680212498,
+        "name": "Hàng 18",
+        "plotId": "A02"
       }
     },
     {
@@ -1149,9 +1149,9 @@
         ]
       },
       "properties": {
-        "id": 40,
-        "name": "H\u00e0ng 19",
-        "plotId": 2
+        "id": 100828526680212499,
+        "name": "Hàng 19",
+        "plotId": "A02"
       }
     },
     {
@@ -1180,9 +1180,9 @@
         ]
       },
       "properties": {
-        "id": 41,
-        "name": "H\u00e0ng 20",
-        "plotId": 2
+        "id": 100828526680212500,
+        "name": "Hàng 20",
+        "plotId": "A02"
       }
     },
     {
@@ -1200,9 +1200,9 @@
         ]
       },
       "properties": {
-        "id": 42,
-        "name": "H\u00e0ng 01",
-        "plotId": 3
+        "id": 100828526680212501,
+        "name": "Hàng 01",
+        "plotId": "A03"
       }
     },
     {
@@ -1220,9 +1220,9 @@
         ]
       },
       "properties": {
-        "id": 43,
-        "name": "H\u00e0ng 02",
-        "plotId": 3
+        "id": 100828526680212502,
+        "name": "Hàng 02",
+        "plotId": "A03"
       }
     },
     {
@@ -1241,9 +1241,9 @@
         ]
       },
       "properties": {
-        "id": 44,
-        "name": "H\u00e0ng 03",
-        "plotId": 3
+        "id": 100828526680212503,
+        "name": "Hàng 03",
+        "plotId": "A03"
       }
     },
     {
@@ -1263,9 +1263,9 @@
         ]
       },
       "properties": {
-        "id": 45,
-        "name": "H\u00e0ng 04",
-        "plotId": 3
+        "id": 100828526680212504,
+        "name": "Hàng 04",
+        "plotId": "A03"
       }
     },
     {
@@ -1285,9 +1285,9 @@
         ]
       },
       "properties": {
-        "id": 46,
-        "name": "H\u00e0ng 05",
-        "plotId": 3
+        "id": 100828526680212505,
+        "name": "Hàng 05",
+        "plotId": "A03"
       }
     },
     {
@@ -1308,9 +1308,9 @@
         ]
       },
       "properties": {
-        "id": 47,
-        "name": "H\u00e0ng 06",
-        "plotId": 3
+        "id": 100828526680212506,
+        "name": "Hàng 06",
+        "plotId": "A03"
       }
     },
     {
@@ -1331,9 +1331,9 @@
         ]
       },
       "properties": {
-        "id": 48,
-        "name": "H\u00e0ng 07",
-        "plotId": 3
+        "id": 100828526680212507,
+        "name": "Hàng 07",
+        "plotId": "A03"
       }
     },
     {
@@ -1354,9 +1354,9 @@
         ]
       },
       "properties": {
-        "id": 49,
-        "name": "H\u00e0ng 08",
-        "plotId": 3
+        "id": 100828526680212508,
+        "name": "Hàng 08",
+        "plotId": "A03"
       }
     },
     {
@@ -1378,9 +1378,9 @@
         ]
       },
       "properties": {
-        "id": 50,
-        "name": "H\u00e0ng 09",
-        "plotId": 3
+        "id": 100828526680212509,
+        "name": "Hàng 09",
+        "plotId": "A03"
       }
     },
     {
@@ -1402,9 +1402,9 @@
         ]
       },
       "properties": {
-        "id": 51,
-        "name": "H\u00e0ng 10",
-        "plotId": 3
+        "id": 100828526680212510,
+        "name": "Hàng 10",
+        "plotId": "A03"
       }
     },
     {
@@ -1425,9 +1425,9 @@
         ]
       },
       "properties": {
-        "id": 52,
-        "name": "H\u00e0ng 11",
-        "plotId": 3
+        "id": 100828526680212511,
+        "name": "Hàng 11",
+        "plotId": "A03"
       }
     },
     {
@@ -1449,9 +1449,9 @@
         ]
       },
       "properties": {
-        "id": 53,
-        "name": "H\u00e0ng 12",
-        "plotId": 3
+        "id": 100828526680212512,
+        "name": "Hàng 12",
+        "plotId": "A03"
       }
     },
     {
@@ -1474,9 +1474,9 @@
         ]
       },
       "properties": {
-        "id": 54,
-        "name": "H\u00e0ng 13",
-        "plotId": 3
+        "id": 100828526680212513,
+        "name": "Hàng 13",
+        "plotId": "A03"
       }
     },
     {
@@ -1498,9 +1498,9 @@
         ]
       },
       "properties": {
-        "id": 55,
-        "name": "H\u00e0ng 14",
-        "plotId": 3
+        "id": 100828526680212514,
+        "name": "Hàng 14",
+        "plotId": "A03"
       }
     },
     {
@@ -1523,9 +1523,9 @@
         ]
       },
       "properties": {
-        "id": 56,
-        "name": "H\u00e0ng 15",
-        "plotId": 3
+        "id": 100828526680212515,
+        "name": "Hàng 15",
+        "plotId": "A03"
       }
     },
     {
@@ -1547,9 +1547,9 @@
         ]
       },
       "properties": {
-        "id": 57,
-        "name": "H\u00e0ng 16",
-        "plotId": 3
+        "id": 100828526680212516,
+        "name": "Hàng 16",
+        "plotId": "A03"
       }
     },
     {
@@ -1572,9 +1572,9 @@
         ]
       },
       "properties": {
-        "id": 58,
-        "name": "H\u00e0ng 17",
-        "plotId": 3
+        "id": 100828526680212517,
+        "name": "Hàng 17",
+        "plotId": "A03"
       }
     },
     {
@@ -1597,9 +1597,9 @@
         ]
       },
       "properties": {
-        "id": 59,
-        "name": "H\u00e0ng 18",
-        "plotId": 3
+        "id": 100828526680212518,
+        "name": "Hàng 18",
+        "plotId": "A03"
       }
     },
     {
@@ -1622,9 +1622,9 @@
         ]
       },
       "properties": {
-        "id": 60,
-        "name": "H\u00e0ng 19",
-        "plotId": 3
+        "id": 100828526680212519,
+        "name": "Hàng 19",
+        "plotId": "A03"
       }
     },
     {
@@ -1648,9 +1648,9 @@
         ]
       },
       "properties": {
-        "id": 61,
-        "name": "H\u00e0ng 20",
-        "plotId": 3
+        "id": 100828526680212520,
+        "name": "Hàng 20",
+        "plotId": "A03"
       }
     },
     {
@@ -1674,9 +1674,9 @@
         ]
       },
       "properties": {
-        "id": 62,
-        "name": "H\u00e0ng 21",
-        "plotId": 3
+        "id": 100828526680212521,
+        "name": "Hàng 21",
+        "plotId": "A03"
       }
     },
     {
@@ -1701,9 +1701,9 @@
         ]
       },
       "properties": {
-        "id": 63,
-        "name": "H\u00e0ng 22",
-        "plotId": 3
+        "id": 100828526680212522,
+        "name": "Hàng 22",
+        "plotId": "A03"
       }
     },
     {
@@ -1728,9 +1728,9 @@
         ]
       },
       "properties": {
-        "id": 64,
-        "name": "H\u00e0ng 23",
-        "plotId": 3
+        "id": 100828526680212523,
+        "name": "Hàng 23",
+        "plotId": "A03"
       }
     },
     {
@@ -1755,9 +1755,9 @@
         ]
       },
       "properties": {
-        "id": 65,
-        "name": "H\u00e0ng 24",
-        "plotId": 3
+        "id": 100828526680212524,
+        "name": "Hàng 24",
+        "plotId": "A03"
       }
     },
     {
@@ -1782,9 +1782,9 @@
         ]
       },
       "properties": {
-        "id": 66,
-        "name": "H\u00e0ng 25",
-        "plotId": 3
+        "id": 100828526680212525,
+        "name": "Hàng 25",
+        "plotId": "A03"
       }
     },
     {
@@ -1810,9 +1810,9 @@
         ]
       },
       "properties": {
-        "id": 67,
-        "name": "H\u00e0ng 26",
-        "plotId": 3
+        "id": 100828526680212526,
+        "name": "Hàng 26",
+        "plotId": "A03"
       }
     },
     {
@@ -1838,9 +1838,9 @@
         ]
       },
       "properties": {
-        "id": 68,
-        "name": "H\u00e0ng 27",
-        "plotId": 3
+        "id": 100828526680212527,
+        "name": "Hàng 27",
+        "plotId": "A03"
       }
     },
     {
@@ -1866,9 +1866,9 @@
         ]
       },
       "properties": {
-        "id": 69,
-        "name": "H\u00e0ng 28",
-        "plotId": 3
+        "id": 100828526680212528,
+        "name": "Hàng 28",
+        "plotId": "A03"
       }
     },
     {
@@ -1895,9 +1895,9 @@
         ]
       },
       "properties": {
-        "id": 70,
-        "name": "H\u00e0ng 29",
-        "plotId": 3
+        "id": 100828526680212529,
+        "name": "Hàng 29",
+        "plotId": "A03"
       }
     },
     {
@@ -1923,9 +1923,9 @@
         ]
       },
       "properties": {
-        "id": 71,
-        "name": "H\u00e0ng 30",
-        "plotId": 3
+        "id": 100828526680212530,
+        "name": "Hàng 30",
+        "plotId": "A03"
       }
     },
     {
@@ -1952,9 +1952,9 @@
         ]
       },
       "properties": {
-        "id": 72,
-        "name": "H\u00e0ng 31",
-        "plotId": 3
+        "id": 100828526680212531,
+        "name": "Hàng 31",
+        "plotId": "A03"
       }
     },
     {
@@ -1981,9 +1981,9 @@
         ]
       },
       "properties": {
-        "id": 73,
-        "name": "H\u00e0ng 32",
-        "plotId": 3
+        "id": 100828526680212532,
+        "name": "Hàng 32",
+        "plotId": "A03"
       }
     },
     {
@@ -2010,9 +2010,9 @@
         ]
       },
       "properties": {
-        "id": 74,
-        "name": "H\u00e0ng 01",
-        "plotId": 4
+        "id": 100828526680212533,
+        "name": "Hàng 01",
+        "plotId": "A04"
       }
     },
     {
@@ -2040,9 +2040,9 @@
         ]
       },
       "properties": {
-        "id": 75,
-        "name": "H\u00e0ng 02",
-        "plotId": 4
+        "id": 100828526680212534,
+        "name": "Hàng 02",
+        "plotId": "A04"
       }
     },
     {
@@ -2070,9 +2070,9 @@
         ]
       },
       "properties": {
-        "id": 76,
-        "name": "H\u00e0ng 03",
-        "plotId": 4
+        "id": 100828526680212535,
+        "name": "Hàng 03",
+        "plotId": "A04"
       }
     },
     {
@@ -2101,9 +2101,9 @@
         ]
       },
       "properties": {
-        "id": 77,
-        "name": "H\u00e0ng 04",
-        "plotId": 4
+        "id": 100828526680212536,
+        "name": "Hàng 04",
+        "plotId": "A04"
       }
     },
     {
@@ -2134,9 +2134,9 @@
         ]
       },
       "properties": {
-        "id": 78,
-        "name": "H\u00e0ng 05",
-        "plotId": 4
+        "id": 100828526680212537,
+        "name": "Hàng 05",
+        "plotId": "A04"
       }
     },
     {
@@ -2168,9 +2168,9 @@
         ]
       },
       "properties": {
-        "id": 79,
-        "name": "H\u00e0ng 06",
-        "plotId": 4
+        "id": 100828526680212538,
+        "name": "Hàng 06",
+        "plotId": "A04"
       }
     },
     {
@@ -2201,9 +2201,9 @@
         ]
       },
       "properties": {
-        "id": 80,
-        "name": "H\u00e0ng 07",
-        "plotId": 4
+        "id": 100828526680212539,
+        "name": "Hàng 07",
+        "plotId": "A04"
       }
     },
     {
@@ -2235,9 +2235,9 @@
         ]
       },
       "properties": {
-        "id": 81,
-        "name": "H\u00e0ng 08",
-        "plotId": 4
+        "id": 100828526680212540,
+        "name": "Hàng 08",
+        "plotId": "A04"
       }
     },
     {
@@ -2269,9 +2269,9 @@
         ]
       },
       "properties": {
-        "id": 82,
-        "name": "H\u00e0ng 09",
-        "plotId": 4
+        "id": 100828526680212541,
+        "name": "Hàng 09",
+        "plotId": "A04"
       }
     },
     {
@@ -2304,9 +2304,9 @@
         ]
       },
       "properties": {
-        "id": 83,
-        "name": "H\u00e0ng 10",
-        "plotId": 4
+        "id": 100828526680212542,
+        "name": "Hàng 10",
+        "plotId": "A04"
       }
     },
     {
@@ -2338,9 +2338,9 @@
         ]
       },
       "properties": {
-        "id": 84,
-        "name": "H\u00e0ng 11",
-        "plotId": 4
+        "id": 100828526680212543,
+        "name": "Hàng 11",
+        "plotId": "A04"
       }
     },
     {
@@ -2372,9 +2372,9 @@
         ]
       },
       "properties": {
-        "id": 85,
-        "name": "H\u00e0ng 12",
-        "plotId": 4
+        "id": 100828526680212544,
+        "name": "Hàng 12",
+        "plotId": "A04"
       }
     },
     {
@@ -2406,9 +2406,9 @@
         ]
       },
       "properties": {
-        "id": 86,
-        "name": "H\u00e0ng 13",
-        "plotId": 4
+        "id": 100828526680212545,
+        "name": "Hàng 13",
+        "plotId": "A04"
       }
     },
     {
@@ -2441,9 +2441,9 @@
         ]
       },
       "properties": {
-        "id": 87,
-        "name": "H\u00e0ng 14",
-        "plotId": 4
+        "id": 100828526680212546,
+        "name": "Hàng 14",
+        "plotId": "A04"
       }
     },
     {
@@ -2475,9 +2475,9 @@
         ]
       },
       "properties": {
-        "id": 88,
-        "name": "H\u00e0ng 15",
-        "plotId": 4
+        "id": 100828526680212547,
+        "name": "Hàng 15",
+        "plotId": "A04"
       }
     },
     {
@@ -2510,9 +2510,9 @@
         ]
       },
       "properties": {
-        "id": 89,
-        "name": "H\u00e0ng 01",
-        "plotId": 5
+        "id": 100828526680212548,
+        "name": "Hàng 01",
+        "plotId": "A05"
       }
     },
     {
@@ -2544,9 +2544,9 @@
         ]
       },
       "properties": {
-        "id": 90,
-        "name": "H\u00e0ng 02",
-        "plotId": 5
+        "id": 100828526680212549,
+        "name": "Hàng 02",
+        "plotId": "A05"
       }
     },
     {
@@ -2579,9 +2579,9 @@
         ]
       },
       "properties": {
-        "id": 91,
-        "name": "H\u00e0ng 03",
-        "plotId": 5
+        "id": 100828526680212550,
+        "name": "Hàng 03",
+        "plotId": "A05"
       }
     },
     {
@@ -2613,9 +2613,9 @@
         ]
       },
       "properties": {
-        "id": 92,
-        "name": "H\u00e0ng 04",
-        "plotId": 5
+        "id": 100828526680212551,
+        "name": "Hàng 04",
+        "plotId": "A05"
       }
     },
     {
@@ -2648,9 +2648,9 @@
         ]
       },
       "properties": {
-        "id": 93,
-        "name": "H\u00e0ng 05",
-        "plotId": 5
+        "id": 100828526680212552,
+        "name": "Hàng 05",
+        "plotId": "A05"
       }
     },
     {
@@ -2682,9 +2682,9 @@
         ]
       },
       "properties": {
-        "id": 94,
-        "name": "H\u00e0ng 06",
-        "plotId": 5
+        "id": 100828526680212553,
+        "name": "Hàng 06",
+        "plotId": "A05"
       }
     },
     {
@@ -2717,9 +2717,9 @@
         ]
       },
       "properties": {
-        "id": 95,
-        "name": "H\u00e0ng 07",
-        "plotId": 5
+        "id": 100828526680212554,
+        "name": "Hàng 07",
+        "plotId": "A05"
       }
     },
     {
@@ -2751,9 +2751,9 @@
         ]
       },
       "properties": {
-        "id": 96,
-        "name": "H\u00e0ng 08",
-        "plotId": 5
+        "id": 100828526680212555,
+        "name": "Hàng 08",
+        "plotId": "A05"
       }
     },
     {
@@ -2783,9 +2783,9 @@
         ]
       },
       "properties": {
-        "id": 97,
-        "name": "H\u00e0ng 09",
-        "plotId": 5
+        "id": 100828526680212556,
+        "name": "Hàng 09",
+        "plotId": "A05"
       }
     },
     {
@@ -2813,9 +2813,9 @@
         ]
       },
       "properties": {
-        "id": 98,
-        "name": "H\u00e0ng 10",
-        "plotId": 5
+        "id": 100828526680212557,
+        "name": "Hàng 10",
+        "plotId": "A05"
       }
     },
     {
@@ -2843,9 +2843,9 @@
         ]
       },
       "properties": {
-        "id": 99,
-        "name": "H\u00e0ng 11",
-        "plotId": 5
+        "id": 100828526680212558,
+        "name": "Hàng 11",
+        "plotId": "A05"
       }
     },
     {
@@ -2873,9 +2873,9 @@
         ]
       },
       "properties": {
-        "id": 100,
-        "name": "H\u00e0ng 12",
-        "plotId": 5
+        "id": 100828526680212559,
+        "name": "Hàng 12",
+        "plotId": "A05"
       }
     },
     {
@@ -2904,9 +2904,9 @@
         ]
       },
       "properties": {
-        "id": 101,
-        "name": "H\u00e0ng 01",
-        "plotId": 6
+        "id": 100828526680212560,
+        "name": "Hàng 01",
+        "plotId": "A06"
       }
     },
     {
@@ -2935,9 +2935,9 @@
         ]
       },
       "properties": {
-        "id": 102,
-        "name": "H\u00e0ng 02",
-        "plotId": 6
+        "id": 100828526680212561,
+        "name": "Hàng 02",
+        "plotId": "A06"
       }
     },
     {
@@ -2967,9 +2967,9 @@
         ]
       },
       "properties": {
-        "id": 103,
-        "name": "H\u00e0ng 03",
-        "plotId": 6
+        "id": 100828526680212562,
+        "name": "Hàng 03",
+        "plotId": "A06"
       }
     },
     {
@@ -2999,9 +2999,9 @@
         ]
       },
       "properties": {
-        "id": 104,
-        "name": "H\u00e0ng 04",
-        "plotId": 6
+        "id": 100828526680212563,
+        "name": "Hàng 04",
+        "plotId": "A06"
       }
     },
     {
@@ -3032,9 +3032,9 @@
         ]
       },
       "properties": {
-        "id": 105,
-        "name": "H\u00e0ng 05",
-        "plotId": 6
+        "id": 100828526680212564,
+        "name": "Hàng 05",
+        "plotId": "A06"
       }
     },
     {
@@ -3065,9 +3065,9 @@
         ]
       },
       "properties": {
-        "id": 106,
-        "name": "H\u00e0ng 06",
-        "plotId": 6
+        "id": 100828526680212565,
+        "name": "Hàng 06",
+        "plotId": "A06"
       }
     },
     {
@@ -3099,9 +3099,9 @@
         ]
       },
       "properties": {
-        "id": 107,
-        "name": "H\u00e0ng 07",
-        "plotId": 6
+        "id": 100828526680212566,
+        "name": "Hàng 07",
+        "plotId": "A06"
       }
     },
     {
@@ -3132,9 +3132,9 @@
         ]
       },
       "properties": {
-        "id": 108,
-        "name": "H\u00e0ng 08",
-        "plotId": 6
+        "id": 100828526680212567,
+        "name": "Hàng 08",
+        "plotId": "A06"
       }
     },
     {
@@ -3166,9 +3166,9 @@
         ]
       },
       "properties": {
-        "id": 109,
-        "name": "H\u00e0ng 09",
-        "plotId": 6
+        "id": 100828526680212568,
+        "name": "Hàng 09",
+        "plotId": "A06"
       }
     },
     {
@@ -3200,9 +3200,9 @@
         ]
       },
       "properties": {
-        "id": 110,
-        "name": "H\u00e0ng 10",
-        "plotId": 6
+        "id": 100828526680212569,
+        "name": "Hàng 10",
+        "plotId": "A06"
       }
     },
     {
@@ -3235,9 +3235,9 @@
         ]
       },
       "properties": {
-        "id": 111,
-        "name": "H\u00e0ng 11",
-        "plotId": 6
+        "id": 100828526680212570,
+        "name": "Hàng 11",
+        "plotId": "A06"
       }
     },
     {
@@ -3269,9 +3269,9 @@
         ]
       },
       "properties": {
-        "id": 112,
-        "name": "H\u00e0ng 12",
-        "plotId": 6
+        "id": 100828526680212571,
+        "name": "Hàng 12",
+        "plotId": "A06"
       }
     },
     {
@@ -3303,9 +3303,9 @@
         ]
       },
       "properties": {
-        "id": 113,
-        "name": "H\u00e0ng 13",
-        "plotId": 6
+        "id": 100828526680212572,
+        "name": "Hàng 13",
+        "plotId": "A06"
       }
     },
     {
@@ -3327,9 +3327,9 @@
         ]
       },
       "properties": {
-        "id": 114,
-        "name": "H\u00e0ng 01",
-        "plotId": 7
+        "id": 100828526680212573,
+        "name": "Hàng 01",
+        "plotId": "A07"
       }
     },
     {
@@ -3362,9 +3362,9 @@
         ]
       },
       "properties": {
-        "id": 115,
-        "name": "H\u00e0ng 02",
-        "plotId": 7
+        "id": 100828526680212574,
+        "name": "Hàng 02",
+        "plotId": "A07"
       }
     },
     {
@@ -3396,9 +3396,9 @@
         ]
       },
       "properties": {
-        "id": 116,
-        "name": "H\u00e0ng 03",
-        "plotId": 7
+        "id": 100828526680212575,
+        "name": "Hàng 03",
+        "plotId": "A07"
       }
     },
     {
@@ -3430,9 +3430,9 @@
         ]
       },
       "properties": {
-        "id": 117,
-        "name": "H\u00e0ng 04",
-        "plotId": 7
+        "id": 100828526680212576,
+        "name": "Hàng 04",
+        "plotId": "A07"
       }
     },
     {
@@ -3464,9 +3464,9 @@
         ]
       },
       "properties": {
-        "id": 118,
-        "name": "H\u00e0ng 05",
-        "plotId": 7
+        "id": 100828526680212577,
+        "name": "Hàng 05",
+        "plotId": "A07"
       }
     },
     {
@@ -3498,9 +3498,9 @@
         ]
       },
       "properties": {
-        "id": 119,
-        "name": "H\u00e0ng 06",
-        "plotId": 7
+        "id": 100828526680212578,
+        "name": "Hàng 06",
+        "plotId": "A07"
       }
     },
     {
@@ -3532,9 +3532,9 @@
         ]
       },
       "properties": {
-        "id": 120,
-        "name": "H\u00e0ng 07",
-        "plotId": 7
+        "id": 100828526680212579,
+        "name": "Hàng 07",
+        "plotId": "A07"
       }
     },
     {
@@ -3566,9 +3566,9 @@
         ]
       },
       "properties": {
-        "id": 121,
-        "name": "H\u00e0ng 08",
-        "plotId": 7
+        "id": 100828526680212580,
+        "name": "Hàng 08",
+        "plotId": "A07"
       }
     },
     {
@@ -3600,9 +3600,9 @@
         ]
       },
       "properties": {
-        "id": 122,
-        "name": "H\u00e0ng 09",
-        "plotId": 7
+        "id": 100828526680212581,
+        "name": "Hàng 09",
+        "plotId": "A07"
       }
     },
     {
@@ -3634,9 +3634,9 @@
         ]
       },
       "properties": {
-        "id": 123,
-        "name": "H\u00e0ng 10",
-        "plotId": 7
+        "id": 100828526680212582,
+        "name": "Hàng 10",
+        "plotId": "A07"
       }
     },
     {
@@ -3668,9 +3668,9 @@
         ]
       },
       "properties": {
-        "id": 124,
-        "name": "H\u00e0ng 11",
-        "plotId": 7
+        "id": 100828526680212583,
+        "name": "Hàng 11",
+        "plotId": "A07"
       }
     },
     {
@@ -3702,9 +3702,9 @@
         ]
       },
       "properties": {
-        "id": 125,
-        "name": "H\u00e0ng 12",
-        "plotId": 7
+        "id": 100828526680212584,
+        "name": "Hàng 12",
+        "plotId": "A07"
       }
     },
     {
@@ -3736,9 +3736,9 @@
         ]
       },
       "properties": {
-        "id": 126,
-        "name": "H\u00e0ng 13",
-        "plotId": 7
+        "id": 100828526680212585,
+        "name": "Hàng 13",
+        "plotId": "A07"
       }
     },
     {
@@ -3770,9 +3770,9 @@
         ]
       },
       "properties": {
-        "id": 127,
-        "name": "H\u00e0ng 14",
-        "plotId": 7
+        "id": 100828526680212586,
+        "name": "Hàng 14",
+        "plotId": "A07"
       }
     },
     {
@@ -3804,9 +3804,9 @@
         ]
       },
       "properties": {
-        "id": 128,
-        "name": "H\u00e0ng 15",
-        "plotId": 7
+        "id": 100828526680212587,
+        "name": "Hàng 15",
+        "plotId": "A07"
       }
     },
     {
@@ -3838,9 +3838,9 @@
         ]
       },
       "properties": {
-        "id": 129,
-        "name": "H\u00e0ng 16",
-        "plotId": 7
+        "id": 100828526680212588,
+        "name": "Hàng 16",
+        "plotId": "A07"
       }
     },
     {
@@ -3872,9 +3872,9 @@
         ]
       },
       "properties": {
-        "id": 130,
-        "name": "H\u00e0ng 17",
-        "plotId": 7
+        "id": 100828526680212589,
+        "name": "Hàng 17",
+        "plotId": "A07"
       }
     },
     {
@@ -3906,9 +3906,9 @@
         ]
       },
       "properties": {
-        "id": 131,
-        "name": "H\u00e0ng 18",
-        "plotId": 7
+        "id": 100828526680212590,
+        "name": "Hàng 18",
+        "plotId": "A07"
       }
     },
     {
@@ -3940,9 +3940,9 @@
         ]
       },
       "properties": {
-        "id": 132,
-        "name": "H\u00e0ng 01",
-        "plotId": 8
+        "id": 100828526680212591,
+        "name": "Hàng 01",
+        "plotId": "A08"
       }
     },
     {
@@ -3974,9 +3974,9 @@
         ]
       },
       "properties": {
-        "id": 133,
-        "name": "H\u00e0ng 02",
-        "plotId": 8
+        "id": 100828526680212592,
+        "name": "Hàng 02",
+        "plotId": "A08"
       }
     },
     {
@@ -4008,9 +4008,9 @@
         ]
       },
       "properties": {
-        "id": 134,
-        "name": "H\u00e0ng 03",
-        "plotId": 8
+        "id": 100828526680212593,
+        "name": "Hàng 03",
+        "plotId": "A08"
       }
     },
     {
@@ -4042,9 +4042,9 @@
         ]
       },
       "properties": {
-        "id": 135,
-        "name": "H\u00e0ng 04",
-        "plotId": 8
+        "id": 100828526680212594,
+        "name": "Hàng 04",
+        "plotId": "A08"
       }
     },
     {
@@ -4076,9 +4076,9 @@
         ]
       },
       "properties": {
-        "id": 136,
-        "name": "H\u00e0ng 05",
-        "plotId": 8
+        "id": 100828526680212595,
+        "name": "Hàng 05",
+        "plotId": "A08"
       }
     },
     {
@@ -4111,9 +4111,9 @@
         ]
       },
       "properties": {
-        "id": 137,
-        "name": "H\u00e0ng 06",
-        "plotId": 8
+        "id": 100828526680212596,
+        "name": "Hàng 06",
+        "plotId": "A08"
       }
     },
     {
@@ -4145,9 +4145,9 @@
         ]
       },
       "properties": {
-        "id": 138,
-        "name": "H\u00e0ng 07",
-        "plotId": 8
+        "id": 100828526680212597,
+        "name": "Hàng 07",
+        "plotId": "A08"
       }
     },
     {
@@ -4180,9 +4180,9 @@
         ]
       },
       "properties": {
-        "id": 139,
-        "name": "H\u00e0ng 08",
-        "plotId": 8
+        "id": 100828526680212598,
+        "name": "Hàng 08",
+        "plotId": "A08"
       }
     },
     {
@@ -4214,9 +4214,9 @@
         ]
       },
       "properties": {
-        "id": 140,
-        "name": "H\u00e0ng 09",
-        "plotId": 8
+        "id": 100828526680212599,
+        "name": "Hàng 09",
+        "plotId": "A08"
       }
     },
     {
@@ -4249,9 +4249,9 @@
         ]
       },
       "properties": {
-        "id": 141,
-        "name": "H\u00e0ng 10",
-        "plotId": 8
+        "id": 100828526680212600,
+        "name": "Hàng 10",
+        "plotId": "A08"
       }
     },
     {
@@ -4284,9 +4284,9 @@
         ]
       },
       "properties": {
-        "id": 142,
-        "name": "H\u00e0ng 11",
-        "plotId": 8
+        "id": 100828526680212601,
+        "name": "Hàng 11",
+        "plotId": "A08"
       }
     },
     {
@@ -4319,9 +4319,9 @@
         ]
       },
       "properties": {
-        "id": 143,
-        "name": "H\u00e0ng 12",
-        "plotId": 8
+        "id": 100828526680212602,
+        "name": "Hàng 12",
+        "plotId": "A08"
       }
     },
     {
@@ -4354,9 +4354,9 @@
         ]
       },
       "properties": {
-        "id": 144,
-        "name": "H\u00e0ng 13",
-        "plotId": 8
+        "id": 100828526680212603,
+        "name": "Hàng 13",
+        "plotId": "A08"
       }
     },
     {
@@ -4389,9 +4389,9 @@
         ]
       },
       "properties": {
-        "id": 145,
-        "name": "H\u00e0ng 14",
-        "plotId": 8
+        "id": 100828526680212604,
+        "name": "Hàng 14",
+        "plotId": "A08"
       }
     },
     {
@@ -4426,9 +4426,9 @@
         ]
       },
       "properties": {
-        "id": 146,
-        "name": "H\u00e0ng 15",
-        "plotId": 8
+        "id": 100828526680212605,
+        "name": "Hàng 15",
+        "plotId": "A08"
       }
     },
     {
@@ -4464,9 +4464,9 @@
         ]
       },
       "properties": {
-        "id": 147,
-        "name": "H\u00e0ng 16",
-        "plotId": 8
+        "id": 100828526680212606,
+        "name": "Hàng 16",
+        "plotId": "A08"
       }
     },
     {
@@ -4500,9 +4500,9 @@
         ]
       },
       "properties": {
-        "id": 148,
-        "name": "H\u00e0ng 17",
-        "plotId": 8
+        "id": 100828526680212607,
+        "name": "Hàng 17",
+        "plotId": "A08"
       }
     },
     {
@@ -4536,9 +4536,9 @@
         ]
       },
       "properties": {
-        "id": 149,
-        "name": "H\u00e0ng 18",
-        "plotId": 8
+        "id": 100828526680212608,
+        "name": "Hàng 18",
+        "plotId": "A08"
       }
     },
     {
@@ -4571,9 +4571,9 @@
         ]
       },
       "properties": {
-        "id": 150,
-        "name": "H\u00e0ng 19",
-        "plotId": 8
+        "id": 100828526680212609,
+        "name": "Hàng 19",
+        "plotId": "A08"
       }
     },
     {
@@ -4603,9 +4603,9 @@
         ]
       },
       "properties": {
-        "id": 151,
-        "name": "H\u00e0ng 20",
-        "plotId": 8
+        "id": 100828526680212610,
+        "name": "Hàng 20",
+        "plotId": "A08"
       }
     },
     {
@@ -4637,9 +4637,9 @@
         ]
       },
       "properties": {
-        "id": 152,
-        "name": "H\u00e0ng 21",
-        "plotId": 8
+        "id": 100828526680212611,
+        "name": "Hàng 21",
+        "plotId": "A08"
       }
     },
     {
@@ -4670,9 +4670,9 @@
         ]
       },
       "properties": {
-        "id": 153,
-        "name": "H\u00e0ng 22",
-        "plotId": 8
+        "id": 100828526680212612,
+        "name": "Hàng 22",
+        "plotId": "A08"
       }
     },
     {
@@ -4704,9 +4704,9 @@
         ]
       },
       "properties": {
-        "id": 154,
-        "name": "H\u00e0ng 23",
-        "plotId": 8
+        "id": 100828526680212613,
+        "name": "Hàng 23",
+        "plotId": "A08"
       }
     },
     {
@@ -4736,9 +4736,9 @@
         ]
       },
       "properties": {
-        "id": 155,
-        "name": "H\u00e0ng 01",
-        "plotId": 9
+        "id": 100828526680212614,
+        "name": "Hàng 01",
+        "plotId": "A09"
       }
     },
     {
@@ -4769,9 +4769,9 @@
         ]
       },
       "properties": {
-        "id": 156,
-        "name": "H\u00e0ng 02",
-        "plotId": 9
+        "id": 100828526680212615,
+        "name": "Hàng 02",
+        "plotId": "A09"
       }
     },
     {
@@ -4803,9 +4803,9 @@
         ]
       },
       "properties": {
-        "id": 157,
-        "name": "H\u00e0ng 03",
-        "plotId": 9
+        "id": 100828526680212616,
+        "name": "Hàng 03",
+        "plotId": "A09"
       }
     },
     {
@@ -4838,9 +4838,9 @@
         ]
       },
       "properties": {
-        "id": 158,
-        "name": "H\u00e0ng 04",
-        "plotId": 9
+        "id": 100828526680212617,
+        "name": "Hàng 04",
+        "plotId": "A09"
       }
     },
     {
@@ -4873,9 +4873,9 @@
         ]
       },
       "properties": {
-        "id": 159,
-        "name": "H\u00e0ng 05",
-        "plotId": 9
+        "id": 100828526680212618,
+        "name": "Hàng 05",
+        "plotId": "A09"
       }
     },
     {
@@ -4906,9 +4906,9 @@
         ]
       },
       "properties": {
-        "id": 160,
-        "name": "H\u00e0ng 06",
-        "plotId": 9
+        "id": 100828526680212619,
+        "name": "Hàng 06",
+        "plotId": "A09"
       }
     },
     {
@@ -4938,9 +4938,9 @@
         ]
       },
       "properties": {
-        "id": 161,
-        "name": "H\u00e0ng 07",
-        "plotId": 9
+        "id": 100828526680212620,
+        "name": "Hàng 07",
+        "plotId": "A09"
       }
     },
     {
@@ -4968,9 +4968,9 @@
         ]
       },
       "properties": {
-        "id": 162,
-        "name": "H\u00e0ng 08",
-        "plotId": 9
+        "id": 100828526680212621,
+        "name": "Hàng 08",
+        "plotId": "A09"
       }
     },
     {
@@ -4997,9 +4997,9 @@
         ]
       },
       "properties": {
-        "id": 163,
-        "name": "H\u00e0ng 09",
-        "plotId": 9
+        "id": 100828526680212622,
+        "name": "Hàng 09",
+        "plotId": "A09"
       }
     },
     {
@@ -5024,9 +5024,9 @@
         ]
       },
       "properties": {
-        "id": 164,
-        "name": "H\u00e0ng 10",
-        "plotId": 9
+        "id": 100828526680212623,
+        "name": "Hàng 10",
+        "plotId": "A09"
       }
     },
     {
@@ -5052,9 +5052,9 @@
         ]
       },
       "properties": {
-        "id": 165,
-        "name": "H\u00e0ng 11",
-        "plotId": 9
+        "id": 100828526680212624,
+        "name": "Hàng 11",
+        "plotId": "A09"
       }
     },
     {
@@ -5080,9 +5080,9 @@
         ]
       },
       "properties": {
-        "id": 166,
-        "name": "H\u00e0ng 12",
-        "plotId": 9
+        "id": 100828526680212625,
+        "name": "Hàng 12",
+        "plotId": "A09"
       }
     },
     {
@@ -5108,9 +5108,9 @@
         ]
       },
       "properties": {
-        "id": 167,
-        "name": "H\u00e0ng 13",
-        "plotId": 9
+        "id": 100828526680212626,
+        "name": "Hàng 13",
+        "plotId": "A09"
       }
     },
     {
@@ -5136,9 +5136,9 @@
         ]
       },
       "properties": {
-        "id": 168,
-        "name": "H\u00e0ng 14",
-        "plotId": 9
+        "id": 100828526680212627,
+        "name": "Hàng 14",
+        "plotId": "A09"
       }
     },
     {
@@ -5164,9 +5164,9 @@
         ]
       },
       "properties": {
-        "id": 169,
-        "name": "H\u00e0ng 15",
-        "plotId": 9
+        "id": 100828526680212628,
+        "name": "Hàng 15",
+        "plotId": "A09"
       }
     },
     {
@@ -5192,9 +5192,9 @@
         ]
       },
       "properties": {
-        "id": 170,
-        "name": "H\u00e0ng 16",
-        "plotId": 9
+        "id": 100828526680212629,
+        "name": "Hàng 16",
+        "plotId": "A09"
       }
     },
     {
@@ -5221,9 +5221,9 @@
         ]
       },
       "properties": {
-        "id": 171,
-        "name": "H\u00e0ng 17",
-        "plotId": 9
+        "id": 100828526680212630,
+        "name": "Hàng 17",
+        "plotId": "A09"
       }
     },
     {
@@ -5249,9 +5249,9 @@
         ]
       },
       "properties": {
-        "id": 172,
-        "name": "H\u00e0ng 18",
-        "plotId": 9
+        "id": 100828526680212631,
+        "name": "Hàng 18",
+        "plotId": "A09"
       }
     },
     {
@@ -5278,9 +5278,9 @@
         ]
       },
       "properties": {
-        "id": 173,
-        "name": "H\u00e0ng 19",
-        "plotId": 9
+        "id": 100828526680212632,
+        "name": "Hàng 19",
+        "plotId": "A09"
       }
     },
     {
@@ -5307,9 +5307,9 @@
         ]
       },
       "properties": {
-        "id": 174,
-        "name": "H\u00e0ng 20",
-        "plotId": 9
+        "id": 100828526680212633,
+        "name": "Hàng 20",
+        "plotId": "A09"
       }
     },
     {
@@ -5336,9 +5336,9 @@
         ]
       },
       "properties": {
-        "id": 175,
-        "name": "H\u00e0ng 21",
-        "plotId": 9
+        "id": 100828526680212634,
+        "name": "Hàng 21",
+        "plotId": "A09"
       }
     },
     {
@@ -5362,9 +5362,9 @@
         ]
       },
       "properties": {
-        "id": 176,
-        "name": "H\u00e0ng 22",
-        "plotId": 9
+        "id": 100828526680212635,
+        "name": "Hàng 22",
+        "plotId": "A09"
       }
     },
     {
@@ -5386,9 +5386,9 @@
         ]
       },
       "properties": {
-        "id": 177,
-        "name": "H\u00e0ng 23",
-        "plotId": 9
+        "id": 100828526680212636,
+        "name": "Hàng 23",
+        "plotId": "A09"
       }
     },
     {
@@ -5409,9 +5409,9 @@
         ]
       },
       "properties": {
-        "id": 178,
-        "name": "H\u00e0ng 24",
-        "plotId": 9
+        "id": 100828526680212637,
+        "name": "Hàng 24",
+        "plotId": "A09"
       }
     },
     {
@@ -5433,9 +5433,9 @@
         ]
       },
       "properties": {
-        "id": 179,
-        "name": "H\u00e0ng 01",
-        "plotId": 10
+        "id": 100828526680212638,
+        "name": "Hàng 01",
+        "plotId": "A10"
       }
     },
     {
@@ -5458,9 +5458,9 @@
         ]
       },
       "properties": {
-        "id": 180,
-        "name": "H\u00e0ng 02",
-        "plotId": 10
+        "id": 100828526680212639,
+        "name": "Hàng 02",
+        "plotId": "A10"
       }
     },
     {
@@ -5482,9 +5482,9 @@
         ]
       },
       "properties": {
-        "id": 181,
-        "name": "H\u00e0ng 03",
-        "plotId": 10
+        "id": 100828526680212640,
+        "name": "Hàng 03",
+        "plotId": "A10"
       }
     },
     {
@@ -5507,9 +5507,9 @@
         ]
       },
       "properties": {
-        "id": 182,
-        "name": "H\u00e0ng 04",
-        "plotId": 10
+        "id": 100828526680212641,
+        "name": "Hàng 04",
+        "plotId": "A10"
       }
     },
     {
@@ -5531,9 +5531,9 @@
         ]
       },
       "properties": {
-        "id": 183,
-        "name": "H\u00e0ng 05",
-        "plotId": 10
+        "id": 100828526680212642,
+        "name": "Hàng 05",
+        "plotId": "A10"
       }
     },
     {
@@ -5556,9 +5556,9 @@
         ]
       },
       "properties": {
-        "id": 184,
-        "name": "H\u00e0ng 06",
-        "plotId": 10
+        "id": 100828526680212643,
+        "name": "Hàng 06",
+        "plotId": "A10"
       }
     },
     {
@@ -5581,9 +5581,9 @@
         ]
       },
       "properties": {
-        "id": 185,
-        "name": "H\u00e0ng 07",
-        "plotId": 10
+        "id": 100828526680212644,
+        "name": "Hàng 07",
+        "plotId": "A10"
       }
     },
     {
@@ -5607,9 +5607,9 @@
         ]
       },
       "properties": {
-        "id": 186,
-        "name": "H\u00e0ng 08",
-        "plotId": 10
+        "id": 100828526680212645,
+        "name": "Hàng 08",
+        "plotId": "A10"
       }
     },
     {
@@ -5632,9 +5632,9 @@
         ]
       },
       "properties": {
-        "id": 187,
-        "name": "H\u00e0ng 09",
-        "plotId": 10
+        "id": 100828526680212646,
+        "name": "Hàng 09",
+        "plotId": "A10"
       }
     },
     {
@@ -5658,9 +5658,9 @@
         ]
       },
       "properties": {
-        "id": 188,
-        "name": "H\u00e0ng 10",
-        "plotId": 10
+        "id": 100828526680212647,
+        "name": "Hàng 10",
+        "plotId": "A10"
       }
     },
     {
@@ -5684,9 +5684,9 @@
         ]
       },
       "properties": {
-        "id": 189,
-        "name": "H\u00e0ng 11",
-        "plotId": 10
+        "id": 100828526680212648,
+        "name": "Hàng 11",
+        "plotId": "A10"
       }
     },
     {
@@ -5711,9 +5711,9 @@
         ]
       },
       "properties": {
-        "id": 190,
-        "name": "H\u00e0ng 12",
-        "plotId": 10
+        "id": 100828526680212649,
+        "name": "Hàng 12",
+        "plotId": "A10"
       }
     },
     {
@@ -5737,9 +5737,9 @@
         ]
       },
       "properties": {
-        "id": 191,
-        "name": "H\u00e0ng 13",
-        "plotId": 10
+        "id": 100828526680212650,
+        "name": "Hàng 13",
+        "plotId": "A10"
       }
     },
     {
@@ -5764,9 +5764,9 @@
         ]
       },
       "properties": {
-        "id": 192,
-        "name": "H\u00e0ng 14",
-        "plotId": 10
+        "id": 100828526680212651,
+        "name": "Hàng 14",
+        "plotId": "A10"
       }
     },
     {
@@ -5791,9 +5791,9 @@
         ]
       },
       "properties": {
-        "id": 193,
-        "name": "H\u00e0ng 15",
-        "plotId": 10
+        "id": 100828526680212652,
+        "name": "Hàng 15",
+        "plotId": "A10"
       }
     },
     {
@@ -5819,9 +5819,9 @@
         ]
       },
       "properties": {
-        "id": 194,
-        "name": "H\u00e0ng 16",
-        "plotId": 10
+        "id": 100828526680212653,
+        "name": "Hàng 16",
+        "plotId": "A10"
       }
     },
     {
@@ -5848,9 +5848,9 @@
         ]
       },
       "properties": {
-        "id": 195,
-        "name": "H\u00e0ng 17",
-        "plotId": 10
+        "id": 100828526680212654,
+        "name": "Hàng 17",
+        "plotId": "A10"
       }
     },
     {
@@ -5877,9 +5877,9 @@
         ]
       },
       "properties": {
-        "id": 196,
-        "name": "H\u00e0ng 18",
-        "plotId": 10
+        "id": 100828526680212655,
+        "name": "Hàng 18",
+        "plotId": "A10"
       }
     },
     {
@@ -5906,9 +5906,9 @@
         ]
       },
       "properties": {
-        "id": 197,
-        "name": "H\u00e0ng 19",
-        "plotId": 10
+        "id": 100828526680212656,
+        "name": "Hàng 19",
+        "plotId": "A10"
       }
     },
     {
@@ -5936,9 +5936,9 @@
         ]
       },
       "properties": {
-        "id": 198,
-        "name": "H\u00e0ng 20",
-        "plotId": 10
+        "id": 100828526680212657,
+        "name": "Hàng 20",
+        "plotId": "A10"
       }
     },
     {
@@ -5966,9 +5966,9 @@
         ]
       },
       "properties": {
-        "id": 199,
-        "name": "H\u00e0ng 21",
-        "plotId": 10
+        "id": 100828526680212658,
+        "name": "Hàng 21",
+        "plotId": "A10"
       }
     },
     {
@@ -5989,9 +5989,9 @@
         ]
       },
       "properties": {
-        "id": 200,
-        "name": "H\u00e0ng 22",
-        "plotId": 10
+        "id": 100828526680212659,
+        "name": "Hàng 22",
+        "plotId": "A10"
       }
     },
     {
@@ -6008,9 +6008,9 @@
         ]
       },
       "properties": {
-        "id": 201,
-        "name": "H\u00e0ng 23",
-        "plotId": 10
+        "id": 100828526680212660,
+        "name": "Hàng 23",
+        "plotId": "A10"
       }
     },
     {
@@ -6024,9 +6024,9 @@
         ]
       },
       "properties": {
-        "id": 202,
-        "name": "H\u00e0ng 24",
-        "plotId": 10
+        "id": 100828526680212661,
+        "name": "Hàng 24",
+        "plotId": "A10"
       }
     },
     {
@@ -6047,9 +6047,9 @@
         ]
       },
       "properties": {
-        "id": 203,
-        "name": "H\u00e0ng 01",
-        "plotId": 11
+        "id": 100828526680212662,
+        "name": "Hàng 01",
+        "plotId": "B01"
       }
     },
     {
@@ -6069,9 +6069,9 @@
         ]
       },
       "properties": {
-        "id": 204,
-        "name": "H\u00e0ng 02",
-        "plotId": 11
+        "id": 100828526680212663,
+        "name": "Hàng 02",
+        "plotId": "B01"
       }
     },
     {
@@ -6091,9 +6091,9 @@
         ]
       },
       "properties": {
-        "id": 205,
-        "name": "H\u00e0ng 03",
-        "plotId": 11
+        "id": 100828526680212664,
+        "name": "Hàng 03",
+        "plotId": "B01"
       }
     },
     {
@@ -6113,9 +6113,9 @@
         ]
       },
       "properties": {
-        "id": 206,
-        "name": "H\u00e0ng 04",
-        "plotId": 11
+        "id": 100828526680212665,
+        "name": "Hàng 04",
+        "plotId": "B01"
       }
     },
     {
@@ -6136,9 +6136,9 @@
         ]
       },
       "properties": {
-        "id": 207,
-        "name": "H\u00e0ng 05",
-        "plotId": 11
+        "id": 100828526680212666,
+        "name": "Hàng 05",
+        "plotId": "B01"
       }
     },
     {
@@ -6159,9 +6159,9 @@
         ]
       },
       "properties": {
-        "id": 208,
-        "name": "H\u00e0ng 06",
-        "plotId": 11
+        "id": 100828526680212667,
+        "name": "Hàng 06",
+        "plotId": "B01"
       }
     },
     {
@@ -6183,9 +6183,9 @@
         ]
       },
       "properties": {
-        "id": 209,
-        "name": "H\u00e0ng 07",
-        "plotId": 11
+        "id": 100828526680212668,
+        "name": "Hàng 07",
+        "plotId": "B01"
       }
     },
     {
@@ -6207,9 +6207,9 @@
         ]
       },
       "properties": {
-        "id": 210,
-        "name": "H\u00e0ng 08",
-        "plotId": 11
+        "id": 100828526680212669,
+        "name": "Hàng 08",
+        "plotId": "B01"
       }
     },
     {
@@ -6231,9 +6231,9 @@
         ]
       },
       "properties": {
-        "id": 211,
-        "name": "H\u00e0ng 09",
-        "plotId": 11
+        "id": 100828526680212670,
+        "name": "Hàng 09",
+        "plotId": "B01"
       }
     },
     {
@@ -6256,9 +6256,9 @@
         ]
       },
       "properties": {
-        "id": 212,
-        "name": "H\u00e0ng 10",
-        "plotId": 11
+        "id": 100828526680212671,
+        "name": "Hàng 10",
+        "plotId": "B01"
       }
     },
     {
@@ -6280,9 +6280,9 @@
         ]
       },
       "properties": {
-        "id": 213,
-        "name": "H\u00e0ng 11",
-        "plotId": 11
+        "id": 100828526680212672,
+        "name": "Hàng 11",
+        "plotId": "B01"
       }
     },
     {
@@ -6304,9 +6304,9 @@
         ]
       },
       "properties": {
-        "id": 214,
-        "name": "H\u00e0ng 12",
-        "plotId": 11
+        "id": 100828526680212673,
+        "name": "Hàng 12",
+        "plotId": "B01"
       }
     },
     {
@@ -6324,9 +6324,9 @@
         ]
       },
       "properties": {
-        "id": 215,
-        "name": "H\u00e0ng 13",
-        "plotId": 11
+        "id": 100828526680212674,
+        "name": "Hàng 13",
+        "plotId": "B01"
       }
     },
     {
@@ -6354,9 +6354,9 @@
         ]
       },
       "properties": {
-        "id": 216,
-        "name": "H\u00e0ng 14",
-        "plotId": 11
+        "id": 100828526680212675,
+        "name": "Hàng 14",
+        "plotId": "B01"
       }
     },
     {
@@ -6386,9 +6386,9 @@
         ]
       },
       "properties": {
-        "id": 217,
-        "name": "H\u00e0ng 15",
-        "plotId": 11
+        "id": 100828526680212676,
+        "name": "Hàng 15",
+        "plotId": "B01"
       }
     },
     {
@@ -6408,9 +6408,9 @@
         ]
       },
       "properties": {
-        "id": 218,
-        "name": "H\u00e0ng 16",
-        "plotId": 11
+        "id": 100828526680212677,
+        "name": "Hàng 16",
+        "plotId": "B01"
       }
     },
     {
@@ -6454,9 +6454,9 @@
         ]
       },
       "properties": {
-        "id": 219,
-        "name": "H\u00e0ng 17",
-        "plotId": 11
+        "id": 100828526680212678,
+        "name": "Hàng 17",
+        "plotId": "B01"
       }
     },
     {
@@ -6498,9 +6498,9 @@
         ]
       },
       "properties": {
-        "id": 220,
-        "name": "H\u00e0ng 18",
-        "plotId": 11
+        "id": 100828526680212679,
+        "name": "Hàng 18",
+        "plotId": "B01"
       }
     },
     {
@@ -6520,9 +6520,9 @@
         ]
       },
       "properties": {
-        "id": 221,
-        "name": "H\u00e0ng 19",
-        "plotId": 11
+        "id": 100828526680212680,
+        "name": "Hàng 19",
+        "plotId": "B01"
       }
     },
     {
@@ -6539,9 +6539,9 @@
         ]
       },
       "properties": {
-        "id": 222,
-        "name": "H\u00e0ng 20",
-        "plotId": 11
+        "id": 100828526680212681,
+        "name": "Hàng 20",
+        "plotId": "B01"
       }
     },
     {
@@ -6562,9 +6562,9 @@
         ]
       },
       "properties": {
-        "id": 223,
-        "name": "H\u00e0ng 21",
-        "plotId": 11
+        "id": 100828526680212682,
+        "name": "Hàng 21",
+        "plotId": "B01"
       }
     },
     {
@@ -6585,9 +6585,9 @@
         ]
       },
       "properties": {
-        "id": 224,
-        "name": "H\u00e0ng 22",
-        "plotId": 11
+        "id": 100828526680212683,
+        "name": "Hàng 22",
+        "plotId": "B01"
       }
     },
     {
@@ -6608,9 +6608,9 @@
         ]
       },
       "properties": {
-        "id": 225,
-        "name": "H\u00e0ng 23",
-        "plotId": 11
+        "id": 100828526680212684,
+        "name": "Hàng 23",
+        "plotId": "B01"
       }
     },
     {
@@ -6631,9 +6631,9 @@
         ]
       },
       "properties": {
-        "id": 226,
-        "name": "H\u00e0ng 24",
-        "plotId": 11
+        "id": 100828526680212685,
+        "name": "Hàng 24",
+        "plotId": "B01"
       }
     },
     {
@@ -6653,9 +6653,9 @@
         ]
       },
       "properties": {
-        "id": 227,
-        "name": "H\u00e0ng 25",
-        "plotId": 11
+        "id": 100828526680212686,
+        "name": "Hàng 25",
+        "plotId": "B01"
       }
     },
     {
@@ -6683,9 +6683,9 @@
         ]
       },
       "properties": {
-        "id": 228,
-        "name": "H\u00e0ng 26",
-        "plotId": 11
+        "id": 100828526680212687,
+        "name": "Hàng 26",
+        "plotId": "B01"
       }
     },
     {
@@ -6711,9 +6711,9 @@
         ]
       },
       "properties": {
-        "id": 229,
-        "name": "H\u00e0ng 27",
-        "plotId": 11
+        "id": 100828526680212688,
+        "name": "Hàng 27",
+        "plotId": "B01"
       }
     },
     {
@@ -6748,9 +6748,9 @@
         ]
       },
       "properties": {
-        "id": 230,
-        "name": "H\u00e0ng 28",
-        "plotId": 11
+        "id": 100828526680212689,
+        "name": "Hàng 28",
+        "plotId": "B01"
       }
     },
     {
@@ -6771,9 +6771,9 @@
         ]
       },
       "properties": {
-        "id": 231,
-        "name": "H\u00e0ng 29",
-        "plotId": 11
+        "id": 100828526680212690,
+        "name": "Hàng 29",
+        "plotId": "B01"
       }
     },
     {
@@ -6798,9 +6798,9 @@
         ]
       },
       "properties": {
-        "id": 232,
-        "name": "H\u00e0ng 30",
-        "plotId": 11
+        "id": 100828526680212691,
+        "name": "Hàng 30",
+        "plotId": "B01"
       }
     },
     {
@@ -6831,9 +6831,9 @@
         ]
       },
       "properties": {
-        "id": 233,
-        "name": "H\u00e0ng 31",
-        "plotId": 11
+        "id": 100828526680212692,
+        "name": "Hàng 31",
+        "plotId": "B01"
       }
     },
     {
@@ -6862,9 +6862,9 @@
         ]
       },
       "properties": {
-        "id": 234,
-        "name": "H\u00e0ng 01",
-        "plotId": 12
+        "id": 100828526680212693,
+        "name": "Hàng 01",
+        "plotId": "B02"
       }
     },
     {
@@ -6890,9 +6890,9 @@
         ]
       },
       "properties": {
-        "id": 235,
-        "name": "H\u00e0ng 02",
-        "plotId": 12
+        "id": 100828526680212694,
+        "name": "Hàng 02",
+        "plotId": "B02"
       }
     },
     {
@@ -6913,9 +6913,9 @@
         ]
       },
       "properties": {
-        "id": 236,
-        "name": "H\u00e0ng 03",
-        "plotId": 12
+        "id": 100828526680212695,
+        "name": "Hàng 03",
+        "plotId": "B02"
       }
     },
     {
@@ -6945,9 +6945,9 @@
         ]
       },
       "properties": {
-        "id": 237,
-        "name": "H\u00e0ng 04",
-        "plotId": 12
+        "id": 100828526680212696,
+        "name": "Hàng 04",
+        "plotId": "B02"
       }
     },
     {
@@ -6966,9 +6966,9 @@
         ]
       },
       "properties": {
-        "id": 238,
-        "name": "H\u00e0ng 05",
-        "plotId": 12
+        "id": 100828526680212697,
+        "name": "Hàng 05",
+        "plotId": "B02"
       }
     },
     {
@@ -6995,9 +6995,9 @@
         ]
       },
       "properties": {
-        "id": 239,
-        "name": "H\u00e0ng 06",
-        "plotId": 12
+        "id": 100828526680212698,
+        "name": "Hàng 06",
+        "plotId": "B02"
       }
     },
     {
@@ -7023,9 +7023,9 @@
         ]
       },
       "properties": {
-        "id": 240,
-        "name": "H\u00e0ng 07",
-        "plotId": 12
+        "id": 100828526680212699,
+        "name": "Hàng 07",
+        "plotId": "B02"
       }
     },
     {
@@ -7051,9 +7051,9 @@
         ]
       },
       "properties": {
-        "id": 241,
-        "name": "H\u00e0ng 08",
-        "plotId": 12
+        "id": 100828526680212700,
+        "name": "Hàng 08",
+        "plotId": "B02"
       }
     },
     {
@@ -7078,9 +7078,9 @@
         ]
       },
       "properties": {
-        "id": 242,
-        "name": "H\u00e0ng 09",
-        "plotId": 12
+        "id": 100828526680212701,
+        "name": "Hàng 09",
+        "plotId": "B02"
       }
     },
     {
@@ -7105,9 +7105,9 @@
         ]
       },
       "properties": {
-        "id": 243,
-        "name": "H\u00e0ng 10",
-        "plotId": 12
+        "id": 100828526680212702,
+        "name": "Hàng 10",
+        "plotId": "B02"
       }
     },
     {
@@ -7131,9 +7131,9 @@
         ]
       },
       "properties": {
-        "id": 244,
-        "name": "H\u00e0ng 11",
-        "plotId": 12
+        "id": 100828526680212703,
+        "name": "Hàng 11",
+        "plotId": "B02"
       }
     },
     {
@@ -7153,9 +7153,9 @@
         ]
       },
       "properties": {
-        "id": 245,
-        "name": "H\u00e0ng 12",
-        "plotId": 12
+        "id": 100828526680212704,
+        "name": "Hàng 12",
+        "plotId": "B02"
       }
     },
     {
@@ -7175,9 +7175,9 @@
         ]
       },
       "properties": {
-        "id": 246,
-        "name": "H\u00e0ng 13",
-        "plotId": 12
+        "id": 100828526680212705,
+        "name": "Hàng 13",
+        "plotId": "B02"
       }
     },
     {
@@ -7196,9 +7196,9 @@
         ]
       },
       "properties": {
-        "id": 247,
-        "name": "H\u00e0ng 14",
-        "plotId": 12
+        "id": 100828526680212706,
+        "name": "Hàng 14",
+        "plotId": "B02"
       }
     },
     {
@@ -7227,9 +7227,9 @@
         ]
       },
       "properties": {
-        "id": 248,
-        "name": "H\u00e0ng 15",
-        "plotId": 12
+        "id": 100828526680212707,
+        "name": "Hàng 15",
+        "plotId": "B02"
       }
     },
     {
@@ -7262,9 +7262,9 @@
         ]
       },
       "properties": {
-        "id": 249,
-        "name": "H\u00e0ng 16",
-        "plotId": 12
+        "id": 100828526680212708,
+        "name": "Hàng 16",
+        "plotId": "B02"
       }
     },
     {
@@ -7289,9 +7289,9 @@
         ]
       },
       "properties": {
-        "id": 250,
-        "name": "H\u00e0ng 17",
-        "plotId": 12
+        "id": 100828526680212709,
+        "name": "Hàng 17",
+        "plotId": "B02"
       }
     },
     {
@@ -7317,9 +7317,9 @@
         ]
       },
       "properties": {
-        "id": 251,
-        "name": "H\u00e0ng 18",
-        "plotId": 12
+        "id": 100828526680212710,
+        "name": "Hàng 18",
+        "plotId": "B02"
       }
     },
     {
@@ -7346,9 +7346,9 @@
         ]
       },
       "properties": {
-        "id": 252,
-        "name": "H\u00e0ng 19",
-        "plotId": 12
+        "id": 100828526680212711,
+        "name": "Hàng 19",
+        "plotId": "B02"
       }
     },
     {
@@ -7374,9 +7374,9 @@
         ]
       },
       "properties": {
-        "id": 253,
-        "name": "H\u00e0ng 20",
-        "plotId": 12
+        "id": 100828526680212712,
+        "name": "Hàng 20",
+        "plotId": "B02"
       }
     },
     {
@@ -7395,9 +7395,9 @@
         ]
       },
       "properties": {
-        "id": 254,
-        "name": "H\u00e0ng 21",
-        "plotId": 12
+        "id": 100828526680212713,
+        "name": "Hàng 21",
+        "plotId": "B02"
       }
     },
     {
@@ -7418,9 +7418,9 @@
         ]
       },
       "properties": {
-        "id": 255,
-        "name": "H\u00e0ng 22",
-        "plotId": 12
+        "id": 100828526680212714,
+        "name": "Hàng 22",
+        "plotId": "B02"
       }
     },
     {
@@ -7442,9 +7442,9 @@
         ]
       },
       "properties": {
-        "id": 256,
-        "name": "H\u00e0ng 23",
-        "plotId": 12
+        "id": 100828526680212715,
+        "name": "Hàng 23",
+        "plotId": "B02"
       }
     },
     {
@@ -7465,9 +7465,9 @@
         ]
       },
       "properties": {
-        "id": 257,
-        "name": "H\u00e0ng 24",
-        "plotId": 12
+        "id": 100828526680212716,
+        "name": "Hàng 24",
+        "plotId": "B02"
       }
     },
     {
@@ -7487,9 +7487,9 @@
         ]
       },
       "properties": {
-        "id": 258,
-        "name": "H\u00e0ng 25",
-        "plotId": 12
+        "id": 100828526680212717,
+        "name": "Hàng 25",
+        "plotId": "B02"
       }
     },
     {
@@ -7507,9 +7507,9 @@
         ]
       },
       "properties": {
-        "id": 259,
-        "name": "H\u00e0ng 26",
-        "plotId": 12
+        "id": 100828526680212718,
+        "name": "Hàng 26",
+        "plotId": "B02"
       }
     },
     {
@@ -7526,9 +7526,9 @@
         ]
       },
       "properties": {
-        "id": 260,
-        "name": "H\u00e0ng 27",
-        "plotId": 12
+        "id": 100828526680212719,
+        "name": "Hàng 27",
+        "plotId": "B02"
       }
     },
     {
@@ -7544,9 +7544,9 @@
         ]
       },
       "properties": {
-        "id": 261,
-        "name": "H\u00e0ng 28",
-        "plotId": 12
+        "id": 100828526680212720,
+        "name": "Hàng 28",
+        "plotId": "B02"
       }
     },
     {
@@ -7563,9 +7563,9 @@
         ]
       },
       "properties": {
-        "id": 262,
-        "name": "H\u00e0ng 29",
-        "plotId": 12
+        "id": 100828526680212721,
+        "name": "Hàng 29",
+        "plotId": "B02"
       }
     },
     {
@@ -7581,9 +7581,9 @@
         ]
       },
       "properties": {
-        "id": 263,
-        "name": "H\u00e0ng 30",
-        "plotId": 12
+        "id": 100828526680212722,
+        "name": "Hàng 30",
+        "plotId": "B02"
       }
     },
     {
@@ -7599,9 +7599,9 @@
         ]
       },
       "properties": {
-        "id": 264,
-        "name": "H\u00e0ng 31",
-        "plotId": 12
+        "id": 100828526680212723,
+        "name": "Hàng 31",
+        "plotId": "B02"
       }
     },
     {
@@ -7632,9 +7632,9 @@
         ]
       },
       "properties": {
-        "id": 265,
-        "name": "H\u00e0ng 32",
-        "plotId": 12
+        "id": 100828526680212724,
+        "name": "Hàng 32",
+        "plotId": "B02"
       }
     },
     {
@@ -7667,9 +7667,9 @@
         ]
       },
       "properties": {
-        "id": 266,
-        "name": "H\u00e0ng 33",
-        "plotId": 12
+        "id": 100828526680212725,
+        "name": "Hàng 33",
+        "plotId": "B02"
       }
     },
     {
@@ -7708,9 +7708,9 @@
         ]
       },
       "properties": {
-        "id": 267,
-        "name": "H\u00e0ng 34",
-        "plotId": 12
+        "id": 100828526680212726,
+        "name": "Hàng 34",
+        "plotId": "B02"
       }
     },
     {
@@ -7734,9 +7734,9 @@
         ]
       },
       "properties": {
-        "id": 268,
-        "name": "H\u00e0ng 35",
-        "plotId": 12
+        "id": 100828526680212727,
+        "name": "Hàng 35",
+        "plotId": "B02"
       }
     },
     {
@@ -7760,9 +7760,9 @@
         ]
       },
       "properties": {
-        "id": 269,
-        "name": "H\u00e0ng 36",
-        "plotId": 12
+        "id": 100828526680212728,
+        "name": "Hàng 36",
+        "plotId": "B02"
       }
     },
     {
@@ -7785,9 +7785,9 @@
         ]
       },
       "properties": {
-        "id": 270,
-        "name": "H\u00e0ng 37",
-        "plotId": 12
+        "id": 100828526680212729,
+        "name": "Hàng 37",
+        "plotId": "B02"
       }
     },
     {
@@ -7810,9 +7810,9 @@
         ]
       },
       "properties": {
-        "id": 271,
-        "name": "H\u00e0ng 38",
-        "plotId": 12
+        "id": 100828526680212730,
+        "name": "Hàng 38",
+        "plotId": "B02"
       }
     },
     {
@@ -7833,9 +7833,9 @@
         ]
       },
       "properties": {
-        "id": 272,
-        "name": "H\u00e0ng 39",
-        "plotId": 12
+        "id": 100828526680212731,
+        "name": "Hàng 39",
+        "plotId": "B02"
       }
     },
     {
@@ -7855,9 +7855,9 @@
         ]
       },
       "properties": {
-        "id": 273,
-        "name": "H\u00e0ng 40",
-        "plotId": 12
+        "id": 100828526680212732,
+        "name": "Hàng 40",
+        "plotId": "B02"
       }
     },
     {
@@ -7874,9 +7874,9 @@
         ]
       },
       "properties": {
-        "id": 274,
-        "name": "H\u00e0ng 41",
-        "plotId": 12
+        "id": 100828526680212733,
+        "name": "Hàng 41",
+        "plotId": "B02"
       }
     },
     {
@@ -7902,9 +7902,9 @@
         ]
       },
       "properties": {
-        "id": 275,
-        "name": "H\u00e0ng 42",
-        "plotId": 12
+        "id": 100828526680212734,
+        "name": "Hàng 42",
+        "plotId": "B02"
       }
     },
     {
@@ -7928,9 +7928,9 @@
         ]
       },
       "properties": {
-        "id": 276,
-        "name": "H\u00e0ng 43",
-        "plotId": 12
+        "id": 100828526680212735,
+        "name": "Hàng 43",
+        "plotId": "B02"
       }
     },
     {
@@ -7953,9 +7953,9 @@
         ]
       },
       "properties": {
-        "id": 277,
-        "name": "H\u00e0ng 01",
-        "plotId": 13
+        "id": 100828526680212736,
+        "name": "Hàng 01",
+        "plotId": "B03"
       }
     },
     {
@@ -7978,9 +7978,9 @@
         ]
       },
       "properties": {
-        "id": 278,
-        "name": "H\u00e0ng 02",
-        "plotId": 13
+        "id": 100828526680212737,
+        "name": "Hàng 02",
+        "plotId": "B03"
       }
     },
     {
@@ -8003,9 +8003,9 @@
         ]
       },
       "properties": {
-        "id": 279,
-        "name": "H\u00e0ng 03",
-        "plotId": 13
+        "id": 100828526680212738,
+        "name": "Hàng 03",
+        "plotId": "B03"
       }
     },
     {
@@ -8029,9 +8029,9 @@
         ]
       },
       "properties": {
-        "id": 280,
-        "name": "H\u00e0ng 04",
-        "plotId": 13
+        "id": 100828526680212739,
+        "name": "Hàng 04",
+        "plotId": "B03"
       }
     },
     {
@@ -8054,9 +8054,9 @@
         ]
       },
       "properties": {
-        "id": 281,
-        "name": "H\u00e0ng 05",
-        "plotId": 13
+        "id": 100828526680212740,
+        "name": "Hàng 05",
+        "plotId": "B03"
       }
     },
     {
@@ -8079,9 +8079,9 @@
         ]
       },
       "properties": {
-        "id": 282,
-        "name": "H\u00e0ng 06",
-        "plotId": 13
+        "id": 100828526680212741,
+        "name": "Hàng 06",
+        "plotId": "B03"
       }
     },
     {
@@ -8104,9 +8104,9 @@
         ]
       },
       "properties": {
-        "id": 283,
-        "name": "H\u00e0ng 07",
-        "plotId": 13
+        "id": 100828526680212742,
+        "name": "Hàng 07",
+        "plotId": "B03"
       }
     },
     {
@@ -8130,9 +8130,9 @@
         ]
       },
       "properties": {
-        "id": 284,
-        "name": "H\u00e0ng 08",
-        "plotId": 13
+        "id": 100828526680212743,
+        "name": "Hàng 08",
+        "plotId": "B03"
       }
     },
     {
@@ -8155,9 +8155,9 @@
         ]
       },
       "properties": {
-        "id": 285,
-        "name": "H\u00e0ng 09",
-        "plotId": 13
+        "id": 100828526680212744,
+        "name": "Hàng 09",
+        "plotId": "B03"
       }
     },
     {
@@ -8181,9 +8181,9 @@
         ]
       },
       "properties": {
-        "id": 286,
-        "name": "H\u00e0ng 10",
-        "plotId": 13
+        "id": 100828526680212745,
+        "name": "Hàng 10",
+        "plotId": "B03"
       }
     },
     {
@@ -8206,9 +8206,9 @@
         ]
       },
       "properties": {
-        "id": 287,
-        "name": "H\u00e0ng 11",
-        "plotId": 13
+        "id": 100828526680212746,
+        "name": "Hàng 11",
+        "plotId": "B03"
       }
     },
     {
@@ -8230,9 +8230,9 @@
         ]
       },
       "properties": {
-        "id": 288,
-        "name": "H\u00e0ng 12",
-        "plotId": 13
+        "id": 100828526680212747,
+        "name": "Hàng 12",
+        "plotId": "B03"
       }
     },
     {
@@ -8252,9 +8252,9 @@
         ]
       },
       "properties": {
-        "id": 289,
-        "name": "H\u00e0ng 13",
-        "plotId": 13
+        "id": 100828526680212748,
+        "name": "Hàng 13",
+        "plotId": "B03"
       }
     },
     {
@@ -8273,9 +8273,9 @@
         ]
       },
       "properties": {
-        "id": 290,
-        "name": "H\u00e0ng 14",
-        "plotId": 13
+        "id": 100828526680212749,
+        "name": "Hàng 14",
+        "plotId": "B03"
       }
     },
     {
@@ -8293,9 +8293,9 @@
         ]
       },
       "properties": {
-        "id": 291,
-        "name": "H\u00e0ng 15",
-        "plotId": 13
+        "id": 100828526680212750,
+        "name": "Hàng 15",
+        "plotId": "B03"
       }
     },
     {
@@ -8314,9 +8314,9 @@
         ]
       },
       "properties": {
-        "id": 292,
-        "name": "H\u00e0ng 16",
-        "plotId": 13
+        "id": 100828526680212751,
+        "name": "Hàng 16",
+        "plotId": "B03"
       }
     },
     {
@@ -8334,9 +8334,9 @@
         ]
       },
       "properties": {
-        "id": 293,
-        "name": "H\u00e0ng 17",
-        "plotId": 13
+        "id": 100828526680212752,
+        "name": "Hàng 17",
+        "plotId": "B03"
       }
     },
     {
@@ -8362,9 +8362,9 @@
         ]
       },
       "properties": {
-        "id": 294,
-        "name": "H\u00e0ng 18",
-        "plotId": 13
+        "id": 100828526680212753,
+        "name": "Hàng 18",
+        "plotId": "B03"
       }
     },
     {
@@ -8394,9 +8394,9 @@
         ]
       },
       "properties": {
-        "id": 295,
-        "name": "H\u00e0ng 19",
-        "plotId": 13
+        "id": 100828526680212754,
+        "name": "Hàng 19",
+        "plotId": "B03"
       }
     },
     {
@@ -8429,9 +8429,9 @@
         ]
       },
       "properties": {
-        "id": 296,
-        "name": "H\u00e0ng 20",
-        "plotId": 13
+        "id": 100828526680212755,
+        "name": "Hàng 20",
+        "plotId": "B03"
       }
     },
     {
@@ -8451,9 +8451,9 @@
         ]
       },
       "properties": {
-        "id": 297,
-        "name": "H\u00e0ng 21",
-        "plotId": 13
+        "id": 100828526680212756,
+        "name": "Hàng 21",
+        "plotId": "B03"
       }
     },
     {
@@ -8474,9 +8474,9 @@
         ]
       },
       "properties": {
-        "id": 298,
-        "name": "H\u00e0ng 22",
-        "plotId": 13
+        "id": 100828526680212757,
+        "name": "Hàng 22",
+        "plotId": "B03"
       }
     },
     {
@@ -8499,9 +8499,9 @@
         ]
       },
       "properties": {
-        "id": 299,
-        "name": "H\u00e0ng 23",
-        "plotId": 13
+        "id": 100828526680212758,
+        "name": "Hàng 23",
+        "plotId": "B03"
       }
     },
     {
@@ -8525,9 +8525,9 @@
         ]
       },
       "properties": {
-        "id": 300,
-        "name": "H\u00e0ng 24",
-        "plotId": 13
+        "id": 100828526680212759,
+        "name": "Hàng 24",
+        "plotId": "B03"
       }
     },
     {
@@ -8551,9 +8551,9 @@
         ]
       },
       "properties": {
-        "id": 301,
-        "name": "H\u00e0ng 25",
-        "plotId": 13
+        "id": 100828526680212760,
+        "name": "Hàng 25",
+        "plotId": "B03"
       }
     },
     {
@@ -8577,9 +8577,9 @@
         ]
       },
       "properties": {
-        "id": 302,
-        "name": "H\u00e0ng 26",
-        "plotId": 13
+        "id": 100828526680212761,
+        "name": "Hàng 26",
+        "plotId": "B03"
       }
     },
     {
@@ -8603,9 +8603,9 @@
         ]
       },
       "properties": {
-        "id": 303,
-        "name": "H\u00e0ng 27",
-        "plotId": 13
+        "id": 100828526680212762,
+        "name": "Hàng 27",
+        "plotId": "B03"
       }
     },
     {
@@ -8629,9 +8629,9 @@
         ]
       },
       "properties": {
-        "id": 304,
-        "name": "H\u00e0ng 28",
-        "plotId": 13
+        "id": 100828526680212763,
+        "name": "Hàng 28",
+        "plotId": "B03"
       }
     },
     {
@@ -8656,9 +8656,9 @@
         ]
       },
       "properties": {
-        "id": 305,
-        "name": "H\u00e0ng 29",
-        "plotId": 13
+        "id": 100828526680212764,
+        "name": "Hàng 29",
+        "plotId": "B03"
       }
     },
     {
@@ -8683,9 +8683,9 @@
         ]
       },
       "properties": {
-        "id": 306,
-        "name": "H\u00e0ng 30",
-        "plotId": 13
+        "id": 100828526680212765,
+        "name": "Hàng 30",
+        "plotId": "B03"
       }
     },
     {
@@ -8710,9 +8710,9 @@
         ]
       },
       "properties": {
-        "id": 307,
-        "name": "H\u00e0ng 31",
-        "plotId": 13
+        "id": 100828526680212766,
+        "name": "Hàng 31",
+        "plotId": "B03"
       }
     },
     {
@@ -8737,9 +8737,9 @@
         ]
       },
       "properties": {
-        "id": 308,
-        "name": "H\u00e0ng 32",
-        "plotId": 13
+        "id": 100828526680212767,
+        "name": "Hàng 32",
+        "plotId": "B03"
       }
     },
     {
@@ -8764,9 +8764,9 @@
         ]
       },
       "properties": {
-        "id": 309,
-        "name": "H\u00e0ng 33",
-        "plotId": 13
+        "id": 100828526680212768,
+        "name": "Hàng 33",
+        "plotId": "B03"
       }
     },
     {
@@ -8791,9 +8791,9 @@
         ]
       },
       "properties": {
-        "id": 310,
-        "name": "H\u00e0ng 34",
-        "plotId": 13
+        "id": 100828526680212769,
+        "name": "Hàng 34",
+        "plotId": "B03"
       }
     },
     {
@@ -8818,9 +8818,9 @@
         ]
       },
       "properties": {
-        "id": 311,
-        "name": "H\u00e0ng 35",
-        "plotId": 13
+        "id": 100828526680212770,
+        "name": "Hàng 35",
+        "plotId": "B03"
       }
     },
     {
@@ -8836,9 +8836,9 @@
         ]
       },
       "properties": {
-        "id": 312,
-        "name": "H\u00e0ng 01",
-        "plotId": 14
+        "id": 100828526680212771,
+        "name": "Hàng 01",
+        "plotId": "B04"
       }
     },
     {
@@ -8859,9 +8859,9 @@
         ]
       },
       "properties": {
-        "id": 313,
-        "name": "H\u00e0ng 02",
-        "plotId": 14
+        "id": 100828526680212772,
+        "name": "Hàng 02",
+        "plotId": "B04"
       }
     },
     {
@@ -8886,9 +8886,9 @@
         ]
       },
       "properties": {
-        "id": 314,
-        "name": "H\u00e0ng 03",
-        "plotId": 14
+        "id": 100828526680212773,
+        "name": "Hàng 03",
+        "plotId": "B04"
       }
     },
     {
@@ -8913,9 +8913,9 @@
         ]
       },
       "properties": {
-        "id": 315,
-        "name": "H\u00e0ng 04",
-        "plotId": 14
+        "id": 100828526680212774,
+        "name": "Hàng 04",
+        "plotId": "B04"
       }
     },
     {
@@ -8940,9 +8940,9 @@
         ]
       },
       "properties": {
-        "id": 316,
-        "name": "H\u00e0ng 05",
-        "plotId": 14
+        "id": 100828526680212775,
+        "name": "Hàng 05",
+        "plotId": "B04"
       }
     },
     {
@@ -8968,9 +8968,9 @@
         ]
       },
       "properties": {
-        "id": 317,
-        "name": "H\u00e0ng 06",
-        "plotId": 14
+        "id": 100828526680212776,
+        "name": "Hàng 06",
+        "plotId": "B04"
       }
     },
     {
@@ -8995,9 +8995,9 @@
         ]
       },
       "properties": {
-        "id": 318,
-        "name": "H\u00e0ng 07",
-        "plotId": 14
+        "id": 100828526680212777,
+        "name": "Hàng 07",
+        "plotId": "B04"
       }
     },
     {
@@ -9023,9 +9023,9 @@
         ]
       },
       "properties": {
-        "id": 319,
-        "name": "H\u00e0ng 08",
-        "plotId": 14
+        "id": 100828526680212778,
+        "name": "Hàng 08",
+        "plotId": "B04"
       }
     },
     {
@@ -9050,9 +9050,9 @@
         ]
       },
       "properties": {
-        "id": 320,
-        "name": "H\u00e0ng 09",
-        "plotId": 14
+        "id": 100828526680212779,
+        "name": "Hàng 09",
+        "plotId": "B04"
       }
     },
     {
@@ -9077,9 +9077,9 @@
         ]
       },
       "properties": {
-        "id": 321,
-        "name": "H\u00e0ng 10",
-        "plotId": 14
+        "id": 100828526680212780,
+        "name": "Hàng 10",
+        "plotId": "B04"
       }
     },
     {
@@ -9104,9 +9104,9 @@
         ]
       },
       "properties": {
-        "id": 322,
-        "name": "H\u00e0ng 11",
-        "plotId": 14
+        "id": 100828526680212781,
+        "name": "Hàng 11",
+        "plotId": "B04"
       }
     },
     {
@@ -9131,9 +9131,9 @@
         ]
       },
       "properties": {
-        "id": 323,
-        "name": "H\u00e0ng 12",
-        "plotId": 14
+        "id": 100828526680212782,
+        "name": "Hàng 12",
+        "plotId": "B04"
       }
     },
     {
@@ -9158,9 +9158,9 @@
         ]
       },
       "properties": {
-        "id": 324,
-        "name": "H\u00e0ng 13",
-        "plotId": 14
+        "id": 100828526680212783,
+        "name": "Hàng 13",
+        "plotId": "B04"
       }
     },
     {
@@ -9186,9 +9186,9 @@
         ]
       },
       "properties": {
-        "id": 325,
-        "name": "H\u00e0ng 14",
-        "plotId": 14
+        "id": 100828526680212784,
+        "name": "Hàng 14",
+        "plotId": "B04"
       }
     },
     {
@@ -9213,9 +9213,9 @@
         ]
       },
       "properties": {
-        "id": 326,
-        "name": "H\u00e0ng 15",
-        "plotId": 14
+        "id": 100828526680212785,
+        "name": "Hàng 15",
+        "plotId": "B04"
       }
     },
     {
@@ -9241,9 +9241,9 @@
         ]
       },
       "properties": {
-        "id": 327,
-        "name": "H\u00e0ng 16",
-        "plotId": 14
+        "id": 100828526680212786,
+        "name": "Hàng 16",
+        "plotId": "B04"
       }
     },
     {
@@ -9268,9 +9268,9 @@
         ]
       },
       "properties": {
-        "id": 328,
-        "name": "H\u00e0ng 17",
-        "plotId": 14
+        "id": 100828526680212787,
+        "name": "Hàng 17",
+        "plotId": "B04"
       }
     },
     {
@@ -9295,9 +9295,9 @@
         ]
       },
       "properties": {
-        "id": 329,
-        "name": "H\u00e0ng 18",
-        "plotId": 14
+        "id": 100828526680212788,
+        "name": "Hàng 18",
+        "plotId": "B04"
       }
     },
     {
@@ -9322,9 +9322,9 @@
         ]
       },
       "properties": {
-        "id": 330,
-        "name": "H\u00e0ng 19",
-        "plotId": 14
+        "id": 100828526680212789,
+        "name": "Hàng 19",
+        "plotId": "B04"
       }
     },
     {
@@ -9349,9 +9349,9 @@
         ]
       },
       "properties": {
-        "id": 331,
-        "name": "H\u00e0ng 20",
-        "plotId": 14
+        "id": 100828526680212790,
+        "name": "Hàng 20",
+        "plotId": "B04"
       }
     },
     {
@@ -9376,9 +9376,9 @@
         ]
       },
       "properties": {
-        "id": 332,
-        "name": "H\u00e0ng 21",
-        "plotId": 14
+        "id": 100828526680212791,
+        "name": "Hàng 21",
+        "plotId": "B04"
       }
     },
     {
@@ -9403,9 +9403,9 @@
         ]
       },
       "properties": {
-        "id": 333,
-        "name": "H\u00e0ng 22",
-        "plotId": 14
+        "id": 100828526680212792,
+        "name": "Hàng 22",
+        "plotId": "B04"
       }
     },
     {
@@ -9429,9 +9429,9 @@
         ]
       },
       "properties": {
-        "id": 334,
-        "name": "H\u00e0ng 23",
-        "plotId": 14
+        "id": 100828526680212793,
+        "name": "Hàng 23",
+        "plotId": "B04"
       }
     },
     {
@@ -9456,9 +9456,9 @@
         ]
       },
       "properties": {
-        "id": 335,
-        "name": "H\u00e0ng 24",
-        "plotId": 14
+        "id": 100828526680212794,
+        "name": "Hàng 24",
+        "plotId": "B04"
       }
     },
     {
@@ -9482,9 +9482,9 @@
         ]
       },
       "properties": {
-        "id": 336,
-        "name": "H\u00e0ng 25",
-        "plotId": 14
+        "id": 100828526680212795,
+        "name": "Hàng 25",
+        "plotId": "B04"
       }
     },
     {
@@ -9509,9 +9509,9 @@
         ]
       },
       "properties": {
-        "id": 337,
-        "name": "H\u00e0ng 26",
-        "plotId": 14
+        "id": 100828526680212796,
+        "name": "Hàng 26",
+        "plotId": "B04"
       }
     },
     {
@@ -9536,9 +9536,9 @@
         ]
       },
       "properties": {
-        "id": 338,
-        "name": "H\u00e0ng 01",
-        "plotId": 15
+        "id": 100828526680212797,
+        "name": "Hàng 01",
+        "plotId": "B05"
       }
     },
     {
@@ -9563,9 +9563,9 @@
         ]
       },
       "properties": {
-        "id": 339,
-        "name": "H\u00e0ng 02",
-        "plotId": 15
+        "id": 100828526680212798,
+        "name": "Hàng 02",
+        "plotId": "B05"
       }
     },
     {
@@ -9589,9 +9589,9 @@
         ]
       },
       "properties": {
-        "id": 340,
-        "name": "H\u00e0ng 03",
-        "plotId": 15
+        "id": 100828526680212799,
+        "name": "Hàng 03",
+        "plotId": "B05"
       }
     },
     {
@@ -9616,9 +9616,9 @@
         ]
       },
       "properties": {
-        "id": 341,
-        "name": "H\u00e0ng 04",
-        "plotId": 15
+        "id": 100828526680212800,
+        "name": "Hàng 04",
+        "plotId": "B05"
       }
     },
     {
@@ -9642,9 +9642,9 @@
         ]
       },
       "properties": {
-        "id": 342,
-        "name": "H\u00e0ng 05",
-        "plotId": 15
+        "id": 100828526680212801,
+        "name": "Hàng 05",
+        "plotId": "B05"
       }
     },
     {
@@ -9668,9 +9668,9 @@
         ]
       },
       "properties": {
-        "id": 343,
-        "name": "H\u00e0ng 06",
-        "plotId": 15
+        "id": 100828526680212802,
+        "name": "Hàng 06",
+        "plotId": "B05"
       }
     },
     {
@@ -9694,9 +9694,9 @@
         ]
       },
       "properties": {
-        "id": 344,
-        "name": "H\u00e0ng 07",
-        "plotId": 15
+        "id": 100828526680212803,
+        "name": "Hàng 07",
+        "plotId": "B05"
       }
     },
     {
@@ -9719,9 +9719,9 @@
         ]
       },
       "properties": {
-        "id": 345,
-        "name": "H\u00e0ng 08",
-        "plotId": 15
+        "id": 100828526680212804,
+        "name": "Hàng 08",
+        "plotId": "B05"
       }
     },
     {
@@ -9740,9 +9740,9 @@
         ]
       },
       "properties": {
-        "id": 346,
-        "name": "H\u00e0ng 09",
-        "plotId": 15
+        "id": 100828526680212805,
+        "name": "Hàng 09",
+        "plotId": "B05"
       }
     },
     {
@@ -9764,9 +9764,9 @@
         ]
       },
       "properties": {
-        "id": 347,
-        "name": "H\u00e0ng 10",
-        "plotId": 15
+        "id": 100828526680212806,
+        "name": "Hàng 10",
+        "plotId": "B05"
       }
     },
     {
@@ -9790,9 +9790,9 @@
         ]
       },
       "properties": {
-        "id": 348,
-        "name": "H\u00e0ng 11",
-        "plotId": 15
+        "id": 100828526680212807,
+        "name": "Hàng 11",
+        "plotId": "B05"
       }
     },
     {
@@ -9817,9 +9817,9 @@
         ]
       },
       "properties": {
-        "id": 349,
-        "name": "H\u00e0ng 12",
-        "plotId": 15
+        "id": 100828526680212808,
+        "name": "Hàng 12",
+        "plotId": "B05"
       }
     },
     {
@@ -9843,9 +9843,9 @@
         ]
       },
       "properties": {
-        "id": 350,
-        "name": "H\u00e0ng 13",
-        "plotId": 15
+        "id": 100828526680212809,
+        "name": "Hàng 13",
+        "plotId": "B05"
       }
     },
     {
@@ -9869,9 +9869,9 @@
         ]
       },
       "properties": {
-        "id": 351,
-        "name": "H\u00e0ng 14",
-        "plotId": 15
+        "id": 100828526680212810,
+        "name": "Hàng 14",
+        "plotId": "B05"
       }
     },
     {
@@ -9890,9 +9890,9 @@
         ]
       },
       "properties": {
-        "id": 352,
-        "name": "H\u00e0ng 15",
-        "plotId": 15
+        "id": 100828526680212811,
+        "name": "Hàng 15",
+        "plotId": "B05"
       }
     },
     {
@@ -9912,9 +9912,9 @@
         ]
       },
       "properties": {
-        "id": 353,
-        "name": "H\u00e0ng 16",
-        "plotId": 15
+        "id": 100828526680212812,
+        "name": "Hàng 16",
+        "plotId": "B05"
       }
     },
     {
@@ -9934,9 +9934,9 @@
         ]
       },
       "properties": {
-        "id": 354,
-        "name": "H\u00e0ng 17",
-        "plotId": 15
+        "id": 100828526680212813,
+        "name": "Hàng 17",
+        "plotId": "B05"
       }
     },
     {
@@ -9957,9 +9957,9 @@
         ]
       },
       "properties": {
-        "id": 355,
-        "name": "H\u00e0ng 18",
-        "plotId": 15
+        "id": 100828526680212814,
+        "name": "Hàng 18",
+        "plotId": "B05"
       }
     },
     {
@@ -9979,9 +9979,9 @@
         ]
       },
       "properties": {
-        "id": 356,
-        "name": "H\u00e0ng 19",
-        "plotId": 15
+        "id": 100828526680212815,
+        "name": "Hàng 19",
+        "plotId": "B05"
       }
     },
     {
@@ -10001,9 +10001,9 @@
         ]
       },
       "properties": {
-        "id": 357,
-        "name": "H\u00e0ng 20",
-        "plotId": 15
+        "id": 100828526680212816,
+        "name": "Hàng 20",
+        "plotId": "B05"
       }
     },
     {
@@ -10021,9 +10021,9 @@
         ]
       },
       "properties": {
-        "id": 358,
-        "name": "H\u00e0ng 21",
-        "plotId": 15
+        "id": 100828526680212817,
+        "name": "Hàng 21",
+        "plotId": "B05"
       }
     },
     {
@@ -10041,9 +10041,9 @@
         ]
       },
       "properties": {
-        "id": 359,
-        "name": "H\u00e0ng 22",
-        "plotId": 15
+        "id": 100828526680212818,
+        "name": "Hàng 22",
+        "plotId": "B05"
       }
     },
     {
@@ -10059,9 +10059,9 @@
         ]
       },
       "properties": {
-        "id": 360,
-        "name": "H\u00e0ng 23",
-        "plotId": 15
+        "id": 100828526680212819,
+        "name": "Hàng 23",
+        "plotId": "B05"
       }
     },
     {
@@ -10077,9 +10077,9 @@
         ]
       },
       "properties": {
-        "id": 361,
-        "name": "H\u00e0ng 24",
-        "plotId": 15
+        "id": 100828526680212820,
+        "name": "Hàng 24",
+        "plotId": "B05"
       }
     },
     {
@@ -10094,9 +10094,9 @@
         ]
       },
       "properties": {
-        "id": 362,
-        "name": "H\u00e0ng 25",
-        "plotId": 15
+        "id": 100828526680212821,
+        "name": "Hàng 25",
+        "plotId": "B05"
       }
     },
     {
@@ -10112,9 +10112,9 @@
         ]
       },
       "properties": {
-        "id": 363,
-        "name": "H\u00e0ng 26",
-        "plotId": 15
+        "id": 100828526680212822,
+        "name": "Hàng 26",
+        "plotId": "B05"
       }
     },
     {
@@ -10130,9 +10130,9 @@
         ]
       },
       "properties": {
-        "id": 364,
-        "name": "H\u00e0ng 27",
-        "plotId": 15
+        "id": 100828526680212823,
+        "name": "Hàng 27",
+        "plotId": "B05"
       }
     },
     {
@@ -10150,9 +10150,9 @@
         ]
       },
       "properties": {
-        "id": 365,
-        "name": "H\u00e0ng 28",
-        "plotId": 15
+        "id": 100828526680212824,
+        "name": "Hàng 28",
+        "plotId": "B05"
       }
     },
     {
@@ -10170,9 +10170,9 @@
         ]
       },
       "properties": {
-        "id": 366,
-        "name": "H\u00e0ng 29",
-        "plotId": 15
+        "id": 100828526680212825,
+        "name": "Hàng 29",
+        "plotId": "B05"
       }
     },
     {
@@ -10190,9 +10190,9 @@
         ]
       },
       "properties": {
-        "id": 367,
-        "name": "H\u00e0ng 30",
-        "plotId": 15
+        "id": 100828526680212826,
+        "name": "Hàng 30",
+        "plotId": "B05"
       }
     },
     {
@@ -10209,9 +10209,9 @@
         ]
       },
       "properties": {
-        "id": 368,
-        "name": "H\u00e0ng 31",
-        "plotId": 15
+        "id": 100828526680212827,
+        "name": "Hàng 31",
+        "plotId": "B05"
       }
     },
     {
@@ -10227,9 +10227,9 @@
         ]
       },
       "properties": {
-        "id": 369,
-        "name": "H\u00e0ng 32",
-        "plotId": 15
+        "id": 100828526680212828,
+        "name": "Hàng 32",
+        "plotId": "B05"
       }
     },
     {
@@ -10245,9 +10245,9 @@
         ]
       },
       "properties": {
-        "id": 370,
-        "name": "H\u00e0ng 33",
-        "plotId": 15
+        "id": 100828526680212829,
+        "name": "Hàng 33",
+        "plotId": "B05"
       }
     },
     {
@@ -10263,9 +10263,9 @@
         ]
       },
       "properties": {
-        "id": 371,
-        "name": "H\u00e0ng 34",
-        "plotId": 15
+        "id": 100828526680212830,
+        "name": "Hàng 34",
+        "plotId": "B05"
       }
     },
     {
@@ -10296,9 +10296,9 @@
         ]
       },
       "properties": {
-        "id": 372,
-        "name": "H\u00e0ng 01",
-        "plotId": 16
+        "id": 100828526680212831,
+        "name": "Hàng 01",
+        "plotId": "C01"
       }
     },
     {
@@ -10329,9 +10329,9 @@
         ]
       },
       "properties": {
-        "id": 373,
-        "name": "H\u00e0ng 02",
-        "plotId": 16
+        "id": 100828526680212832,
+        "name": "Hàng 02",
+        "plotId": "C01"
       }
     },
     {
@@ -10360,9 +10360,9 @@
         ]
       },
       "properties": {
-        "id": 374,
-        "name": "H\u00e0ng 03",
-        "plotId": 16
+        "id": 100828526680212833,
+        "name": "Hàng 03",
+        "plotId": "C01"
       }
     },
     {
@@ -10392,9 +10392,9 @@
         ]
       },
       "properties": {
-        "id": 375,
-        "name": "H\u00e0ng 04",
-        "plotId": 16
+        "id": 100828526680212834,
+        "name": "Hàng 04",
+        "plotId": "C01"
       }
     },
     {
@@ -10424,9 +10424,9 @@
         ]
       },
       "properties": {
-        "id": 376,
-        "name": "H\u00e0ng 05",
-        "plotId": 16
+        "id": 100828526680212835,
+        "name": "Hàng 05",
+        "plotId": "C01"
       }
     },
     {
@@ -10458,9 +10458,9 @@
         ]
       },
       "properties": {
-        "id": 377,
-        "name": "H\u00e0ng 06",
-        "plotId": 16
+        "id": 100828526680212836,
+        "name": "Hàng 06",
+        "plotId": "C01"
       }
     },
     {
@@ -10494,9 +10494,9 @@
         ]
       },
       "properties": {
-        "id": 378,
-        "name": "H\u00e0ng 07",
-        "plotId": 16
+        "id": 100828526680212837,
+        "name": "Hàng 07",
+        "plotId": "C01"
       }
     },
     {
@@ -10531,9 +10531,9 @@
         ]
       },
       "properties": {
-        "id": 379,
-        "name": "H\u00e0ng 08",
-        "plotId": 16
+        "id": 100828526680212838,
+        "name": "Hàng 08",
+        "plotId": "C01"
       }
     },
     {
@@ -10571,9 +10571,9 @@
         ]
       },
       "properties": {
-        "id": 380,
-        "name": "H\u00e0ng 09",
-        "plotId": 16
+        "id": 100828526680212839,
+        "name": "Hàng 09",
+        "plotId": "C01"
       }
     },
     {
@@ -10615,9 +10615,9 @@
         ]
       },
       "properties": {
-        "id": 381,
-        "name": "H\u00e0ng 10",
-        "plotId": 16
+        "id": 100828526680212840,
+        "name": "Hàng 10",
+        "plotId": "C01"
       }
     },
     {
@@ -10659,9 +10659,9 @@
         ]
       },
       "properties": {
-        "id": 382,
-        "name": "H\u00e0ng 11",
-        "plotId": 16
+        "id": 100828526680212841,
+        "name": "Hàng 11",
+        "plotId": "C01"
       }
     },
     {
@@ -10703,9 +10703,9 @@
         ]
       },
       "properties": {
-        "id": 383,
-        "name": "H\u00e0ng 12",
-        "plotId": 16
+        "id": 100828526680212842,
+        "name": "Hàng 12",
+        "plotId": "C01"
       }
     },
     {
@@ -10743,9 +10743,9 @@
         ]
       },
       "properties": {
-        "id": 384,
-        "name": "H\u00e0ng 13",
-        "plotId": 16
+        "id": 100828526680212843,
+        "name": "Hàng 13",
+        "plotId": "C01"
       }
     },
     {
@@ -10781,9 +10781,9 @@
         ]
       },
       "properties": {
-        "id": 385,
-        "name": "H\u00e0ng 14",
-        "plotId": 16
+        "id": 100828526680212844,
+        "name": "Hàng 14",
+        "plotId": "C01"
       }
     },
     {
@@ -10816,9 +10816,9 @@
         ]
       },
       "properties": {
-        "id": 386,
-        "name": "H\u00e0ng 15",
-        "plotId": 16
+        "id": 100828526680212845,
+        "name": "Hàng 15",
+        "plotId": "C01"
       }
     },
     {
@@ -10850,9 +10850,9 @@
         ]
       },
       "properties": {
-        "id": 387,
-        "name": "H\u00e0ng 16",
-        "plotId": 16
+        "id": 100828526680212846,
+        "name": "Hàng 16",
+        "plotId": "C01"
       }
     },
     {
@@ -10879,9 +10879,9 @@
         ]
       },
       "properties": {
-        "id": 388,
-        "name": "H\u00e0ng 17",
-        "plotId": 16
+        "id": 100828526680212847,
+        "name": "Hàng 17",
+        "plotId": "C01"
       }
     },
     {
@@ -10907,9 +10907,9 @@
         ]
       },
       "properties": {
-        "id": 389,
-        "name": "H\u00e0ng 18",
-        "plotId": 16
+        "id": 100828526680212848,
+        "name": "Hàng 18",
+        "plotId": "C01"
       }
     },
     {
@@ -10931,9 +10931,9 @@
         ]
       },
       "properties": {
-        "id": 390,
-        "name": "H\u00e0ng 19",
-        "plotId": 16
+        "id": 100828526680212849,
+        "name": "Hàng 19",
+        "plotId": "C01"
       }
     },
     {
@@ -10952,9 +10952,9 @@
         ]
       },
       "properties": {
-        "id": 391,
-        "name": "H\u00e0ng 20",
-        "plotId": 16
+        "id": 100828526680212850,
+        "name": "Hàng 20",
+        "plotId": "C01"
       }
     },
     {
@@ -10970,9 +10970,9 @@
         ]
       },
       "properties": {
-        "id": 392,
-        "name": "H\u00e0ng 21",
-        "plotId": 16
+        "id": 100828526680212851,
+        "name": "Hàng 21",
+        "plotId": "C01"
       }
     },
     {
@@ -10987,9 +10987,9 @@
         ]
       },
       "properties": {
-        "id": 393,
-        "name": "H\u00e0ng 22",
-        "plotId": 16
+        "id": 100828526680212852,
+        "name": "Hàng 22",
+        "plotId": "C01"
       }
     },
     {
@@ -11004,9 +11004,9 @@
         ]
       },
       "properties": {
-        "id": 394,
-        "name": "H\u00e0ng 01",
-        "plotId": 17
+        "id": 100828526680212853,
+        "name": "Hàng 01",
+        "plotId": "C02"
       }
     },
     {
@@ -11033,9 +11033,9 @@
         ]
       },
       "properties": {
-        "id": 395,
-        "name": "H\u00e0ng 02",
-        "plotId": 17
+        "id": 100828526680212854,
+        "name": "Hàng 02",
+        "plotId": "C02"
       }
     },
     {
@@ -11063,9 +11063,9 @@
         ]
       },
       "properties": {
-        "id": 396,
-        "name": "H\u00e0ng 03",
-        "plotId": 17
+        "id": 100828526680212855,
+        "name": "Hàng 03",
+        "plotId": "C02"
       }
     },
     {
@@ -11092,9 +11092,9 @@
         ]
       },
       "properties": {
-        "id": 397,
-        "name": "H\u00e0ng 04",
-        "plotId": 17
+        "id": 100828526680212856,
+        "name": "Hàng 04",
+        "plotId": "C02"
       }
     },
     {
@@ -11122,9 +11122,9 @@
         ]
       },
       "properties": {
-        "id": 398,
-        "name": "H\u00e0ng 05",
-        "plotId": 17
+        "id": 100828526680212857,
+        "name": "Hàng 05",
+        "plotId": "C02"
       }
     },
     {
@@ -11152,9 +11152,9 @@
         ]
       },
       "properties": {
-        "id": 399,
-        "name": "H\u00e0ng 06",
-        "plotId": 17
+        "id": 100828526680212858,
+        "name": "Hàng 06",
+        "plotId": "C02"
       }
     },
     {
@@ -11174,9 +11174,9 @@
         ]
       },
       "properties": {
-        "id": 400,
-        "name": "H\u00e0ng 07",
-        "plotId": 17
+        "id": 100828526680212859,
+        "name": "Hàng 07",
+        "plotId": "C02"
       }
     },
     {
@@ -11197,9 +11197,9 @@
         ]
       },
       "properties": {
-        "id": 401,
-        "name": "H\u00e0ng 08",
-        "plotId": 17
+        "id": 100828526680212860,
+        "name": "Hàng 08",
+        "plotId": "C02"
       }
     },
     {
@@ -11220,9 +11220,9 @@
         ]
       },
       "properties": {
-        "id": 402,
-        "name": "H\u00e0ng 09",
-        "plotId": 17
+        "id": 100828526680212861,
+        "name": "Hàng 09",
+        "plotId": "C02"
       }
     },
     {
@@ -11243,9 +11243,9 @@
         ]
       },
       "properties": {
-        "id": 403,
-        "name": "H\u00e0ng 10",
-        "plotId": 17
+        "id": 100828526680212862,
+        "name": "Hàng 10",
+        "plotId": "C02"
       }
     },
     {
@@ -11275,9 +11275,9 @@
         ]
       },
       "properties": {
-        "id": 404,
-        "name": "H\u00e0ng 11",
-        "plotId": 17
+        "id": 100828526680212863,
+        "name": "Hàng 11",
+        "plotId": "C02"
       }
     },
     {
@@ -11307,9 +11307,9 @@
         ]
       },
       "properties": {
-        "id": 405,
-        "name": "H\u00e0ng 12",
-        "plotId": 17
+        "id": 100828526680212864,
+        "name": "Hàng 12",
+        "plotId": "C02"
       }
     },
     {
@@ -11339,9 +11339,9 @@
         ]
       },
       "properties": {
-        "id": 406,
-        "name": "H\u00e0ng 01",
-        "plotId": 18
+        "id": 100828526680212865,
+        "name": "Hàng 01",
+        "plotId": "C03"
       }
     },
     {
@@ -11371,9 +11371,9 @@
         ]
       },
       "properties": {
-        "id": 407,
-        "name": "H\u00e0ng 02",
-        "plotId": 18
+        "id": 100828526680212866,
+        "name": "Hàng 02",
+        "plotId": "C03"
       }
     },
     {
@@ -11403,9 +11403,9 @@
         ]
       },
       "properties": {
-        "id": 408,
-        "name": "H\u00e0ng 03",
-        "plotId": 18
+        "id": 100828526680212867,
+        "name": "Hàng 03",
+        "plotId": "C03"
       }
     },
     {
@@ -11435,9 +11435,9 @@
         ]
       },
       "properties": {
-        "id": 409,
-        "name": "H\u00e0ng 04",
-        "plotId": 18
+        "id": 100828526680212868,
+        "name": "Hàng 04",
+        "plotId": "C03"
       }
     },
     {
@@ -11466,9 +11466,9 @@
         ]
       },
       "properties": {
-        "id": 410,
-        "name": "H\u00e0ng 05",
-        "plotId": 18
+        "id": 100828526680212869,
+        "name": "Hàng 05",
+        "plotId": "C03"
       }
     },
     {
@@ -11497,9 +11497,9 @@
         ]
       },
       "properties": {
-        "id": 411,
-        "name": "H\u00e0ng 06",
-        "plotId": 18
+        "id": 100828526680212870,
+        "name": "Hàng 06",
+        "plotId": "C03"
       }
     },
     {
@@ -11527,9 +11527,9 @@
         ]
       },
       "properties": {
-        "id": 412,
-        "name": "H\u00e0ng 07",
-        "plotId": 18
+        "id": 100828526680212871,
+        "name": "Hàng 07",
+        "plotId": "C03"
       }
     },
     {
@@ -11557,9 +11557,9 @@
         ]
       },
       "properties": {
-        "id": 413,
-        "name": "H\u00e0ng 08",
-        "plotId": 18
+        "id": 100828526680212872,
+        "name": "Hàng 08",
+        "plotId": "C03"
       }
     },
     {
@@ -11586,9 +11586,9 @@
         ]
       },
       "properties": {
-        "id": 414,
-        "name": "H\u00e0ng 09",
-        "plotId": 18
+        "id": 100828526680212873,
+        "name": "Hàng 09",
+        "plotId": "C03"
       }
     },
     {
@@ -11615,9 +11615,9 @@
         ]
       },
       "properties": {
-        "id": 415,
-        "name": "H\u00e0ng 10",
-        "plotId": 18
+        "id": 100828526680212874,
+        "name": "Hàng 10",
+        "plotId": "C03"
       }
     },
     {
@@ -11643,9 +11643,9 @@
         ]
       },
       "properties": {
-        "id": 416,
-        "name": "H\u00e0ng 11",
-        "plotId": 18
+        "id": 100828526680212875,
+        "name": "Hàng 11",
+        "plotId": "C03"
       }
     },
     {
@@ -11671,9 +11671,9 @@
         ]
       },
       "properties": {
-        "id": 417,
-        "name": "H\u00e0ng 01",
-        "plotId": 19
+        "id": 100828526680212876,
+        "name": "Hàng 01",
+        "plotId": "C04"
       }
     },
     {
@@ -11698,9 +11698,9 @@
         ]
       },
       "properties": {
-        "id": 418,
-        "name": "H\u00e0ng 02",
-        "plotId": 19
+        "id": 100828526680212877,
+        "name": "Hàng 02",
+        "plotId": "C04"
       }
     },
     {
@@ -11725,9 +11725,9 @@
         ]
       },
       "properties": {
-        "id": 419,
-        "name": "H\u00e0ng 03",
-        "plotId": 19
+        "id": 100828526680212878,
+        "name": "Hàng 03",
+        "plotId": "C04"
       }
     },
     {
@@ -11751,9 +11751,9 @@
         ]
       },
       "properties": {
-        "id": 420,
-        "name": "H\u00e0ng 04",
-        "plotId": 19
+        "id": 100828526680212879,
+        "name": "Hàng 04",
+        "plotId": "C04"
       }
     },
     {
@@ -11778,9 +11778,9 @@
         ]
       },
       "properties": {
-        "id": 421,
-        "name": "H\u00e0ng 05",
-        "plotId": 19
+        "id": 100828526680212880,
+        "name": "Hàng 05",
+        "plotId": "C04"
       }
     },
     {
@@ -11804,9 +11804,9 @@
         ]
       },
       "properties": {
-        "id": 422,
-        "name": "H\u00e0ng 06",
-        "plotId": 19
+        "id": 100828526680212881,
+        "name": "Hàng 06",
+        "plotId": "C04"
       }
     },
     {
@@ -11829,9 +11829,9 @@
         ]
       },
       "properties": {
-        "id": 423,
-        "name": "H\u00e0ng 07",
-        "plotId": 19
+        "id": 100828526680212882,
+        "name": "Hàng 07",
+        "plotId": "C04"
       }
     },
     {
@@ -11854,9 +11854,9 @@
         ]
       },
       "properties": {
-        "id": 424,
-        "name": "H\u00e0ng 08",
-        "plotId": 19
+        "id": 100828526680212883,
+        "name": "Hàng 08",
+        "plotId": "C04"
       }
     },
     {
@@ -11879,9 +11879,9 @@
         ]
       },
       "properties": {
-        "id": 425,
-        "name": "H\u00e0ng 09",
-        "plotId": 19
+        "id": 100828526680212884,
+        "name": "Hàng 09",
+        "plotId": "C04"
       }
     },
     {
@@ -11904,9 +11904,9 @@
         ]
       },
       "properties": {
-        "id": 426,
-        "name": "H\u00e0ng 10",
-        "plotId": 19
+        "id": 100828526680212885,
+        "name": "Hàng 10",
+        "plotId": "C04"
       }
     },
     {
@@ -11930,9 +11930,9 @@
         ]
       },
       "properties": {
-        "id": 427,
-        "name": "H\u00e0ng 11",
-        "plotId": 19
+        "id": 100828526680212886,
+        "name": "Hàng 11",
+        "plotId": "C04"
       }
     },
     {
@@ -11956,9 +11956,9 @@
         ]
       },
       "properties": {
-        "id": 428,
-        "name": "H\u00e0ng 12",
-        "plotId": 19
+        "id": 100828526680212887,
+        "name": "Hàng 12",
+        "plotId": "C04"
       }
     },
     {
@@ -11981,9 +11981,9 @@
         ]
       },
       "properties": {
-        "id": 429,
-        "name": "H\u00e0ng 13",
-        "plotId": 19
+        "id": 100828526680212888,
+        "name": "Hàng 13",
+        "plotId": "C04"
       }
     },
     {
@@ -12005,9 +12005,9 @@
         ]
       },
       "properties": {
-        "id": 430,
-        "name": "H\u00e0ng 14",
-        "plotId": 19
+        "id": 100828526680212889,
+        "name": "Hàng 14",
+        "plotId": "C04"
       }
     },
     {
@@ -12038,9 +12038,9 @@
         ]
       },
       "properties": {
-        "id": 431,
-        "name": "H\u00e0ng 01",
-        "plotId": 20
+        "id": 100828526680212890,
+        "name": "Hàng 01",
+        "plotId": "C05"
       }
     },
     {
@@ -12071,9 +12071,9 @@
         ]
       },
       "properties": {
-        "id": 432,
-        "name": "H\u00e0ng 02",
-        "plotId": 20
+        "id": 100828526680212891,
+        "name": "Hàng 02",
+        "plotId": "C05"
       }
     },
     {
@@ -12104,9 +12104,9 @@
         ]
       },
       "properties": {
-        "id": 433,
-        "name": "H\u00e0ng 03",
-        "plotId": 20
+        "id": 100828526680212892,
+        "name": "Hàng 03",
+        "plotId": "C05"
       }
     },
     {
@@ -12137,9 +12137,9 @@
         ]
       },
       "properties": {
-        "id": 434,
-        "name": "H\u00e0ng 04",
-        "plotId": 20
+        "id": 100828526680212893,
+        "name": "Hàng 04",
+        "plotId": "C05"
       }
     },
     {
@@ -12171,9 +12171,9 @@
         ]
       },
       "properties": {
-        "id": 435,
-        "name": "H\u00e0ng 05",
-        "plotId": 20
+        "id": 100828526680212894,
+        "name": "Hàng 05",
+        "plotId": "C05"
       }
     },
     {
@@ -12205,9 +12205,9 @@
         ]
       },
       "properties": {
-        "id": 436,
-        "name": "H\u00e0ng 06",
-        "plotId": 20
+        "id": 100828526680212895,
+        "name": "Hàng 06",
+        "plotId": "C05"
       }
     },
     {
@@ -12240,9 +12240,9 @@
         ]
       },
       "properties": {
-        "id": 437,
-        "name": "H\u00e0ng 07",
-        "plotId": 20
+        "id": 100828526680212896,
+        "name": "Hàng 07",
+        "plotId": "C05"
       }
     },
     {
@@ -12275,9 +12275,9 @@
         ]
       },
       "properties": {
-        "id": 438,
-        "name": "H\u00e0ng 08",
-        "plotId": 20
+        "id": 100828526680212897,
+        "name": "Hàng 08",
+        "plotId": "C05"
       }
     },
     {
@@ -12311,9 +12311,9 @@
         ]
       },
       "properties": {
-        "id": 439,
-        "name": "H\u00e0ng 09",
-        "plotId": 20
+        "id": 100828526680212898,
+        "name": "Hàng 09",
+        "plotId": "C05"
       }
     },
     {
@@ -12347,9 +12347,9 @@
         ]
       },
       "properties": {
-        "id": 440,
-        "name": "H\u00e0ng 10",
-        "plotId": 20
+        "id": 100828526680212899,
+        "name": "Hàng 10",
+        "plotId": "C05"
       }
     },
     {
@@ -12383,9 +12383,9 @@
         ]
       },
       "properties": {
-        "id": 441,
-        "name": "H\u00e0ng 11",
-        "plotId": 20
+        "id": 100828526680212900,
+        "name": "Hàng 11",
+        "plotId": "C05"
       }
     },
     {
@@ -12421,9 +12421,9 @@
         ]
       },
       "properties": {
-        "id": 442,
-        "name": "H\u00e0ng 12",
-        "plotId": 20
+        "id": 100828526680212901,
+        "name": "Hàng 12",
+        "plotId": "C05"
       }
     },
     {
@@ -12455,9 +12455,9 @@
         ]
       },
       "properties": {
-        "id": 443,
-        "name": "H\u00e0ng 13",
-        "plotId": 20
+        "id": 100828526680212902,
+        "name": "Hàng 13",
+        "plotId": "C05"
       }
     },
     {
@@ -12485,9 +12485,9 @@
         ]
       },
       "properties": {
-        "id": 444,
-        "name": "H\u00e0ng 14",
-        "plotId": 20
+        "id": 100828526680212903,
+        "name": "Hàng 14",
+        "plotId": "C05"
       }
     },
     {
@@ -12512,9 +12512,9 @@
         ]
       },
       "properties": {
-        "id": 445,
-        "name": "H\u00e0ng 15",
-        "plotId": 20
+        "id": 100828526680212904,
+        "name": "Hàng 15",
+        "plotId": "C05"
       }
     },
     {
@@ -12539,9 +12539,9 @@
         ]
       },
       "properties": {
-        "id": 446,
-        "name": "H\u00e0ng 01",
-        "plotId": 21
+        "id": 100828526680212905,
+        "name": "Hàng 01",
+        "plotId": "D01"
       }
     },
     {
@@ -12567,9 +12567,9 @@
         ]
       },
       "properties": {
-        "id": 447,
-        "name": "H\u00e0ng 02",
-        "plotId": 21
+        "id": 100828526680212906,
+        "name": "Hàng 02",
+        "plotId": "D01"
       }
     },
     {
@@ -12595,9 +12595,9 @@
         ]
       },
       "properties": {
-        "id": 448,
-        "name": "H\u00e0ng 03",
-        "plotId": 21
+        "id": 100828526680212907,
+        "name": "Hàng 03",
+        "plotId": "D01"
       }
     },
     {
@@ -12624,9 +12624,9 @@
         ]
       },
       "properties": {
-        "id": 449,
-        "name": "H\u00e0ng 04",
-        "plotId": 21
+        "id": 100828526680212908,
+        "name": "Hàng 04",
+        "plotId": "D01"
       }
     },
     {
@@ -12652,9 +12652,9 @@
         ]
       },
       "properties": {
-        "id": 450,
-        "name": "H\u00e0ng 05",
-        "plotId": 21
+        "id": 100828526680212909,
+        "name": "Hàng 05",
+        "plotId": "D01"
       }
     },
     {
@@ -12681,9 +12681,9 @@
         ]
       },
       "properties": {
-        "id": 451,
-        "name": "H\u00e0ng 06",
-        "plotId": 21
+        "id": 100828526680212910,
+        "name": "Hàng 06",
+        "plotId": "D01"
       }
     },
     {
@@ -12710,9 +12710,9 @@
         ]
       },
       "properties": {
-        "id": 452,
-        "name": "H\u00e0ng 07",
-        "plotId": 21
+        "id": 100828526680212911,
+        "name": "Hàng 07",
+        "plotId": "D01"
       }
     },
     {
@@ -12737,9 +12737,9 @@
         ]
       },
       "properties": {
-        "id": 453,
-        "name": "H\u00e0ng 08",
-        "plotId": 21
+        "id": 100828526680212912,
+        "name": "Hàng 08",
+        "plotId": "D01"
       }
     },
     {
@@ -12762,9 +12762,9 @@
         ]
       },
       "properties": {
-        "id": 454,
-        "name": "H\u00e0ng 09",
-        "plotId": 21
+        "id": 100828526680212913,
+        "name": "Hàng 09",
+        "plotId": "D01"
       }
     },
     {
@@ -12788,9 +12788,9 @@
         ]
       },
       "properties": {
-        "id": 455,
-        "name": "H\u00e0ng 10",
-        "plotId": 21
+        "id": 100828526680212914,
+        "name": "Hàng 10",
+        "plotId": "D01"
       }
     },
     {
@@ -12812,9 +12812,9 @@
         ]
       },
       "properties": {
-        "id": 456,
-        "name": "H\u00e0ng 11",
-        "plotId": 21
+        "id": 100828526680212915,
+        "name": "Hàng 11",
+        "plotId": "D01"
       }
     },
     {
@@ -12837,9 +12837,9 @@
         ]
       },
       "properties": {
-        "id": 457,
-        "name": "H\u00e0ng 12",
-        "plotId": 21
+        "id": 100828526680212916,
+        "name": "Hàng 12",
+        "plotId": "D01"
       }
     },
     {
@@ -12860,9 +12860,9 @@
         ]
       },
       "properties": {
-        "id": 458,
-        "name": "H\u00e0ng 13",
-        "plotId": 21
+        "id": 100828526680212917,
+        "name": "Hàng 13",
+        "plotId": "D01"
       }
     },
     {
@@ -12883,9 +12883,9 @@
         ]
       },
       "properties": {
-        "id": 459,
-        "name": "H\u00e0ng 14",
-        "plotId": 21
+        "id": 100828526680212918,
+        "name": "Hàng 14",
+        "plotId": "D01"
       }
     },
     {
@@ -12903,9 +12903,9 @@
         ]
       },
       "properties": {
-        "id": 460,
-        "name": "H\u00e0ng 15",
-        "plotId": 21
+        "id": 100828526680212919,
+        "name": "Hàng 15",
+        "plotId": "D01"
       }
     },
     {
@@ -12925,9 +12925,9 @@
         ]
       },
       "properties": {
-        "id": 461,
-        "name": "H\u00e0ng 16",
-        "plotId": 21
+        "id": 100828526680212920,
+        "name": "Hàng 16",
+        "plotId": "D01"
       }
     },
     {
@@ -12944,9 +12944,9 @@
         ]
       },
       "properties": {
-        "id": 462,
-        "name": "H\u00e0ng 17",
-        "plotId": 21
+        "id": 100828526680212921,
+        "name": "Hàng 17",
+        "plotId": "D01"
       }
     },
     {
@@ -12964,9 +12964,9 @@
         ]
       },
       "properties": {
-        "id": 463,
-        "name": "H\u00e0ng 18",
-        "plotId": 21
+        "id": 100828526680212922,
+        "name": "Hàng 18",
+        "plotId": "D01"
       }
     },
     {
@@ -12990,9 +12990,9 @@
         ]
       },
       "properties": {
-        "id": 464,
-        "name": "H\u00e0ng 19",
-        "plotId": 21
+        "id": 100828526680212923,
+        "name": "Hàng 19",
+        "plotId": "D01"
       }
     },
     {
@@ -13013,9 +13013,9 @@
         ]
       },
       "properties": {
-        "id": 465,
-        "name": "H\u00e0ng 20",
-        "plotId": 21
+        "id": 100828526680212924,
+        "name": "Hàng 20",
+        "plotId": "D01"
       }
     },
     {
@@ -13039,9 +13039,9 @@
         ]
       },
       "properties": {
-        "id": 466,
-        "name": "H\u00e0ng 21",
-        "plotId": 21
+        "id": 100828526680212925,
+        "name": "Hàng 21",
+        "plotId": "D01"
       }
     },
     {
@@ -13065,9 +13065,9 @@
         ]
       },
       "properties": {
-        "id": 467,
-        "name": "H\u00e0ng 22",
-        "plotId": 21
+        "id": 100828526680212926,
+        "name": "Hàng 22",
+        "plotId": "D01"
       }
     },
     {
@@ -13093,9 +13093,9 @@
         ]
       },
       "properties": {
-        "id": 468,
-        "name": "H\u00e0ng 01",
-        "plotId": 22
+        "id": 100828526680212927,
+        "name": "Hàng 01",
+        "plotId": "D02"
       }
     },
     {
@@ -13121,9 +13121,9 @@
         ]
       },
       "properties": {
-        "id": 469,
-        "name": "H\u00e0ng 02",
-        "plotId": 22
+        "id": 100828526680212928,
+        "name": "Hàng 02",
+        "plotId": "D02"
       }
     },
     {
@@ -13150,9 +13150,9 @@
         ]
       },
       "properties": {
-        "id": 470,
-        "name": "H\u00e0ng 03",
-        "plotId": 22
+        "id": 100828526680212929,
+        "name": "Hàng 03",
+        "plotId": "D02"
       }
     },
     {
@@ -13179,9 +13179,9 @@
         ]
       },
       "properties": {
-        "id": 471,
-        "name": "H\u00e0ng 04",
-        "plotId": 22
+        "id": 100828526680212930,
+        "name": "Hàng 04",
+        "plotId": "D02"
       }
     },
     {
@@ -13209,9 +13209,9 @@
         ]
       },
       "properties": {
-        "id": 472,
-        "name": "H\u00e0ng 05",
-        "plotId": 22
+        "id": 100828526680212931,
+        "name": "Hàng 05",
+        "plotId": "D02"
       }
     },
     {
@@ -13239,9 +13239,9 @@
         ]
       },
       "properties": {
-        "id": 473,
-        "name": "H\u00e0ng 06",
-        "plotId": 22
+        "id": 100828526680212932,
+        "name": "Hàng 06",
+        "plotId": "D02"
       }
     },
     {
@@ -13270,9 +13270,9 @@
         ]
       },
       "properties": {
-        "id": 474,
-        "name": "H\u00e0ng 07",
-        "plotId": 22
+        "id": 100828526680212933,
+        "name": "Hàng 07",
+        "plotId": "D02"
       }
     },
     {
@@ -13301,9 +13301,9 @@
         ]
       },
       "properties": {
-        "id": 475,
-        "name": "H\u00e0ng 08",
-        "plotId": 22
+        "id": 100828526680212934,
+        "name": "Hàng 08",
+        "plotId": "D02"
       }
     },
     {
@@ -13331,9 +13331,9 @@
         ]
       },
       "properties": {
-        "id": 476,
-        "name": "H\u00e0ng 09",
-        "plotId": 22
+        "id": 100828526680212935,
+        "name": "Hàng 09",
+        "plotId": "D02"
       }
     },
     {
@@ -13363,9 +13363,9 @@
         ]
       },
       "properties": {
-        "id": 477,
-        "name": "H\u00e0ng 10",
-        "plotId": 22
+        "id": 100828526680212936,
+        "name": "Hàng 10",
+        "plotId": "D02"
       }
     },
     {
@@ -13396,9 +13396,9 @@
         ]
       },
       "properties": {
-        "id": 478,
-        "name": "H\u00e0ng 11",
-        "plotId": 22
+        "id": 100828526680212937,
+        "name": "Hàng 11",
+        "plotId": "D02"
       }
     },
     {
@@ -13429,9 +13429,9 @@
         ]
       },
       "properties": {
-        "id": 479,
-        "name": "H\u00e0ng 12",
-        "plotId": 22
+        "id": 100828526680212938,
+        "name": "Hàng 12",
+        "plotId": "D02"
       }
     },
     {
@@ -13461,9 +13461,9 @@
         ]
       },
       "properties": {
-        "id": 480,
-        "name": "H\u00e0ng 13",
-        "plotId": 22
+        "id": 100828526680212939,
+        "name": "Hàng 13",
+        "plotId": "D02"
       }
     },
     {
@@ -13495,9 +13495,9 @@
         ]
       },
       "properties": {
-        "id": 481,
-        "name": "H\u00e0ng 14",
-        "plotId": 22
+        "id": 100828526680212940,
+        "name": "Hàng 14",
+        "plotId": "D02"
       }
     },
     {
@@ -13527,9 +13527,9 @@
         ]
       },
       "properties": {
-        "id": 482,
-        "name": "H\u00e0ng 15",
-        "plotId": 22
+        "id": 100828526680212941,
+        "name": "Hàng 15",
+        "plotId": "D02"
       }
     },
     {
@@ -13559,9 +13559,9 @@
         ]
       },
       "properties": {
-        "id": 483,
-        "name": "H\u00e0ng 16",
-        "plotId": 22
+        "id": 100828526680212942,
+        "name": "Hàng 16",
+        "plotId": "D02"
       }
     },
     {
@@ -13591,9 +13591,9 @@
         ]
       },
       "properties": {
-        "id": 484,
-        "name": "H\u00e0ng 17",
-        "plotId": 22
+        "id": 100828526680212943,
+        "name": "Hàng 17",
+        "plotId": "D02"
       }
     },
     {
@@ -13620,9 +13620,9 @@
         ]
       },
       "properties": {
-        "id": 485,
-        "name": "H\u00e0ng 18",
-        "plotId": 22
+        "id": 100828526680212944,
+        "name": "Hàng 18",
+        "plotId": "D02"
       }
     },
     {
@@ -13645,9 +13645,9 @@
         ]
       },
       "properties": {
-        "id": 486,
-        "name": "H\u00e0ng 19",
-        "plotId": 22
+        "id": 100828526680212945,
+        "name": "Hàng 19",
+        "plotId": "D02"
       }
     },
     {
@@ -13667,9 +13667,9 @@
         ]
       },
       "properties": {
-        "id": 487,
-        "name": "H\u00e0ng 20",
-        "plotId": 22
+        "id": 100828526680212946,
+        "name": "Hàng 20",
+        "plotId": "D02"
       }
     },
     {
@@ -13690,9 +13690,9 @@
         ]
       },
       "properties": {
-        "id": 488,
-        "name": "H\u00e0ng 21",
-        "plotId": 22
+        "id": 100828526680212947,
+        "name": "Hàng 21",
+        "plotId": "D02"
       }
     },
     {
@@ -13712,9 +13712,9 @@
         ]
       },
       "properties": {
-        "id": 489,
-        "name": "H\u00e0ng 22",
-        "plotId": 22
+        "id": 100828526680212948,
+        "name": "Hàng 22",
+        "plotId": "D02"
       }
     },
     {
@@ -13734,9 +13734,9 @@
         ]
       },
       "properties": {
-        "id": 490,
-        "name": "H\u00e0ng 23",
-        "plotId": 22
+        "id": 100828526680212949,
+        "name": "Hàng 23",
+        "plotId": "D02"
       }
     },
     {
@@ -13763,9 +13763,9 @@
         ]
       },
       "properties": {
-        "id": 491,
-        "name": "H\u00e0ng 24",
-        "plotId": 22
+        "id": 100828526680212950,
+        "name": "Hàng 24",
+        "plotId": "D02"
       }
     },
     {
@@ -13792,9 +13792,9 @@
         ]
       },
       "properties": {
-        "id": 492,
-        "name": "H\u00e0ng 25",
-        "plotId": 22
+        "id": 100828526680212951,
+        "name": "Hàng 25",
+        "plotId": "D02"
       }
     },
     {
@@ -13823,9 +13823,9 @@
         ]
       },
       "properties": {
-        "id": 493,
-        "name": "H\u00e0ng 26",
-        "plotId": 22
+        "id": 100828526680212952,
+        "name": "Hàng 26",
+        "plotId": "D02"
       }
     },
     {
@@ -13853,9 +13853,9 @@
         ]
       },
       "properties": {
-        "id": 494,
-        "name": "H\u00e0ng 27",
-        "plotId": 22
+        "id": 100828526680212953,
+        "name": "Hàng 27",
+        "plotId": "D02"
       }
     },
     {
@@ -13868,9 +13868,9 @@
         ]
       },
       "properties": {
-        "id": 495,
-        "name": "H\u00e0ng 01",
-        "plotId": 23
+        "id": 100828526680212954,
+        "name": "Hàng 01",
+        "plotId": "D03"
       }
     },
     {
@@ -13885,9 +13885,9 @@
         ]
       },
       "properties": {
-        "id": 496,
-        "name": "H\u00e0ng 02",
-        "plotId": 23
+        "id": 100828526680212955,
+        "name": "Hàng 02",
+        "plotId": "D03"
       }
     },
     {
@@ -13905,9 +13905,9 @@
         ]
       },
       "properties": {
-        "id": 497,
-        "name": "H\u00e0ng 03",
-        "plotId": 23
+        "id": 100828526680212956,
+        "name": "Hàng 03",
+        "plotId": "D03"
       }
     },
     {
@@ -13928,9 +13928,9 @@
         ]
       },
       "properties": {
-        "id": 498,
-        "name": "H\u00e0ng 04",
-        "plotId": 23
+        "id": 100828526680212957,
+        "name": "Hàng 04",
+        "plotId": "D03"
       }
     },
     {
@@ -13953,9 +13953,9 @@
         ]
       },
       "properties": {
-        "id": 499,
-        "name": "H\u00e0ng 05",
-        "plotId": 23
+        "id": 100828526680212958,
+        "name": "Hàng 05",
+        "plotId": "D03"
       }
     },
     {
@@ -13979,9 +13979,9 @@
         ]
       },
       "properties": {
-        "id": 500,
-        "name": "H\u00e0ng 06",
-        "plotId": 23
+        "id": 100828526680212959,
+        "name": "Hàng 06",
+        "plotId": "D03"
       }
     },
     {
@@ -14007,9 +14007,9 @@
         ]
       },
       "properties": {
-        "id": 501,
-        "name": "H\u00e0ng 07",
-        "plotId": 23
+        "id": 100828526680212960,
+        "name": "Hàng 07",
+        "plotId": "D03"
       }
     },
     {
@@ -14036,9 +14036,9 @@
         ]
       },
       "properties": {
-        "id": 502,
-        "name": "H\u00e0ng 08",
-        "plotId": 23
+        "id": 100828526680212961,
+        "name": "Hàng 08",
+        "plotId": "D03"
       }
     },
     {
@@ -14066,9 +14066,9 @@
         ]
       },
       "properties": {
-        "id": 503,
-        "name": "H\u00e0ng 09",
-        "plotId": 23
+        "id": 100828526680212962,
+        "name": "Hàng 09",
+        "plotId": "D03"
       }
     },
     {
@@ -14096,9 +14096,9 @@
         ]
       },
       "properties": {
-        "id": 504,
-        "name": "H\u00e0ng 10",
-        "plotId": 23
+        "id": 100828526680212963,
+        "name": "Hàng 10",
+        "plotId": "D03"
       }
     },
     {
@@ -14127,9 +14127,9 @@
         ]
       },
       "properties": {
-        "id": 505,
-        "name": "H\u00e0ng 11",
-        "plotId": 23
+        "id": 100828526680212964,
+        "name": "Hàng 11",
+        "plotId": "D03"
       }
     },
     {
@@ -14158,9 +14158,9 @@
         ]
       },
       "properties": {
-        "id": 506,
-        "name": "H\u00e0ng 12",
-        "plotId": 23
+        "id": 100828526680212965,
+        "name": "Hàng 12",
+        "plotId": "D03"
       }
     },
     {
@@ -14188,9 +14188,9 @@
         ]
       },
       "properties": {
-        "id": 507,
-        "name": "H\u00e0ng 13",
-        "plotId": 23
+        "id": 100828526680212966,
+        "name": "Hàng 13",
+        "plotId": "D03"
       }
     },
     {
@@ -14219,9 +14219,9 @@
         ]
       },
       "properties": {
-        "id": 508,
-        "name": "H\u00e0ng 14",
-        "plotId": 23
+        "id": 100828526680212967,
+        "name": "Hàng 14",
+        "plotId": "D03"
       }
     },
     {
@@ -14251,9 +14251,9 @@
         ]
       },
       "properties": {
-        "id": 509,
-        "name": "H\u00e0ng 15",
-        "plotId": 23
+        "id": 100828526680212968,
+        "name": "Hàng 15",
+        "plotId": "D03"
       }
     },
     {
@@ -14286,9 +14286,9 @@
         ]
       },
       "properties": {
-        "id": 510,
-        "name": "H\u00e0ng 16",
-        "plotId": 23
+        "id": 100828526680212969,
+        "name": "Hàng 16",
+        "plotId": "D03"
       }
     },
     {
@@ -14322,9 +14322,9 @@
         ]
       },
       "properties": {
-        "id": 511,
-        "name": "H\u00e0ng 17",
-        "plotId": 23
+        "id": 100828526680212970,
+        "name": "Hàng 17",
+        "plotId": "D03"
       }
     },
     {
@@ -14357,9 +14357,9 @@
         ]
       },
       "properties": {
-        "id": 512,
-        "name": "H\u00e0ng 18",
-        "plotId": 23
+        "id": 100828526680212971,
+        "name": "Hàng 18",
+        "plotId": "D03"
       }
     },
     {
@@ -14391,9 +14391,9 @@
         ]
       },
       "properties": {
-        "id": 513,
-        "name": "H\u00e0ng 19",
-        "plotId": 23
+        "id": 100828526680212972,
+        "name": "Hàng 19",
+        "plotId": "D03"
       }
     },
     {
@@ -14415,9 +14415,9 @@
         ]
       },
       "properties": {
-        "id": 514,
-        "name": "H\u00e0ng 20",
-        "plotId": 23
+        "id": 100828526680212973,
+        "name": "Hàng 20",
+        "plotId": "D03"
       }
     },
     {
@@ -14442,9 +14442,9 @@
         ]
       },
       "properties": {
-        "id": 515,
-        "name": "H\u00e0ng 21",
-        "plotId": 23
+        "id": 100828526680212974,
+        "name": "Hàng 21",
+        "plotId": "D03"
       }
     },
     {
@@ -14468,9 +14468,9 @@
         ]
       },
       "properties": {
-        "id": 516,
-        "name": "H\u00e0ng 22",
-        "plotId": 23
+        "id": 100828526680212975,
+        "name": "Hàng 22",
+        "plotId": "D03"
       }
     },
     {
@@ -14493,9 +14493,9 @@
         ]
       },
       "properties": {
-        "id": 517,
-        "name": "H\u00e0ng 23",
-        "plotId": 23
+        "id": 100828526680212976,
+        "name": "Hàng 23",
+        "plotId": "D03"
       }
     },
     {
@@ -14518,9 +14518,9 @@
         ]
       },
       "properties": {
-        "id": 518,
-        "name": "H\u00e0ng 24",
-        "plotId": 23
+        "id": 100828526680212977,
+        "name": "Hàng 24",
+        "plotId": "D03"
       }
     },
     {
@@ -14541,9 +14541,9 @@
         ]
       },
       "properties": {
-        "id": 519,
-        "name": "H\u00e0ng 25",
-        "plotId": 23
+        "id": 100828526680212978,
+        "name": "Hàng 25",
+        "plotId": "D03"
       }
     },
     {
@@ -14563,9 +14563,9 @@
         ]
       },
       "properties": {
-        "id": 520,
-        "name": "H\u00e0ng 26",
-        "plotId": 23
+        "id": 100828526680212979,
+        "name": "Hàng 26",
+        "plotId": "D03"
       }
     },
     {
@@ -14590,9 +14590,9 @@
         ]
       },
       "properties": {
-        "id": 521,
-        "name": "H\u00e0ng 01",
-        "plotId": 24
+        "id": 100828526680212980,
+        "name": "Hàng 01",
+        "plotId": "D04"
       }
     },
     {
@@ -14617,9 +14617,9 @@
         ]
       },
       "properties": {
-        "id": 522,
-        "name": "H\u00e0ng 02",
-        "plotId": 24
+        "id": 100828526680212981,
+        "name": "Hàng 02",
+        "plotId": "D04"
       }
     },
     {
@@ -14644,9 +14644,9 @@
         ]
       },
       "properties": {
-        "id": 523,
-        "name": "H\u00e0ng 03",
-        "plotId": 24
+        "id": 100828526680212982,
+        "name": "Hàng 03",
+        "plotId": "D04"
       }
     },
     {
@@ -14670,9 +14670,9 @@
         ]
       },
       "properties": {
-        "id": 524,
-        "name": "H\u00e0ng 04",
-        "plotId": 24
+        "id": 100828526680212983,
+        "name": "Hàng 04",
+        "plotId": "D04"
       }
     },
     {
@@ -14697,9 +14697,9 @@
         ]
       },
       "properties": {
-        "id": 525,
-        "name": "H\u00e0ng 05",
-        "plotId": 24
+        "id": 100828526680212984,
+        "name": "Hàng 05",
+        "plotId": "D04"
       }
     },
     {
@@ -14724,9 +14724,9 @@
         ]
       },
       "properties": {
-        "id": 526,
-        "name": "H\u00e0ng 06",
-        "plotId": 24
+        "id": 100828526680212985,
+        "name": "Hàng 06",
+        "plotId": "D04"
       }
     },
     {
@@ -14751,9 +14751,9 @@
         ]
       },
       "properties": {
-        "id": 527,
-        "name": "H\u00e0ng 07",
-        "plotId": 24
+        "id": 100828526680212986,
+        "name": "Hàng 07",
+        "plotId": "D04"
       }
     },
     {
@@ -14778,9 +14778,9 @@
         ]
       },
       "properties": {
-        "id": 528,
-        "name": "H\u00e0ng 08",
-        "plotId": 24
+        "id": 100828526680212987,
+        "name": "Hàng 08",
+        "plotId": "D04"
       }
     },
     {
@@ -14804,9 +14804,9 @@
         ]
       },
       "properties": {
-        "id": 529,
-        "name": "H\u00e0ng 09",
-        "plotId": 24
+        "id": 100828526680212988,
+        "name": "Hàng 09",
+        "plotId": "D04"
       }
     },
     {
@@ -14831,9 +14831,9 @@
         ]
       },
       "properties": {
-        "id": 530,
-        "name": "H\u00e0ng 10",
-        "plotId": 24
+        "id": 100828526680212989,
+        "name": "Hàng 10",
+        "plotId": "D04"
       }
     },
     {
@@ -14858,9 +14858,9 @@
         ]
       },
       "properties": {
-        "id": 531,
-        "name": "H\u00e0ng 11",
-        "plotId": 24
+        "id": 100828526680212990,
+        "name": "Hàng 11",
+        "plotId": "D04"
       }
     },
     {
@@ -14885,9 +14885,9 @@
         ]
       },
       "properties": {
-        "id": 532,
-        "name": "H\u00e0ng 12",
-        "plotId": 24
+        "id": 100828526680212991,
+        "name": "Hàng 12",
+        "plotId": "D04"
       }
     },
     {
@@ -14914,9 +14914,9 @@
         ]
       },
       "properties": {
-        "id": 533,
-        "name": "H\u00e0ng 01",
-        "plotId": 25
+        "id": 100828526680212992,
+        "name": "Hàng 01",
+        "plotId": "D05"
       }
     },
     {
@@ -14943,9 +14943,9 @@
         ]
       },
       "properties": {
-        "id": 534,
-        "name": "H\u00e0ng 02",
-        "plotId": 25
+        "id": 100828526680212993,
+        "name": "Hàng 02",
+        "plotId": "D05"
       }
     },
     {
@@ -14973,9 +14973,9 @@
         ]
       },
       "properties": {
-        "id": 535,
-        "name": "H\u00e0ng 03",
-        "plotId": 25
+        "id": 100828526680212994,
+        "name": "Hàng 03",
+        "plotId": "D05"
       }
     },
     {
@@ -15003,9 +15003,9 @@
         ]
       },
       "properties": {
-        "id": 536,
-        "name": "H\u00e0ng 04",
-        "plotId": 25
+        "id": 100828526680212995,
+        "name": "Hàng 04",
+        "plotId": "D05"
       }
     },
     {
@@ -15034,9 +15034,9 @@
         ]
       },
       "properties": {
-        "id": 537,
-        "name": "H\u00e0ng 05",
-        "plotId": 25
+        "id": 100828526680212996,
+        "name": "Hàng 05",
+        "plotId": "D05"
       }
     },
     {
@@ -15065,9 +15065,9 @@
         ]
       },
       "properties": {
-        "id": 538,
-        "name": "H\u00e0ng 06",
-        "plotId": 25
+        "id": 100828526680212997,
+        "name": "Hàng 06",
+        "plotId": "D05"
       }
     },
     {
@@ -15097,9 +15097,9 @@
         ]
       },
       "properties": {
-        "id": 539,
-        "name": "H\u00e0ng 07",
-        "plotId": 25
+        "id": 100828526680212998,
+        "name": "Hàng 07",
+        "plotId": "D05"
       }
     },
     {
@@ -15129,9 +15129,9 @@
         ]
       },
       "properties": {
-        "id": 540,
-        "name": "H\u00e0ng 08",
-        "plotId": 25
+        "id": 100828526680212999,
+        "name": "Hàng 08",
+        "plotId": "D05"
       }
     },
     {
@@ -15162,9 +15162,9 @@
         ]
       },
       "properties": {
-        "id": 541,
-        "name": "H\u00e0ng 09",
-        "plotId": 25
+        "id": 100828526680213000,
+        "name": "Hàng 09",
+        "plotId": "D05"
       }
     },
     {
@@ -15195,9 +15195,9 @@
         ]
       },
       "properties": {
-        "id": 542,
-        "name": "H\u00e0ng 10",
-        "plotId": 25
+        "id": 100828526680213001,
+        "name": "Hàng 10",
+        "plotId": "D05"
       }
     },
     {
@@ -15228,9 +15228,9 @@
         ]
       },
       "properties": {
-        "id": 543,
-        "name": "H\u00e0ng 11",
-        "plotId": 25
+        "id": 100828526680213002,
+        "name": "Hàng 11",
+        "plotId": "D05"
       }
     },
     {
@@ -15261,9 +15261,9 @@
         ]
       },
       "properties": {
-        "id": 544,
-        "name": "H\u00e0ng 12",
-        "plotId": 25
+        "id": 100828526680213003,
+        "name": "Hàng 12",
+        "plotId": "D05"
       }
     },
     {
@@ -15295,9 +15295,9 @@
         ]
       },
       "properties": {
-        "id": 545,
-        "name": "H\u00e0ng 13",
-        "plotId": 25
+        "id": 100828526680213004,
+        "name": "Hàng 13",
+        "plotId": "D05"
       }
     },
     {
@@ -15329,9 +15329,9 @@
         ]
       },
       "properties": {
-        "id": 546,
-        "name": "H\u00e0ng 14",
-        "plotId": 25
+        "id": 100828526680213005,
+        "name": "Hàng 14",
+        "plotId": "D05"
       }
     },
     {
@@ -15364,9 +15364,9 @@
         ]
       },
       "properties": {
-        "id": 547,
-        "name": "H\u00e0ng 01",
-        "plotId": 26
+        "id": 100828526680213006,
+        "name": "Hàng 01",
+        "plotId": "D06"
       }
     },
     {
@@ -15398,9 +15398,9 @@
         ]
       },
       "properties": {
-        "id": 548,
-        "name": "H\u00e0ng 02",
-        "plotId": 26
+        "id": 100828526680213007,
+        "name": "Hàng 02",
+        "plotId": "D06"
       }
     },
     {
@@ -15433,9 +15433,9 @@
         ]
       },
       "properties": {
-        "id": 549,
-        "name": "H\u00e0ng 03",
-        "plotId": 26
+        "id": 100828526680213008,
+        "name": "Hàng 03",
+        "plotId": "D06"
       }
     },
     {
@@ -15468,9 +15468,9 @@
         ]
       },
       "properties": {
-        "id": 550,
-        "name": "H\u00e0ng 04",
-        "plotId": 26
+        "id": 100828526680213009,
+        "name": "Hàng 04",
+        "plotId": "D06"
       }
     },
     {
@@ -15504,9 +15504,9 @@
         ]
       },
       "properties": {
-        "id": 551,
-        "name": "H\u00e0ng 05",
-        "plotId": 26
+        "id": 100828526680213010,
+        "name": "Hàng 05",
+        "plotId": "D06"
       }
     },
     {
@@ -15540,9 +15540,9 @@
         ]
       },
       "properties": {
-        "id": 552,
-        "name": "H\u00e0ng 06",
-        "plotId": 26
+        "id": 100828526680213011,
+        "name": "Hàng 06",
+        "plotId": "D06"
       }
     },
     {
@@ -15577,9 +15577,9 @@
         ]
       },
       "properties": {
-        "id": 553,
-        "name": "H\u00e0ng 07",
-        "plotId": 26
+        "id": 100828526680213012,
+        "name": "Hàng 07",
+        "plotId": "D06"
       }
     },
     {
@@ -15613,9 +15613,9 @@
         ]
       },
       "properties": {
-        "id": 554,
-        "name": "H\u00e0ng 08",
-        "plotId": 26
+        "id": 100828526680213013,
+        "name": "Hàng 08",
+        "plotId": "D06"
       }
     },
     {
@@ -15649,9 +15649,9 @@
         ]
       },
       "properties": {
-        "id": 555,
-        "name": "H\u00e0ng 09",
-        "plotId": 26
+        "id": 100828526680213014,
+        "name": "Hàng 09",
+        "plotId": "D06"
       }
     },
     {
@@ -15685,9 +15685,9 @@
         ]
       },
       "properties": {
-        "id": 556,
-        "name": "H\u00e0ng 10",
-        "plotId": 26
+        "id": 100828526680213015,
+        "name": "Hàng 10",
+        "plotId": "D06"
       }
     },
     {
@@ -15708,9 +15708,9 @@
         ]
       },
       "properties": {
-        "id": 557,
-        "name": "H\u00e0ng 11",
-        "plotId": 26
+        "id": 100828526680213016,
+        "name": "Hàng 11",
+        "plotId": "D06"
       }
     },
     {
@@ -15724,9 +15724,9 @@
         ]
       },
       "properties": {
-        "id": 558,
-        "name": "H\u00e0ng 12",
-        "plotId": 26
+        "id": 100828526680213017,
+        "name": "Hàng 12",
+        "plotId": "D06"
       }
     },
     {
@@ -15740,9 +15740,9 @@
         ]
       },
       "properties": {
-        "id": 559,
-        "name": "H\u00e0ng 13",
-        "plotId": 26
+        "id": 100828526680213018,
+        "name": "Hàng 13",
+        "plotId": "D06"
       }
     },
     {
@@ -15767,9 +15767,9 @@
         ]
       },
       "properties": {
-        "id": 560,
-        "name": "H\u00e0ng 01",
-        "plotId": 27
+        "id": 100828526680213019,
+        "name": "Hàng 01",
+        "plotId": "D07"
       }
     },
     {
@@ -15794,9 +15794,9 @@
         ]
       },
       "properties": {
-        "id": 561,
-        "name": "H\u00e0ng 02",
-        "plotId": 27
+        "id": 100828526680213020,
+        "name": "Hàng 02",
+        "plotId": "D07"
       }
     },
     {
@@ -15821,9 +15821,9 @@
         ]
       },
       "properties": {
-        "id": 562,
-        "name": "H\u00e0ng 03",
-        "plotId": 27
+        "id": 100828526680213021,
+        "name": "Hàng 03",
+        "plotId": "D07"
       }
     },
     {
@@ -15848,9 +15848,9 @@
         ]
       },
       "properties": {
-        "id": 563,
-        "name": "H\u00e0ng 04",
-        "plotId": 27
+        "id": 100828526680213022,
+        "name": "Hàng 04",
+        "plotId": "D07"
       }
     },
     {
@@ -15875,9 +15875,9 @@
         ]
       },
       "properties": {
-        "id": 564,
-        "name": "H\u00e0ng 05",
-        "plotId": 27
+        "id": 100828526680213023,
+        "name": "Hàng 05",
+        "plotId": "D07"
       }
     },
     {
@@ -15902,9 +15902,9 @@
         ]
       },
       "properties": {
-        "id": 565,
-        "name": "H\u00e0ng 06",
-        "plotId": 27
+        "id": 100828526680213024,
+        "name": "Hàng 06",
+        "plotId": "D07"
       }
     },
     {
@@ -15929,9 +15929,9 @@
         ]
       },
       "properties": {
-        "id": 566,
-        "name": "H\u00e0ng 07",
-        "plotId": 27
+        "id": 100828526680213025,
+        "name": "Hàng 07",
+        "plotId": "D07"
       }
     },
     {
@@ -15956,9 +15956,9 @@
         ]
       },
       "properties": {
-        "id": 567,
-        "name": "H\u00e0ng 08",
-        "plotId": 27
+        "id": 100828526680213026,
+        "name": "Hàng 08",
+        "plotId": "D07"
       }
     },
     {
@@ -15983,9 +15983,9 @@
         ]
       },
       "properties": {
-        "id": 568,
-        "name": "H\u00e0ng 09",
-        "plotId": 27
+        "id": 100828526680213027,
+        "name": "Hàng 09",
+        "plotId": "D07"
       }
     },
     {
@@ -16001,9 +16001,9 @@
         ]
       },
       "properties": {
-        "id": 569,
-        "name": "H\u00e0ng 10",
-        "plotId": 27
+        "id": 100828526680213028,
+        "name": "Hàng 10",
+        "plotId": "D07"
       }
     },
     {
@@ -16017,9 +16017,9 @@
         ]
       },
       "properties": {
-        "id": 570,
-        "name": "H\u00e0ng 11",
-        "plotId": 27
+        "id": 100828526680213029,
+        "name": "Hàng 11",
+        "plotId": "D07"
       }
     },
     {
@@ -16040,9 +16040,9 @@
         ]
       },
       "properties": {
-        "id": 571,
-        "name": "H\u00e0ng 01",
-        "plotId": 28
+        "id": 100828526680213030,
+        "name": "Hàng 01",
+        "plotId": "D08"
       }
     },
     {
@@ -16065,9 +16065,9 @@
         ]
       },
       "properties": {
-        "id": 572,
-        "name": "H\u00e0ng 02",
-        "plotId": 28
+        "id": 100828526680213031,
+        "name": "Hàng 02",
+        "plotId": "D08"
       }
     },
     {
@@ -16091,9 +16091,9 @@
         ]
       },
       "properties": {
-        "id": 573,
-        "name": "H\u00e0ng 03",
-        "plotId": 28
+        "id": 100828526680213032,
+        "name": "Hàng 03",
+        "plotId": "D08"
       }
     },
     {
@@ -16116,9 +16116,9 @@
         ]
       },
       "properties": {
-        "id": 574,
-        "name": "H\u00e0ng 04",
-        "plotId": 28
+        "id": 100828526680213033,
+        "name": "Hàng 04",
+        "plotId": "D08"
       }
     },
     {
@@ -16142,9 +16142,9 @@
         ]
       },
       "properties": {
-        "id": 575,
-        "name": "H\u00e0ng 05",
-        "plotId": 28
+        "id": 100828526680213034,
+        "name": "Hàng 05",
+        "plotId": "D08"
       }
     },
     {
@@ -16168,9 +16168,9 @@
         ]
       },
       "properties": {
-        "id": 576,
-        "name": "H\u00e0ng 06",
-        "plotId": 28
+        "id": 100828526680213035,
+        "name": "Hàng 06",
+        "plotId": "D08"
       }
     },
     {
@@ -16193,9 +16193,9 @@
         ]
       },
       "properties": {
-        "id": 577,
-        "name": "H\u00e0ng 07",
-        "plotId": 28
+        "id": 100828526680213036,
+        "name": "Hàng 07",
+        "plotId": "D08"
       }
     },
     {
@@ -16218,9 +16218,9 @@
         ]
       },
       "properties": {
-        "id": 578,
-        "name": "H\u00e0ng 08",
-        "plotId": 28
+        "id": 100828526680213037,
+        "name": "Hàng 08",
+        "plotId": "D08"
       }
     },
     {
@@ -16244,9 +16244,9 @@
         ]
       },
       "properties": {
-        "id": 579,
-        "name": "H\u00e0ng 09",
-        "plotId": 28
+        "id": 100828526680213038,
+        "name": "Hàng 09",
+        "plotId": "D08"
       }
     },
     {
@@ -16271,9 +16271,9 @@
         ]
       },
       "properties": {
-        "id": 580,
-        "name": "H\u00e0ng 10",
-        "plotId": 28
+        "id": 100828526680213039,
+        "name": "Hàng 10",
+        "plotId": "D08"
       }
     },
     {
@@ -16299,9 +16299,9 @@
         ]
       },
       "properties": {
-        "id": 581,
-        "name": "H\u00e0ng 11",
-        "plotId": 28
+        "id": 100828526680213040,
+        "name": "Hàng 11",
+        "plotId": "D08"
       }
     },
     {
@@ -16327,9 +16327,9 @@
         ]
       },
       "properties": {
-        "id": 582,
-        "name": "H\u00e0ng 12",
-        "plotId": 28
+        "id": 100828526680213041,
+        "name": "Hàng 12",
+        "plotId": "D08"
       }
     },
     {
@@ -16355,9 +16355,9 @@
         ]
       },
       "properties": {
-        "id": 583,
-        "name": "H\u00e0ng 13",
-        "plotId": 28
+        "id": 100828526680213042,
+        "name": "Hàng 13",
+        "plotId": "D08"
       }
     },
     {
@@ -16383,9 +16383,9 @@
         ]
       },
       "properties": {
-        "id": 584,
-        "name": "H\u00e0ng 14",
-        "plotId": 28
+        "id": 100828526680213043,
+        "name": "Hàng 14",
+        "plotId": "D08"
       }
     },
     {
@@ -16411,9 +16411,9 @@
         ]
       },
       "properties": {
-        "id": 585,
-        "name": "H\u00e0ng 15",
-        "plotId": 28
+        "id": 100828526680213044,
+        "name": "Hàng 15",
+        "plotId": "D08"
       }
     },
     {
@@ -16438,9 +16438,9 @@
         ]
       },
       "properties": {
-        "id": 586,
-        "name": "H\u00e0ng 16",
-        "plotId": 28
+        "id": 100828526680213045,
+        "name": "Hàng 16",
+        "plotId": "D08"
       }
     },
     {
@@ -16465,9 +16465,9 @@
         ]
       },
       "properties": {
-        "id": 587,
-        "name": "H\u00e0ng 17",
-        "plotId": 28
+        "id": 100828526680213046,
+        "name": "Hàng 17",
+        "plotId": "D08"
       }
     },
     {
@@ -16492,9 +16492,9 @@
         ]
       },
       "properties": {
-        "id": 588,
-        "name": "H\u00e0ng 18",
-        "plotId": 28
+        "id": 100828526680213047,
+        "name": "Hàng 18",
+        "plotId": "D08"
       }
     },
     {
@@ -16520,9 +16520,9 @@
         ]
       },
       "properties": {
-        "id": 589,
-        "name": "H\u00e0ng 19",
-        "plotId": 28
+        "id": 100828526680213048,
+        "name": "Hàng 19",
+        "plotId": "D08"
       }
     },
     {
@@ -16548,9 +16548,9 @@
         ]
       },
       "properties": {
-        "id": 590,
-        "name": "H\u00e0ng 20",
-        "plotId": 28
+        "id": 100828526680213049,
+        "name": "Hàng 20",
+        "plotId": "D08"
       }
     },
     {
@@ -16576,9 +16576,9 @@
         ]
       },
       "properties": {
-        "id": 591,
-        "name": "H\u00e0ng 21",
-        "plotId": 28
+        "id": 100828526680213050,
+        "name": "Hàng 21",
+        "plotId": "D08"
       }
     },
     {
@@ -16604,9 +16604,9 @@
         ]
       },
       "properties": {
-        "id": 592,
-        "name": "H\u00e0ng 22",
-        "plotId": 28
+        "id": 100828526680213051,
+        "name": "Hàng 22",
+        "plotId": "D08"
       }
     },
     {
@@ -16632,9 +16632,9 @@
         ]
       },
       "properties": {
-        "id": 593,
-        "name": "H\u00e0ng 23",
-        "plotId": 28
+        "id": 100828526680213052,
+        "name": "Hàng 23",
+        "plotId": "D08"
       }
     },
     {
@@ -16659,9 +16659,9 @@
         ]
       },
       "properties": {
-        "id": 594,
-        "name": "H\u00e0ng 24",
-        "plotId": 28
+        "id": 100828526680213053,
+        "name": "Hàng 24",
+        "plotId": "D08"
       }
     },
     {
@@ -16687,9 +16687,9 @@
         ]
       },
       "properties": {
-        "id": 595,
-        "name": "H\u00e0ng 25",
-        "plotId": 28
+        "id": 100828526680213054,
+        "name": "Hàng 25",
+        "plotId": "D08"
       }
     },
     {
@@ -16728,9 +16728,9 @@
         ]
       },
       "properties": {
-        "id": 596,
-        "name": "H\u00e0ng 01",
-        "plotId": 29
+        "id": 100828526680213055,
+        "name": "Hàng 01",
+        "plotId": "D09"
       }
     },
     {
@@ -16768,9 +16768,9 @@
         ]
       },
       "properties": {
-        "id": 597,
-        "name": "H\u00e0ng 02",
-        "plotId": 29
+        "id": 100828526680213056,
+        "name": "Hàng 02",
+        "plotId": "D09"
       }
     },
     {
@@ -16809,9 +16809,9 @@
         ]
       },
       "properties": {
-        "id": 598,
-        "name": "H\u00e0ng 03",
-        "plotId": 29
+        "id": 100828526680213057,
+        "name": "Hàng 03",
+        "plotId": "D09"
       }
     },
     {
@@ -16849,9 +16849,9 @@
         ]
       },
       "properties": {
-        "id": 599,
-        "name": "H\u00e0ng 04",
-        "plotId": 29
+        "id": 100828526680213058,
+        "name": "Hàng 04",
+        "plotId": "D09"
       }
     },
     {
@@ -16890,9 +16890,9 @@
         ]
       },
       "properties": {
-        "id": 600,
-        "name": "H\u00e0ng 05",
-        "plotId": 29
+        "id": 100828526680213059,
+        "name": "Hàng 05",
+        "plotId": "D09"
       }
     },
     {
@@ -16930,9 +16930,9 @@
         ]
       },
       "properties": {
-        "id": 601,
-        "name": "H\u00e0ng 06",
-        "plotId": 29
+        "id": 100828526680213060,
+        "name": "Hàng 06",
+        "plotId": "D09"
       }
     },
     {
@@ -16971,9 +16971,9 @@
         ]
       },
       "properties": {
-        "id": 602,
-        "name": "H\u00e0ng 07",
-        "plotId": 29
+        "id": 100828526680213061,
+        "name": "Hàng 07",
+        "plotId": "D09"
       }
     },
     {
@@ -17011,9 +17011,9 @@
         ]
       },
       "properties": {
-        "id": 603,
-        "name": "H\u00e0ng 08",
-        "plotId": 29
+        "id": 100828526680213062,
+        "name": "Hàng 08",
+        "plotId": "D09"
       }
     },
     {
@@ -17059,9 +17059,9 @@
         ]
       },
       "properties": {
-        "id": 604,
-        "name": "H\u00e0ng 01",
-        "plotId": 30
+        "id": 100828526680213063,
+        "name": "Hàng 01",
+        "plotId": "D10"
       }
     },
     {
@@ -17106,9 +17106,9 @@
         ]
       },
       "properties": {
-        "id": 605,
-        "name": "H\u00e0ng 02",
-        "plotId": 30
+        "id": 100828526680213064,
+        "name": "Hàng 02",
+        "plotId": "D10"
       }
     },
     {
@@ -17155,9 +17155,9 @@
         ]
       },
       "properties": {
-        "id": 606,
-        "name": "H\u00e0ng 03",
-        "plotId": 30
+        "id": 100828526680213065,
+        "name": "Hàng 03",
+        "plotId": "D10"
       }
     },
     {
@@ -17202,9 +17202,9 @@
         ]
       },
       "properties": {
-        "id": 607,
-        "name": "H\u00e0ng 04",
-        "plotId": 30
+        "id": 100828526680213066,
+        "name": "Hàng 04",
+        "plotId": "D10"
       }
     },
     {
@@ -17248,9 +17248,9 @@
         ]
       },
       "properties": {
-        "id": 608,
-        "name": "H\u00e0ng 05",
-        "plotId": 30
+        "id": 100828526680213067,
+        "name": "Hàng 05",
+        "plotId": "D10"
       }
     },
     {
@@ -17294,9 +17294,9 @@
         ]
       },
       "properties": {
-        "id": 609,
-        "name": "H\u00e0ng 06",
-        "plotId": 30
+        "id": 100828526680213068,
+        "name": "Hàng 06",
+        "plotId": "D10"
       }
     },
     {
@@ -17310,9 +17310,9 @@
         ]
       },
       "properties": {
-        "id": 610,
-        "name": "H\u00e0ng 07",
-        "plotId": 30
+        "id": 100828526680213069,
+        "name": "Hàng 07",
+        "plotId": "D10"
       }
     },
     {
@@ -17327,9 +17327,9 @@
         ]
       },
       "properties": {
-        "id": 611,
-        "name": "H\u00e0ng 08",
-        "plotId": 30
+        "id": 100828526680213070,
+        "name": "Hàng 08",
+        "plotId": "D10"
       }
     },
     {
@@ -17345,9 +17345,9 @@
         ]
       },
       "properties": {
-        "id": 612,
-        "name": "H\u00e0ng 09",
-        "plotId": 30
+        "id": 100828526680213071,
+        "name": "Hàng 09",
+        "plotId": "D10"
       }
     },
     {
@@ -17365,9 +17365,9 @@
         ]
       },
       "properties": {
-        "id": 613,
-        "name": "H\u00e0ng 10",
-        "plotId": 30
+        "id": 100828526680213072,
+        "name": "Hàng 10",
+        "plotId": "D10"
       }
     },
     {
@@ -17387,9 +17387,9 @@
         ]
       },
       "properties": {
-        "id": 614,
-        "name": "H\u00e0ng 11",
-        "plotId": 30
+        "id": 100828526680213073,
+        "name": "Hàng 11",
+        "plotId": "D10"
       }
     },
     {
@@ -17411,9 +17411,9 @@
         ]
       },
       "properties": {
-        "id": 615,
-        "name": "H\u00e0ng 12",
-        "plotId": 30
+        "id": 100828526680213074,
+        "name": "Hàng 12",
+        "plotId": "D10"
       }
     },
     {
@@ -17441,9 +17441,9 @@
         ]
       },
       "properties": {
-        "id": 616,
-        "name": "H\u00e0ng 13",
-        "plotId": 30
+        "id": 100828526680213075,
+        "name": "Hàng 13",
+        "plotId": "D10"
       }
     },
     {
@@ -17471,9 +17471,9 @@
         ]
       },
       "properties": {
-        "id": 617,
-        "name": "H\u00e0ng 14",
-        "plotId": 30
+        "id": 100828526680213076,
+        "name": "Hàng 14",
+        "plotId": "D10"
       }
     },
     {
@@ -17503,9 +17503,9 @@
         ]
       },
       "properties": {
-        "id": 618,
-        "name": "H\u00e0ng 15",
-        "plotId": 30
+        "id": 100828526680213077,
+        "name": "Hàng 15",
+        "plotId": "D10"
       }
     },
     {
@@ -17535,9 +17535,9 @@
         ]
       },
       "properties": {
-        "id": 619,
-        "name": "H\u00e0ng 16",
-        "plotId": 30
+        "id": 100828526680213078,
+        "name": "Hàng 16",
+        "plotId": "D10"
       }
     },
     {
@@ -17567,9 +17567,9 @@
         ]
       },
       "properties": {
-        "id": 620,
-        "name": "H\u00e0ng 17",
-        "plotId": 30
+        "id": 100828526680213079,
+        "name": "Hàng 17",
+        "plotId": "D10"
       }
     },
     {
@@ -17596,9 +17596,9 @@
         ]
       },
       "properties": {
-        "id": 621,
-        "name": "H\u00e0ng 18",
-        "plotId": 30
+        "id": 100828526680213080,
+        "name": "Hàng 18",
+        "plotId": "D10"
       }
     },
     {
@@ -17630,9 +17630,9 @@
         ]
       },
       "properties": {
-        "id": 622,
-        "name": "H\u00e0ng 19",
-        "plotId": 30
+        "id": 100828526680213081,
+        "name": "Hàng 19",
+        "plotId": "D10"
       }
     },
     {
@@ -17655,9 +17655,9 @@
         ]
       },
       "properties": {
-        "id": 623,
-        "name": "H\u00e0ng 20",
-        "plotId": 30
+        "id": 100828526680213082,
+        "name": "Hàng 20",
+        "plotId": "D10"
       }
     }
   ]

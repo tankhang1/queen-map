@@ -119,9 +119,9 @@ export default function FarmMap() {
           attribution='Tiles &copy; <a href="https://www.esri.com/">Yis</a> & contributors'
           url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
         />
-        <Marker position={[11.553203605968022, 107.12999664743181]}>
+        {/* <Marker position={[11.553203605968022, 107.12999664743181]}>
           <Popup>Queen Farm</Popup>
-        </Marker>
+        </Marker> */}
 
         {LAYERS.map(
           ({ key, color, fill, label }) =>

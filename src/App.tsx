@@ -10,15 +10,25 @@ import {
   Title,
   ActionIcon,
   HoverCard,
+  Modal,
+  TextInput,
+  Button,
 } from "@mantine/core";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 import type { GeoJsonObject, Feature, Point } from "geojson";
-import AutoCompleteSearch from "./components/AutoCompleteSearch";
+import AutoCompleteSearch, {
+  type TInputData,
+} from "./components/AutoCompleteSearch";
 import { useDisclosure } from "@mantine/hooks";
 import { FaChartBar } from "react-icons/fa";
 import ReportModal from "./components/Report";
 import ZoomListener from "./components/ZoomListener";
+import { useGetTreeDetailMutation } from "./redux/api/no-auth";
+import { TREES } from "./constants";
+import type { TreeInfo } from "./redux/dto/search/search.res";
+import { toast } from "react-toastify";
+import { useUpdateTreeMutation } from "./redux/api/auth";
 
 interface LayerConfig {
   key: string;
@@ -42,6 +52,7 @@ const MAP_LABEL = new Map([
   ["plant", "Cây"],
 ]);
 export default function FarmMap() {
+  const today = new Date().toISOString().split("T")[0];
   const [openedReport, { open: openReport, close: closeReport }] =
     useDisclosure(false);
   const [data, setData] = useState<Record<string, GeoJsonObject>>({});
@@ -53,7 +64,15 @@ export default function FarmMap() {
     row: false,
     plant: false,
   });
-
+  const [inputData, setInputData] = useState<TInputData>({
+    date: today,
+    fruitCount: "",
+    harvestCount: "",
+  });
+  const [tree, setTree] = useState<TreeInfo | null>(null);
+  const [getTreeDetail] = useGetTreeDetailMutation();
+  const [updateTree, { isLoading: isloadingUpdateTree }] =
+    useUpdateTreeMutation();
   useEffect(() => {
     Promise.all(
       [...LAYERS, { key: "plant", label: "Tree" }].map((layer) =>
@@ -77,6 +96,31 @@ export default function FarmMap() {
     setVisibleLayers((prev) => ({ ...prev, [key]: !prev[key] }));
   };
 
+  const onUpdateTree = async () => {
+    await updateTree({
+      plant_code: tree?.code.split(" - ")[0] || "",
+      total_on_land: +inputData.harvestCount,
+      total_on_tree: +inputData.fruitCount,
+      zalo_user_id: "queenfarm/qf@2025",
+    })
+      .unwrap()
+      .then((value: { status: number; message: string }) => {
+        if (value.status === 0) {
+          toast.success("Cập nhật thành công");
+        } else {
+          toast.error(value.message);
+        }
+        setInputData({
+          date: today,
+          fruitCount: "",
+          harvestCount: "",
+        });
+        setTree(null);
+      })
+      .catch(() => {
+        toast.error("Cập nhật thất bại");
+      });
+  };
   const onZoomChange = (value: number) => {
     if (value === 16) {
       setVisibleLayers({
@@ -102,10 +146,19 @@ export default function FarmMap() {
       setVisibleLayers({
         zone: false,
         area: false,
-        plot: true,
+        plot: false,
         row: false,
         plant: false,
       });
+      setTimeout(() => {
+        setVisibleLayers({
+          zone: false,
+          area: false,
+          plot: true,
+          row: false,
+          plant: false,
+        });
+      }, 100);
       return;
     }
     if (value === 19) {
@@ -133,9 +186,20 @@ export default function FarmMap() {
         row: false,
         plant: true,
       });
-    }, 500);
+    }, 100);
   };
+  useEffect(() => {
+    //@ts-expect-error no check
+    window.setTreeFromPopup = async (tree: string) => {
+      const treeDetail = await getTreeDetail(tree);
+      setTree(treeDetail.data as TreeInfo);
+    };
 
+    return () => {
+      //@ts-expect-error no check
+      delete window.setTreeFromPopup;
+    };
+  }, []);
   return (
     <>
       <MapContainer
@@ -207,13 +271,45 @@ export default function FarmMap() {
                   interactive: true,
                 });
               }}
-              onEachFeature={(feature, layer) => {
-                const props = feature.properties || {};
-                const popup = `
-                  <b>Cây:</b> ${props.name || ""}
-                  <br/><b>Hàng:</b> ${props.rowId}
-                `;
-                layer.bindPopup(popup);
+              onEachFeature={async (feature, layer) => {
+                layer.on("click", async () => {
+                  const props = feature.properties || {};
+                  layer
+                    .bindPopup("<b>Đang tải thông tin cây...</b>")
+                    .openPopup();
+                  try {
+                    // Replace with your actual API call (e.g., fetch or axios)
+                    const data = await getTreeDetail(props.code);
+
+                    const popup = `
+                        <div  style="text-align: center; max-width: 250px;"> 
+                        <img src="${
+                          TREES[data.data?.code.slice(-2) || ""]?.image
+                        }" alt="Tree" style="width: 50px; height: 50px;  margin-bottom: 8px;" />
+                        <div style="text-align: left;">
+                        <b>Mã cây:</b> ${data.data?.code || ""}
+                        <br/><b>Tên cây:</b> ${data.data?.name || ""}
+                        <br/><b>Khu vực:</b> ${data.data?.area_name || ""}
+                        <br/><b>Lô:</b> ${data.data?.plot_name || ""}
+                        <br/><b>Hàng:</b> ${data.data?.plot_row_name || ""}
+                        </div>
+                        <button onclick="window.setTreeFromPopup('${
+                          data.data?.code || ""
+                        }')"
+                          style="margin-top: 8px; background-color: #007bff; color: white; padding: 6px 12px; border: none; border-radius: 4px; cursor: pointer;">
+                          Xem chi tiết
+                        </button>
+                        </div>
+                      `;
+
+                    layer.bindPopup(popup).openPopup(); // Show the popup after binding it
+                  } catch (error) {
+                    console.error("Failed to fetch tree detail:", error);
+                    layer
+                      .bindPopup("<b>Lỗi:</b> Không thể tải dữ liệu cây.")
+                      .openPopup();
+                  }
+                });
               }}
             />
           </Pane>
@@ -303,6 +399,54 @@ export default function FarmMap() {
         </HoverCard>
         <ReportModal closeReport={closeReport} openedReport={openedReport} />
       </Stack>
+      <Modal
+        opened={tree !== null}
+        onClose={() => setTree(null)}
+        zIndex={9999}
+        title={
+          <Text fw={"bold"}>
+            {tree?.name || ""} ({tree?.code})
+          </Text>
+        }
+        styles={{
+          inner: { zIndex: 99999, top: 10, left: 0 },
+        }}
+      >
+        <Stack gap={5}>
+          <TextInput label="Ngày cập nhật" disabled value={inputData.date} />
+          <TextInput
+            label="Tổng trên cây"
+            type="number"
+            placeholder="VD: 10, 20"
+            min={0}
+            value={inputData.fruitCount}
+            onChange={(e) =>
+              setInputData({ ...inputData, fruitCount: e.target.value })
+            }
+          />
+          <TextInput
+            label="Tổng thu hoạch"
+            type="number"
+            placeholder="VD: 10, 20"
+            min={0}
+            value={inputData.harvestCount}
+            onChange={(e) =>
+              setInputData({ ...inputData, harvestCount: e.target.value })
+            }
+          />
+          <Group mt={5}>
+            <Button
+              color="green"
+              flex={1}
+              size="xs"
+              loading={isloadingUpdateTree}
+              onClick={onUpdateTree}
+            >
+              <Text>Cập nhật</Text>
+            </Button>
+          </Group>
+        </Stack>
+      </Modal>
     </>
   );
 }

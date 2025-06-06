@@ -191,21 +191,6 @@ const AutoCompleteSearch = () => {
                     color="green"
                     flex={1}
                     size="xs"
-                    variant="outline"
-                    onClick={() => {
-                      setInputData({
-                        date: today,
-                        fruitCount: "",
-                        harvestCount: "",
-                      });
-                    }}
-                  >
-                    <Text>Thu hồi</Text>
-                  </Button>
-                  <Button
-                    color="green"
-                    flex={1}
-                    size="xs"
                     loading={isloadingUpdateTree}
                     onClick={onUpdateTree}
                   >

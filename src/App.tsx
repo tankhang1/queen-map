@@ -2,7 +2,6 @@ import { MapContainer, TileLayer, GeoJSON, Pane } from "react-leaflet";
 import { useEffect, useState } from "react";
 import {
   Card,
-  Checkbox,
   Group,
   Stack,
   Text,
@@ -13,6 +12,7 @@ import {
   Modal,
   TextInput,
   Button,
+  Radio,
 } from "@mantine/core";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
@@ -44,12 +44,11 @@ const LAYERS: LayerConfig[] = [
   { key: "plot", color: "#31a354", fill: true, label: "Lô" },
   { key: "row", color: "#ffff", fill: false, label: "Hàng" },
 ];
-const MAP_LABEL = new Map([
-  ["zone", "Vùng"],
-  ["area", "Khu vực"],
-  ["plot", "Lô"],
-  ["row", "Hàng"],
-  ["plant", "Cây"],
+const MAP_GROUP = new Map([
+  ["0", "Vùng"],
+  ["1", "Khu vực"],
+  ["2", "Lô"],
+  ["3", "Lô + Hàng + Cây"],
 ]);
 export default function FarmMap() {
   const today = new Date().toISOString().split("T")[0];
@@ -70,6 +69,7 @@ export default function FarmMap() {
     harvestCount: "",
   });
   const [tree, setTree] = useState<TreeInfo | null>(null);
+  const [selectedGroup, setSelectedGroup] = useState<string | null>("0");
   const [getTreeDetail] = useGetTreeDetailMutation();
   const [updateTree, { isLoading: isloadingUpdateTree }] =
     useUpdateTreeMutation();
@@ -91,10 +91,6 @@ export default function FarmMap() {
       }
     });
   }, []);
-
-  const toggleLayer = (key: string) => {
-    setVisibleLayers((prev) => ({ ...prev, [key]: !prev[key] }));
-  };
 
   const onUpdateTree = async () => {
     await updateTree({
@@ -121,8 +117,9 @@ export default function FarmMap() {
         toast.error("Cập nhật thất bại");
       });
   };
-  const onZoomChange = (value: number) => {
-    if (value === 16) {
+  const onSelectedGroupChange = (value: string) => {
+    setSelectedGroup(value);
+    if (value === "0") {
       setVisibleLayers({
         zone: true,
         area: false,
@@ -130,9 +127,8 @@ export default function FarmMap() {
         row: false,
         plant: false,
       });
-      return;
     }
-    if (value === 17) {
+    if (value === "1") {
       setVisibleLayers({
         zone: false,
         area: true,
@@ -140,9 +136,8 @@ export default function FarmMap() {
         row: false,
         plant: false,
       });
-      return;
     }
-    if (value === 18) {
+    if (value === "2") {
       setVisibleLayers({
         zone: false,
         area: false,
@@ -159,6 +154,45 @@ export default function FarmMap() {
           plant: false,
         });
       }, 100);
+    }
+    if (value === "3") {
+      setVisibleLayers({
+        zone: false,
+        area: false,
+        plot: false,
+        row: false,
+        plant: false,
+      });
+      setTimeout(() => {
+        setVisibleLayers({
+          zone: false,
+          area: false,
+          plot: true,
+          row: true,
+          plant: true,
+        });
+      }, 100);
+    }
+  };
+  const onZoomChange = (value: number) => {
+    if (value === 17) {
+      setVisibleLayers({
+        zone: true,
+        area: false,
+        plot: false,
+        row: false,
+        plant: false,
+      });
+      return;
+    }
+    if (value === 18) {
+      setVisibleLayers({
+        zone: false,
+        area: true,
+        plot: false,
+        row: false,
+        plant: false,
+      });
       return;
     }
     if (value === 19) {
@@ -166,7 +200,7 @@ export default function FarmMap() {
         zone: false,
         area: false,
         plot: true,
-        row: true,
+        row: false,
         plant: false,
       });
       return;
@@ -183,7 +217,7 @@ export default function FarmMap() {
         zone: false,
         area: false,
         plot: true,
-        row: false,
+        row: true,
         plant: true,
       });
     }, 100);
@@ -200,6 +234,7 @@ export default function FarmMap() {
       delete window.setTreeFromPopup;
     };
   }, []);
+
   return (
     <>
       <MapContainer
@@ -209,7 +244,7 @@ export default function FarmMap() {
         zoom={18}
         zoomControl={false}
         zoomSnap={1}
-        minZoom={16}
+        minZoom={17}
         boxZoom={false}
         style={{ height: "100dvh", width: "100dvw" }}
       >
@@ -329,30 +364,22 @@ export default function FarmMap() {
           <Title order={6} mb="xs">
             🗺️ Lớp
           </Title>
-          <Stack gap={4}>
-            {Object.keys(visibleLayers).map((key) => {
-              const colorMap: Record<string, string> = {
-                zone: "#2b8cbe",
-                area: "#f03b20",
-                plot: "#31a354",
-                row: "#636363",
-                plant: "#3388ff",
-              };
 
-              return (
-                <Checkbox
+          <Radio.Group value={selectedGroup} onChange={onSelectedGroupChange}>
+            <Stack>
+              {Array.from(MAP_GROUP.keys()).map((key) => (
+                <Radio
                   key={key}
+                  value={key}
                   label={
-                    <Text c={colorMap[key]} fw={500} fz={"sm"}>
-                      {MAP_LABEL.get(key)}
+                    <Text fw={500} fz="sm" c="black">
+                      {MAP_GROUP.get(key)}
                     </Text>
                   }
-                  checked={visibleLayers[key]}
-                  onChange={() => toggleLayer(key)}
                 />
-              );
-            })}
-          </Stack>
+              ))}
+            </Stack>
+          </Radio.Group>
         </Card>
         <Card shadow="md" radius="md" p="md" w={"auto"}>
           <Title order={6} mb="xs">

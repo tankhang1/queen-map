@@ -1,5 +1,5 @@
 import { MapContainer, TileLayer, GeoJSON, Pane } from "react-leaflet";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import {
   Card,
   Group,
@@ -29,7 +29,7 @@ import { TREES } from "./constants";
 import type { TreeInfo } from "./redux/dto/search/search.res";
 import { toast } from "react-toastify";
 import { useUpdateTreeMutation } from "./redux/api/auth";
-
+import type { Map as LeafletMap } from "leaflet";
 interface LayerConfig {
   key: string;
   color?: string;
@@ -52,6 +52,7 @@ const MAP_GROUP = new Map([
 ]);
 export default function FarmMap() {
   const today = new Date().toISOString().split("T")[0];
+  const mapRef = useRef<LeafletMap>(null);
   const [openedReport, { open: openReport, close: closeReport }] =
     useDisclosure(false);
   const [data, setData] = useState<Record<string, GeoJsonObject>>({});
@@ -69,7 +70,7 @@ export default function FarmMap() {
     harvestCount: "",
   });
   const [tree, setTree] = useState<TreeInfo | null>(null);
-  const [selectedGroup, setSelectedGroup] = useState<string | null>("0");
+  const [selectedGroup, setSelectedGroup] = useState<string | null>("1");
   const [getTreeDetail] = useGetTreeDetailMutation();
   const [updateTree, { isLoading: isloadingUpdateTree }] =
     useUpdateTreeMutation();
@@ -119,63 +120,25 @@ export default function FarmMap() {
   };
   const onSelectedGroupChange = (value: string) => {
     setSelectedGroup(value);
+    const zoom = mapRef.current?.getZoom() || 17;
+    console.log(zoom, value);
+
     if (value === "0") {
-      setVisibleLayers({
-        zone: true,
-        area: false,
-        plot: false,
-        row: false,
-        plant: false,
-      });
+      mapRef.current?.setZoom(17);
     }
     if (value === "1") {
-      setVisibleLayers({
-        zone: false,
-        area: true,
-        plot: false,
-        row: false,
-        plant: false,
-      });
+      mapRef.current?.setZoom(18);
     }
     if (value === "2") {
-      setVisibleLayers({
-        zone: false,
-        area: false,
-        plot: false,
-        row: false,
-        plant: false,
-      });
-      setTimeout(() => {
-        setVisibleLayers({
-          zone: false,
-          area: false,
-          plot: true,
-          row: false,
-          plant: false,
-        });
-      }, 100);
+      mapRef.current?.setZoom(19);
     }
     if (value === "3") {
-      setVisibleLayers({
-        zone: false,
-        area: false,
-        plot: false,
-        row: false,
-        plant: false,
-      });
-      setTimeout(() => {
-        setVisibleLayers({
-          zone: false,
-          area: false,
-          plot: true,
-          row: true,
-          plant: true,
-        });
-      }, 100);
+      mapRef.current?.setZoom(20);
     }
   };
   const onZoomChange = (value: number) => {
     if (value === 17) {
+      setSelectedGroup("0");
       setVisibleLayers({
         zone: true,
         area: false,
@@ -186,6 +149,7 @@ export default function FarmMap() {
       return;
     }
     if (value === 18) {
+      setSelectedGroup("1");
       setVisibleLayers({
         zone: false,
         area: true,
@@ -196,6 +160,7 @@ export default function FarmMap() {
       return;
     }
     if (value === 19) {
+      setSelectedGroup("2");
       setVisibleLayers({
         zone: false,
         area: false,
@@ -205,6 +170,7 @@ export default function FarmMap() {
       });
       return;
     }
+    setSelectedGroup("3");
     setVisibleLayers({
       zone: false,
       area: false,
@@ -238,6 +204,7 @@ export default function FarmMap() {
   return (
     <>
       <MapContainer
+        ref={mapRef}
         preferCanvas
         center={[11.553203605968022, 107.12999664743181]}
         maxZoom={20}
@@ -361,10 +328,6 @@ export default function FarmMap() {
         style={{ zIndex: 999 }}
       >
         <Card shadow="md" radius="md" p="md" w={180}>
-          <Title order={6} mb="xs">
-            🗺️ Lớp
-          </Title>
-
           <Radio.Group value={selectedGroup} onChange={onSelectedGroupChange}>
             <Stack>
               {Array.from(MAP_GROUP.keys()).map((key) => (

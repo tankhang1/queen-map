@@ -1,4 +1,4 @@
-import { MapContainer, TileLayer, GeoJSON, Pane } from "react-leaflet";
+import { MapContainer, TileLayer, GeoJSON, Pane, Marker } from "react-leaflet";
 import { useEffect, useRef, useState } from "react";
 import {
   Card,
@@ -48,7 +48,7 @@ const MAP_GROUP = new Map([
   ["0", "Vùng"],
   ["1", "Khu vực"],
   ["2", "Lô"],
-  ["3", "Lô + Hàng + Cây"],
+  ["3", "Cây"],
 ]);
 export default function FarmMap() {
   const today = new Date().toISOString().split("T")[0];
@@ -246,6 +246,25 @@ export default function FarmMap() {
                     layer.bindPopup(content);
                   }}
                 />
+                {data[key].features.map((feature: Feature) => {
+                  const { center, properties } = feature;
+                  if (!center) return null;
+
+                  const icon = L.divIcon({
+                    className: "text-label",
+                    html: `<div style="color: #fff;font-size:16px; font-weight: bold;">${
+                      properties?.name || ""
+                    }</div>`,
+                  });
+
+                  return (
+                    <Marker
+                      key={properties?.id}
+                      position={[center[1], center[0]]} // [lat, lng]
+                      icon={icon}
+                    />
+                  );
+                })}
               </Pane>
             )
         )}
